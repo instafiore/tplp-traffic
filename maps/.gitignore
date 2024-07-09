@@ -1,0 +1,3 @@
+sumo_log*.txt
+tripinfos.xml
+*_output.xml
