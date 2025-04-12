@@ -1,0 +1,7279 @@
+{
+    "step": 60,
+    "vehicles": {
+        "Costa_50_22": {
+            "departTime": 60,
+            "currentStreet": "[78[0]|56a]",
+            "routeIndex": 0
+        },
+        "Silvani_11_13": {
+            "departTime": 32,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Silvani_11_16": {
+            "departTime": 38,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Pepoli_11_15": {
+            "departTime": 26,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Silvani_7_21": {
+            "departTime": 50,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Vittorio_Veneto_3_7": {
+            "departTime": 33,
+            "currentStreet": "[181|18]",
+            "routeIndex": 2
+        },
+        "Togliatti_71_6": {
+            "departTime": 9,
+            "currentStreet": "209",
+            "routeIndex": 9
+        },
+        "Audinot_12_1": {
+            "departTime": 22,
+            "currentStreet": "35",
+            "routeIndex": 8
+        },
+        "Vittorio_Veneto_1_12": {
+            "departTime": 56,
+            "currentStreet": "224[0]",
+            "routeIndex": 0
+        },
+        "Pepoli_11_24": {
+            "departTime": 42,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Togliatti_10_35": {
+            "departTime": 57,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Turati_10_1": {
+            "departTime": 35,
+            "currentStreet": "153",
+            "routeIndex": 3
+        },
+        "Vittorio_Veneto_1_4": {
+            "departTime": 19,
+            "currentStreet": "[181|18]",
+            "routeIndex": 2
+        },
+        "Togliatti_10_10": {
+            "departTime": 17,
+            "currentStreet": "201",
+            "routeIndex": 10
+        },
+        "Silvani_11_1": {
+            "departTime": 3,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Pepoli_11_5": {
+            "departTime": 9,
+            "currentStreet": "204a[0]",
+            "routeIndex": 4
+        },
+        "XXI_Aprile_104_5": {
+            "departTime": 18,
+            "currentStreet": "m90",
+            "routeIndex": 7
+        },
+        "Pepoli_10_27": {
+            "departTime": 47,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Togliatti_10_33": {
+            "departTime": 55,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Togliatti_9_22": {
+            "departTime": 36,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Togliatti_71_25": {
+            "departTime": 39,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Togliatti_71_2": {
+            "departTime": 3,
+            "currentStreet": "72[0]",
+            "routeIndex": 1
+        },
+        "Togliatti_10_28": {
+            "departTime": 49,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Silvani_7_15": {
+            "departTime": 36,
+            "currentStreet": "203[1]",
+            "routeIndex": 1
+        },
+        "Pepoli_11_6": {
+            "departTime": 12,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Pepoli_10_34": {
+            "departTime": 59,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Silvani_11_9": {
+            "departTime": 22,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Silvani_7_7": {
+            "departTime": 17,
+            "currentStreet": "209",
+            "routeIndex": 5
+        },
+        "Pepoli_10_10": {
+            "departTime": 18,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Silvani_7_20": {
+            "departTime": 48,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "XXI_Aprile_7_15": {
+            "departTime": 54,
+            "currentStreet": "8",
+            "routeIndex": 0
+        },
+        "Costa_1_19": {
+            "departTime": 51,
+            "currentStreet": "[78[0]|56a]",
+            "routeIndex": 0
+        },
+        "Pepoli_10_31": {
+            "departTime": 54,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Pepoli_11_30": {
+            "departTime": 52,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Pepoli_10_18": {
+            "departTime": 31,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Silvani_7_5": {
+            "departTime": 12,
+            "currentStreet": "209",
+            "routeIndex": 5
+        },
+        "Vittorio_Veneto_2_6": {
+            "departTime": 28,
+            "currentStreet": "[181|18]",
+            "routeIndex": 2
+        },
+        "Pepoli_10_33": {
+            "departTime": 57,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Pepoli_10_22": {
+            "departTime": 38,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Vittorio_Veneto_1_13": {
+            "departTime": 60,
+            "currentStreet": "224[0]",
+            "routeIndex": 0
+        },
+        "Costa_700_16": {
+            "departTime": 43,
+            "currentStreet": "[78[0]|56a]",
+            "routeIndex": 0
+        },
+        "Togliatti_12_24": {
+            "departTime": 35,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Togliatti_9_13": {
+            "departTime": 22,
+            "currentStreet": "204a[0]",
+            "routeIndex": 8
+        },
+        "Costa_12_18": {
+            "departTime": 48,
+            "currentStreet": "[78[0]|56a]",
+            "routeIndex": 0
+        },
+        "Pepoli_11_17": {
+            "departTime": 30,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Costa_3_21": {
+            "departTime": 57,
+            "currentStreet": "[78[0]|56a]",
+            "routeIndex": 0
+        },
+        "XXI_Aprile_113_4": {
+            "departTime": 15,
+            "currentStreet": "[89[0]|20002+89[1][0]|89[1][1]]",
+            "routeIndex": 8
+        },
+        "XXI_Aprile_7_7": {
+            "departTime": 25,
+            "currentStreet": "58[0]",
+            "routeIndex": 9
+        },
+        "Togliatti_10_12": {
+            "departTime": 19,
+            "currentStreet": "72[0]",
+            "routeIndex": 1
+        },
+        "Togliatti_71_17": {
+            "departTime": 25,
+            "currentStreet": "72[0]",
+            "routeIndex": 1
+        },
+        "Togliatti_12_15": {
+            "departTime": 22,
+            "currentStreet": "180",
+            "routeIndex": 2
+        },
+        "Pepoli_11_7": {
+            "departTime": 14,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "XXI_Aprile_12_6": {
+            "departTime": 22,
+            "currentStreet": "[68|11]",
+            "routeIndex": 5
+        },
+        "XXI_Aprile_12_10": {
+            "departTime": 36,
+            "currentStreet": "79",
+            "routeIndex": 4
+        },
+        "Togliatti_10_7": {
+            "departTime": 11,
+            "currentStreet": "204a[0]",
+            "routeIndex": 8
+        },
+        "Costa_1_4": {
+            "departTime": 12,
+            "currentStreet": "86",
+            "routeIndex": 5
+        },
+        "Pepoli_8_16": {
+            "departTime": 28,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Pepoli_11_32": {
+            "departTime": 55,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Silvani_11_12": {
+            "departTime": 29,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Pepoli_3_0": {
+            "departTime": 0,
+            "currentStreet": "10",
+            "routeIndex": 12
+        },
+        "Togliatti_3_31": {
+            "departTime": 45,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Togliatti_72_5": {
+            "departTime": 8,
+            "currentStreet": "72[0]",
+            "routeIndex": 1
+        },
+        "Silvani_7_4": {
+            "departTime": 10,
+            "currentStreet": "209",
+            "routeIndex": 5
+        },
+        "Pepoli_11_8": {
+            "departTime": 17,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Pepoli_10_20": {
+            "departTime": 35,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Costa_12_0": {
+            "departTime": 0,
+            "currentStreet": "180",
+            "routeIndex": 6
+        },
+        "Pepoli_10_19": {
+            "departTime": 33,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Silvani_11_0": {
+            "departTime": 0,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "XXI_Aprile_7_13": {
+            "departTime": 47,
+            "currentStreet": "[13|104]",
+            "routeIndex": 1
+        },
+        "Togliatti_2_8": {
+            "departTime": 12,
+            "currentStreet": "67",
+            "routeIndex": 1
+        },
+        "Costa_12_3": {
+            "departTime": 9,
+            "currentStreet": "84",
+            "routeIndex": 5
+        },
+        "Silvani_7_19": {
+            "departTime": 45,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Togliatti_10_30": {
+            "departTime": 52,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Togliatti_2_40": {
+            "departTime": 58,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Costa_12_11": {
+            "departTime": 29,
+            "currentStreet": "191",
+            "routeIndex": 5
+        },
+        "Silvani_11_8": {
+            "departTime": 19,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Pepoli_11_9": {
+            "departTime": 20,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Togliatti_10_37": {
+            "departTime": 60,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Pepoli_3_2": {
+            "departTime": 4,
+            "currentStreet": "10",
+            "routeIndex": 12
+        },
+        "Pepoli_8_25": {
+            "departTime": 43,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "XXI_Aprile_9_14": {
+            "departTime": 50,
+            "currentStreet": "16",
+            "routeIndex": 1
+        },
+        "Costa_12_13": {
+            "departTime": 34,
+            "currentStreet": "79",
+            "routeIndex": 3
+        },
+        "Costa_1_2": {
+            "departTime": 7,
+            "currentStreet": "86",
+            "routeIndex": 5
+        },
+        "Silvani_11_24": {
+            "departTime": 57,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Costa_1_15": {
+            "departTime": 40,
+            "currentStreet": "[78[0]|56a]",
+            "routeIndex": 0
+        },
+        "XXI_Aprile_7_0": {
+            "departTime": 0,
+            "currentStreet": "209",
+            "routeIndex": 13
+        },
+        "XXI_Aprile_94_3": {
+            "departTime": 12,
+            "currentStreet": "201",
+            "routeIndex": 13
+        },
+        "XXI_Aprile_2_12": {
+            "departTime": 43,
+            "currentStreet": "[22|59]",
+            "routeIndex": 2
+        },
+        "Pepoli_3_12": {
+            "departTime": 21,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Costa_12_14": {
+            "departTime": 37,
+            "currentStreet": "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "routeIndex": 2
+        },
+        "Costa_50_8": {
+            "departTime": 22,
+            "currentStreet": "61",
+            "routeIndex": 10
+        },
+        "Pepoli_8_28": {
+            "departTime": 49,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Togliatti_3_39": {
+            "departTime": 56,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Silvani_7_18": {
+            "departTime": 43,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Costa_12_9": {
+            "departTime": 25,
+            "currentStreet": "[68|11]",
+            "routeIndex": 4
+        },
+        "Togliatti_9_21": {
+            "departTime": 34,
+            "currentStreet": "72[0]",
+            "routeIndex": 1
+        },
+        "Costa_12_7": {
+            "departTime": 19,
+            "currentStreet": "[68|11]",
+            "routeIndex": 4
+        },
+        "Costa_12_1": {
+            "departTime": 4,
+            "currentStreet": "[17|71]",
+            "routeIndex": 6
+        },
+        "Audinot_10_2": {
+            "departTime": 43,
+            "currentStreet": "131",
+            "routeIndex": 0
+        },
+        "Silvani_7_3": {
+            "departTime": 8,
+            "currentStreet": "209",
+            "routeIndex": 5
+        },
+        "XXI_Aprile_7_16": {
+            "departTime": 57,
+            "currentStreet": "8",
+            "routeIndex": 0
+        },
+        "XXI_Aprile_12_11": {
+            "departTime": 40,
+            "currentStreet": "[22|59]",
+            "routeIndex": 2
+        },
+        "Togliatti_3_18": {
+            "departTime": 26,
+            "currentStreet": "67",
+            "routeIndex": 1
+        },
+        "Turati_10_0": {
+            "departTime": 0,
+            "currentStreet": "204a[0]",
+            "routeIndex": 9
+        },
+        "Silvani_7_2": {
+            "departTime": 5,
+            "currentStreet": "209",
+            "routeIndex": 5
+        },
+        "Costa_1_17": {
+            "departTime": 45,
+            "currentStreet": "[78[0]|56a]",
+            "routeIndex": 0
+        },
+        "Togliatti_10_27": {
+            "departTime": 45,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Audinot_7_0": {
+            "departTime": 0,
+            "currentStreet": "209",
+            "routeIndex": 2
+        },
+        "Costa_50_20": {
+            "departTime": 54,
+            "currentStreet": "[78[0]|56a]",
+            "routeIndex": 0
+        },
+        "Pepoli_10_11": {
+            "departTime": 21,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Togliatti_10_20": {
+            "departTime": 30,
+            "currentStreet": "72[0]",
+            "routeIndex": 1
+        },
+        "XXI_Aprile_7_1": {
+            "departTime": 4,
+            "currentStreet": "209",
+            "routeIndex": 13
+        },
+        "Togliatti_71_3": {
+            "departTime": 6,
+            "currentStreet": "209",
+            "routeIndex": 9
+        },
+        "Silvani_7_22": {
+            "departTime": 52,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Togliatti_71_0": {
+            "departTime": 0,
+            "currentStreet": "209",
+            "routeIndex": 9
+        },
+        "Togliatti_10_9": {
+            "departTime": 14,
+            "currentStreet": "204a[0]",
+            "routeIndex": 8
+        },
+        "Pepoli_10_4": {
+            "departTime": 7,
+            "currentStreet": "204a[0]",
+            "routeIndex": 4
+        },
+        "Vittorio_Veneto_2_11": {
+            "departTime": 51,
+            "currentStreet": "224[0]",
+            "routeIndex": 0
+        },
+        "Pepoli_8_23": {
+            "departTime": 40,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Silvani_7_11": {
+            "departTime": 26,
+            "currentStreet": "[202|34]",
+            "routeIndex": 3
+        },
+        "Pepoli_11_29": {
+            "departTime": 50,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Togliatti_72_36": {
+            "departTime": 52,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Pepoli_11_3": {
+            "departTime": 6,
+            "currentStreet": "204a[0]",
+            "routeIndex": 4
+        },
+        "Silvani_11_17": {
+            "departTime": 41,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Costa_50_6": {
+            "departTime": 16,
+            "currentStreet": "61",
+            "routeIndex": 10
+        },
+        "Togliatti_80_26": {
+            "departTime": 43,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Silvani_7_10": {
+            "departTime": 24,
+            "currentStreet": "113",
+            "routeIndex": 4
+        },
+        "Silvani_3_6": {
+            "departTime": 15,
+            "currentStreet": "118",
+            "routeIndex": 5
+        },
+        "Togliatti_2_32": {
+            "departTime": 48,
+            "currentStreet": "85",
+            "routeIndex": 0
+        },
+        "Silvani_11_23": {
+            "departTime": 55,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Pepoli_3_14": {
+            "departTime": 25,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Vittorio_Veneto_2_1": {
+            "departTime": 5,
+            "currentStreet": "[181|18]",
+            "routeIndex": 2
+        },
+        "Vittorio_Veneto_1_10": {
+            "departTime": 46,
+            "currentStreet": "224[0]",
+            "routeIndex": 0
+        },
+        "XXI_Aprile_7_8": {
+            "departTime": 29,
+            "currentStreet": "41",
+            "routeIndex": 6
+        },
+        "Togliatti_71_19": {
+            "departTime": 28,
+            "currentStreet": "161",
+            "routeIndex": 4
+        },
+        "Pepoli_8_21": {
+            "departTime": 37,
+            "currentStreet": "[210|43[0]]",
+            "routeIndex": 0
+        },
+        "Silvani_3_25": {
+            "departTime": 60,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        },
+        "Silvani_11_14": {
+            "departTime": 35,
+            "currentStreet": "203[0]",
+            "routeIndex": 0
+        }
+    },
+    "routes": {
+        "Costa_50_22": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd)",
+            "82",
+            "51",
+            "219",
+            "218",
+            "36",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "[200|60]"
+        ],
+        "Silvani_11_13": [
+            "203[0]"
+        ],
+        "Silvani_11_16": [
+            "203[0]"
+        ],
+        "Pepoli_11_15": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Silvani_7_21": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Vittorio_Veneto_3_7": [
+            "224[0]",
+            "224[1]",
+            "[181|18]",
+            "[17|71]",
+            "67",
+            "[80|127]",
+            "(77[1][0]|77ab|77bc)",
+            "21a",
+            "21b",
+            "103",
+            "14"
+        ],
+        "Togliatti_71_6": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Audinot_12_1": [
+            "131",
+            "65",
+            "57[0]",
+            "57[1]",
+            "62",
+            "159",
+            "42",
+            "39",
+            "35",
+            "38",
+            "50",
+            "19",
+            "[22|59]",
+            "(53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "Vittorio_Veneto_1_12": [
+            "224[0]",
+            "224[1]",
+            "[181|18]",
+            "[17|71]",
+            "86"
+        ],
+        "Pepoli_11_24": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Togliatti_10_35": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Turati_10_1": [
+            "195",
+            "159",
+            "42",
+            "153",
+            "[87[0]|20001+87[1][0]|87[1][1]]",
+            "m90",
+            "171",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Vittorio_Veneto_1_4": [
+            "224[0]",
+            "224[1]",
+            "[181|18]",
+            "[17|71]",
+            "86"
+        ],
+        "Togliatti_10_10": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "194",
+            "91",
+            "186",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Silvani_11_1": [
+            "203[0]"
+        ],
+        "Pepoli_11_5": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "XXI_Aprile_104_5": [
+            "[13|104]",
+            "16",
+            "37",
+            "36",
+            "40",
+            "153",
+            "[87[0]|20001+87[1][0]|87[1][1]]",
+            "m90",
+            "171",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Pepoli_10_27": [
+            "[210|43[0]]",
+            "118",
+            "119",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Togliatti_10_33": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "194",
+            "91",
+            "186",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Togliatti_9_22": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "194",
+            "91",
+            "186",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "54"
+        ],
+        "Togliatti_71_25": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "194",
+            "91",
+            "186",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "120",
+            "117",
+            "209"
+        ],
+        "Togliatti_71_2": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Togliatti_10_28": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Silvani_7_15": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Pepoli_11_6": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "197",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Pepoli_10_34": [
+            "[210|43[0]]",
+            "118",
+            "119",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Silvani_11_9": [
+            "203[0]"
+        ],
+        "Silvani_7_7": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Pepoli_10_10": [
+            "[210|43[0]]",
+            "118",
+            "119",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Silvani_7_20": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "XXI_Aprile_7_15": [
+            "8",
+            "9",
+            "[211|45]",
+            "44",
+            "36",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "66",
+            "117",
+            "209"
+        ],
+        "Costa_1_19": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "86"
+        ],
+        "Pepoli_10_31": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "197",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Pepoli_11_30": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "197",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Pepoli_10_18": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Silvani_7_5": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Vittorio_Veneto_2_6": [
+            "224[0]",
+            "224[1]",
+            "[181|18]",
+            "[17|71]",
+            "67",
+            "[80|127]",
+            "(77[1][0])",
+            "77[1][1]"
+        ],
+        "Pepoli_10_33": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "57[0]",
+            "57[1]",
+            "62",
+            "159",
+            "42",
+            "153",
+            "[87[0]|20001+87[1][0]|87[1][1]]",
+            "m90",
+            "171",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Pepoli_10_22": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Vittorio_Veneto_1_13": [
+            "224[0]",
+            "224[1]",
+            "[181|18]",
+            "[17|71]",
+            "86"
+        ],
+        "Costa_700_16": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0])",
+            "78[1][1]",
+            "[189[0]|189[1][0]+20000|189[1][1]]",
+            "188",
+            "[87[0]|20001+87[1][0]|87[1][1]]",
+            "m90",
+            "[89[0]|20002+89[1][0]|89[1][1]]",
+            "91",
+            "186",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "120",
+            "117",
+            "209"
+        ],
+        "Togliatti_12_24": [
+            "85",
+            "84",
+            "180"
+        ],
+        "Togliatti_9_13": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "54"
+        ],
+        "Costa_12_18": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "Pepoli_11_17": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Costa_3_21": [
+            "[78[0]|56a]",
+            "m1",
+            "21b",
+            "103",
+            "14"
+        ],
+        "XXI_Aprile_113_4": [
+            "[13|104]",
+            "16",
+            "37",
+            "36",
+            "40",
+            "153",
+            "[87[0]|20001+87[1][0]|87[1][1]]",
+            "m90",
+            "[89[0]|20002+89[1][0]|89[1][1]]",
+            "91",
+            "186",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "XXI_Aprile_7_7": [
+            "8",
+            "9",
+            "[211|45]",
+            "44",
+            "36",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "66",
+            "117",
+            "209"
+        ],
+        "Togliatti_10_12": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "194",
+            "91",
+            "186",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Togliatti_71_17": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Togliatti_12_15": [
+            "85",
+            "84",
+            "180"
+        ],
+        "Pepoli_11_7": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "197",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "XXI_Aprile_12_6": [
+            "[13|104]",
+            "24",
+            "[22|59]",
+            "(53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "XXI_Aprile_12_10": [
+            "[13|104]",
+            "24",
+            "[22|59]",
+            "(53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "Togliatti_10_7": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Costa_1_4": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "86"
+        ],
+        "Pepoli_8_16": [
+            "[210|43[0]]",
+            "43[1]",
+            "134"
+        ],
+        "Pepoli_11_32": [
+            "[210|43[0]]",
+            "118",
+            "119",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Silvani_11_12": [
+            "203[0]"
+        ],
+        "Pepoli_3_0": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "57[0]",
+            "57[1]",
+            "62",
+            "159",
+            "42",
+            "39",
+            "35",
+            "38",
+            "33",
+            "10"
+        ],
+        "Togliatti_3_31": [
+            "85",
+            "67",
+            "[80|127]",
+            "(77[1][0]|77ab|77bc)",
+            "21a",
+            "21b",
+            "103",
+            "14"
+        ],
+        "Togliatti_72_5": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Silvani_7_4": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Pepoli_11_8": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "197",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Pepoli_10_20": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Costa_12_0": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "Pepoli_10_19": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Silvani_11_0": [
+            "203[0]"
+        ],
+        "XXI_Aprile_7_13": [
+            "8",
+            "[13|104]",
+            "24",
+            "[22|59]",
+            "(53cd|53[0]|53[1][0])",
+            "79",
+            "74",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Togliatti_2_8": [
+            "85",
+            "67",
+            "[80|127]",
+            "(77[1][0])",
+            "77[1][1]"
+        ],
+        "Costa_12_3": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "Silvani_7_19": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Togliatti_10_30": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Togliatti_2_40": [
+            "85",
+            "67",
+            "[80|127]",
+            "(77[1][0])",
+            "77[1][1]"
+        ],
+        "Costa_12_11": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0])",
+            "78[1][1]",
+            "[189[0]|189[1][0]+20000|189[1][1]]",
+            "191",
+            "[17|71]",
+            "84",
+            "180"
+        ],
+        "Silvani_11_8": [
+            "203[0]"
+        ],
+        "Pepoli_11_9": [
+            "[210|43[0]]",
+            "118",
+            "119",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Togliatti_10_37": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Pepoli_3_2": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "57[0]",
+            "57[1]",
+            "62",
+            "159",
+            "42",
+            "39",
+            "35",
+            "38",
+            "33",
+            "10"
+        ],
+        "Pepoli_8_25": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "197",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "134"
+        ],
+        "XXI_Aprile_9_14": [
+            "[13|104]",
+            "16",
+            "37",
+            "36",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "197",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "54"
+        ],
+        "Costa_12_13": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "Costa_1_2": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "86"
+        ],
+        "Silvani_11_24": [
+            "203[0]"
+        ],
+        "Costa_1_15": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "86"
+        ],
+        "XXI_Aprile_7_0": [
+            "8",
+            "9",
+            "[211|45]",
+            "44",
+            "36",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "66",
+            "117",
+            "209"
+        ],
+        "XXI_Aprile_94_3": [
+            "[13|104]",
+            "16",
+            "37",
+            "36",
+            "40",
+            "153",
+            "[87[0]|20001+87[1][0]|87[1][1]]",
+            "m90",
+            "[89[0]|20002+89[1][0]|89[1][1]]",
+            "91",
+            "186",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "54"
+        ],
+        "XXI_Aprile_2_12": [
+            "[13|104]",
+            "24",
+            "[22|59]",
+            "(53cd|53[0]|53[1][0]|53[1][1][0]|77[1][0])",
+            "77[1][1]"
+        ],
+        "Pepoli_3_12": [
+            "[210|43[0]]",
+            "43[1]",
+            "115",
+            "110",
+            "185",
+            "92",
+            "90",
+            "m91",
+            "97",
+            "42",
+            "39",
+            "35",
+            "38",
+            "33",
+            "10"
+        ],
+        "Costa_12_14": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "Costa_50_8": [
+            "[78[0]|56a]",
+            "m1",
+            "21b",
+            "20",
+            "219",
+            "218",
+            "36",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "[200|60]"
+        ],
+        "Pepoli_8_28": [
+            "[210|43[0]]",
+            "118",
+            "119",
+            "[116|46]",
+            "134"
+        ],
+        "Togliatti_3_39": [
+            "85",
+            "67",
+            "[80|127]",
+            "(77[1][0]|77ab|77bc)",
+            "21a",
+            "21b",
+            "103",
+            "14"
+        ],
+        "Silvani_7_18": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Costa_12_9": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "Togliatti_9_21": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "54"
+        ],
+        "Costa_12_7": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "84",
+            "180"
+        ],
+        "Costa_12_1": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0])",
+            "78[1][1]",
+            "[189[0]|189[1][0]+20000|189[1][1]]",
+            "191",
+            "[17|71]",
+            "84",
+            "180"
+        ],
+        "Audinot_10_2": [
+            "131",
+            "119",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Silvani_7_3": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "XXI_Aprile_7_16": [
+            "8",
+            "9",
+            "[211|45]",
+            "206",
+            "32",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "66",
+            "117",
+            "209"
+        ],
+        "XXI_Aprile_12_11": [
+            "[13|104]",
+            "24",
+            "[22|59]",
+            "(53cd|53[0])",
+            "78[1][1]",
+            "[189[0]|189[1][0]+20000|189[1][1]]",
+            "191",
+            "[17|71]",
+            "84",
+            "180"
+        ],
+        "Togliatti_3_18": [
+            "85",
+            "67",
+            "[80|127]",
+            "(77[1][0]|77ab|77bc)",
+            "21a",
+            "21b",
+            "103",
+            "14"
+        ],
+        "Turati_10_0": [
+            "195",
+            "61",
+            "58[0]",
+            "58[1]",
+            "66",
+            "119",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Silvani_7_2": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Costa_1_17": [
+            "[78[0]|56a]",
+            "56b",
+            "(77bc|77cd|53cd|53[0]|53[1][0])",
+            "79",
+            "[68|11]",
+            "86"
+        ],
+        "Togliatti_10_27": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "194",
+            "91",
+            "186",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Audinot_7_0": [
+            "131",
+            "117",
+            "209"
+        ],
+        "Costa_50_20": [
+            "[78[0]|56a]",
+            "m1",
+            "21b",
+            "20",
+            "219",
+            "218",
+            "36",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "[200|60]"
+        ],
+        "Pepoli_10_11": [
+            "[210|43[0]]",
+            "118",
+            "119",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Togliatti_10_20": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "XXI_Aprile_7_1": [
+            "8",
+            "9",
+            "[211|45]",
+            "206",
+            "32",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "66",
+            "117",
+            "209"
+        ],
+        "Togliatti_71_3": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Silvani_7_22": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Togliatti_71_0": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Togliatti_10_9": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "1b",
+            "1",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Pepoli_10_4": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "204b[0]",
+            "204[1][0]",
+            "204[1][1]"
+        ],
+        "Vittorio_Veneto_2_11": [
+            "224[0]",
+            "224[1]",
+            "[181|18]",
+            "[17|71]",
+            "67",
+            "[80|127]",
+            "(77[1][0])",
+            "77[1][1]"
+        ],
+        "Pepoli_8_23": [
+            "[210|43[0]]",
+            "118",
+            "119",
+            "[116|46]",
+            "134"
+        ],
+        "Silvani_7_11": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Pepoli_11_29": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "197",
+            "[109[0]|109[1][0]+20003|109[1][1]]",
+            "[116|46]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Togliatti_72_36": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Pepoli_11_3": [
+            "[210|43[0]]",
+            "43[1]",
+            "201",
+            "201c",
+            "204a[0]",
+            "124"
+        ],
+        "Silvani_11_17": [
+            "203[0]"
+        ],
+        "Costa_50_6": [
+            "[78[0]|56a]",
+            "m1",
+            "21b",
+            "20",
+            "219",
+            "218",
+            "36",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "[200|60]"
+        ],
+        "Togliatti_80_26": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "134"
+        ],
+        "Silvani_7_10": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Silvani_3_6": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "118",
+            "65",
+            "57[0]",
+            "57[1]",
+            "62",
+            "159",
+            "42",
+            "39",
+            "35",
+            "38",
+            "33",
+            "10"
+        ],
+        "Togliatti_2_32": [
+            "85",
+            "67",
+            "[80|127]",
+            "(77[1][0])",
+            "77[1][1]"
+        ],
+        "Silvani_11_23": [
+            "203[0]"
+        ],
+        "Pepoli_3_14": [
+            "[210|43[0]]",
+            "118",
+            "65",
+            "57[0]",
+            "57[1]",
+            "62",
+            "159",
+            "42",
+            "39",
+            "35",
+            "38",
+            "33",
+            "10"
+        ],
+        "Vittorio_Veneto_2_1": [
+            "224[0]",
+            "224[1]",
+            "[181|18]",
+            "[17|71]",
+            "67",
+            "[80|127]",
+            "(77[1][0])",
+            "77[1][1]"
+        ],
+        "Vittorio_Veneto_1_10": [
+            "224[0]",
+            "224[1]",
+            "[181|18]",
+            "[17|71]",
+            "86"
+        ],
+        "XXI_Aprile_7_8": [
+            "8",
+            "9",
+            "[211|45]",
+            "206",
+            "32",
+            "40",
+            "41",
+            "160",
+            "61",
+            "58[0]",
+            "58[1]",
+            "66",
+            "117",
+            "209"
+        ],
+        "Togliatti_71_19": [
+            "85",
+            "72[0]",
+            "72[1]",
+            "69",
+            "161",
+            "122",
+            "[3|2]",
+            "[202|34]",
+            "113",
+            "209"
+        ],
+        "Pepoli_8_21": [
+            "[210|43[0]]",
+            "43[1]",
+            "134"
+        ],
+        "Silvani_3_25": [
+            "203[0]",
+            "203[1]",
+            "203[1]b",
+            "[202|34]",
+            "113",
+            "118",
+            "65",
+            "57[0]",
+            "57[1]",
+            "62",
+            "159",
+            "42",
+            "39",
+            "35",
+            "38",
+            "33",
+            "10"
+        ],
+        "Silvani_11_14": [
+            "203[0]"
+        ]
+    },
+    "timedRoutes": {
+        "Pepoli_11_24": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                105
+            ],
+            [
+                "201",
+                105,
+                155
+            ],
+            [
+                "201c",
+                155,
+                195
+            ],
+            [
+                "204a[0]",
+                195,
+                245
+            ],
+            [
+                "124",
+                245,
+                295
+            ]
+        ],
+        "XXI_Aprile_113_4": [
+            [
+                "[89[0]|20002+89[1][0]|89[1][1]]",
+                0,
+                15
+            ],
+            [
+                "91",
+                15,
+                20
+            ],
+            [
+                "186",
+                20,
+                25
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                25,
+                35
+            ],
+            [
+                "[116|46]",
+                35,
+                80
+            ],
+            [
+                "201",
+                80,
+                130
+            ],
+            [
+                "201c",
+                130,
+                165
+            ],
+            [
+                "204a[0]",
+                165,
+                220
+            ],
+            [
+                "124",
+                220,
+                260
+            ]
+        ],
+        "Pepoli_8_21": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                115
+            ],
+            [
+                "134",
+                115,
+                130
+            ]
+        ],
+        "Togliatti_72_5": [
+            [
+                "72[0]",
+                0,
+                45
+            ],
+            [
+                "72[1]",
+                45,
+                80
+            ],
+            [
+                "69",
+                80,
+                125
+            ],
+            [
+                "161",
+                125,
+                145
+            ],
+            [
+                "122",
+                145,
+                165
+            ],
+            [
+                "[3|2]",
+                165,
+                200
+            ],
+            [
+                "[202|34]",
+                200,
+                250
+            ],
+            [
+                "113",
+                250,
+                290
+            ],
+            [
+                "209",
+                290,
+                325
+            ]
+        ],
+        "Togliatti_10_33": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                185
+            ],
+            [
+                "72[1]",
+                185,
+                225
+            ],
+            [
+                "69",
+                225,
+                270
+            ],
+            [
+                "161",
+                270,
+                290
+            ],
+            [
+                "194",
+                290,
+                305
+            ],
+            [
+                "91",
+                305,
+                310
+            ],
+            [
+                "186",
+                310,
+                325
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                325,
+                335
+            ],
+            [
+                "[116|46]",
+                335,
+                380
+            ],
+            [
+                "201",
+                380,
+                430
+            ],
+            [
+                "201c",
+                430,
+                465
+            ],
+            [
+                "204a[0]",
+                465,
+                515
+            ],
+            [
+                "204b[0]",
+                515,
+                520
+            ],
+            [
+                "204[1][0]",
+                520,
+                555
+            ],
+            [
+                "204[1][1]",
+                555,
+                590
+            ]
+        ],
+        "Pepoli_10_19": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                105
+            ],
+            [
+                "201",
+                105,
+                160
+            ],
+            [
+                "201c",
+                160,
+                195
+            ],
+            [
+                "204a[0]",
+                195,
+                245
+            ],
+            [
+                "204b[0]",
+                245,
+                250
+            ],
+            [
+                "204[1][0]",
+                250,
+                285
+            ],
+            [
+                "204[1][1]",
+                285,
+                320
+            ]
+        ],
+        "Audinot_10_2": [
+            [
+                "131",
+                0,
+                30
+            ],
+            [
+                "119",
+                30,
+                45
+            ],
+            [
+                "[116|46]",
+                45,
+                90
+            ],
+            [
+                "201",
+                90,
+                140
+            ],
+            [
+                "201c",
+                140,
+                180
+            ],
+            [
+                "204a[0]",
+                180,
+                230
+            ],
+            [
+                "204b[0]",
+                230,
+                240
+            ],
+            [
+                "204[1][0]",
+                240,
+                285
+            ],
+            [
+                "204[1][1]",
+                285,
+                320
+            ]
+        ],
+        "Pepoli_11_7": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                80
+            ],
+            [
+                "65",
+                80,
+                90
+            ],
+            [
+                "197",
+                90,
+                110
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                110,
+                120
+            ],
+            [
+                "[116|46]",
+                120,
+                165
+            ],
+            [
+                "201",
+                165,
+                215
+            ],
+            [
+                "201c",
+                215,
+                250
+            ],
+            [
+                "204a[0]",
+                250,
+                300
+            ],
+            [
+                "124",
+                300,
+                335
+            ]
+        ],
+        "Silvani_11_23": [
+            [
+                "203[0]",
+                0,
+                65
+            ]
+        ],
+        "Vittorio_Veneto_3_7": [
+            [
+                "[181|18]",
+                0,
+                40
+            ],
+            [
+                "[17|71]",
+                40,
+                90
+            ],
+            [
+                "67",
+                90,
+                100
+            ],
+            [
+                "[80|127]",
+                100,
+                115
+            ],
+            [
+                "(77[1][0]|77ab|77bc)",
+                115,
+                120
+            ],
+            [
+                "21a",
+                120,
+                125
+            ],
+            [
+                "21b",
+                125,
+                140
+            ],
+            [
+                "103",
+                140,
+                185
+            ],
+            [
+                "14",
+                185,
+                195
+            ]
+        ],
+        "Pepoli_11_9": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                85
+            ],
+            [
+                "119",
+                85,
+                100
+            ],
+            [
+                "[116|46]",
+                100,
+                145
+            ],
+            [
+                "201",
+                145,
+                210
+            ],
+            [
+                "201c",
+                210,
+                250
+            ],
+            [
+                "204a[0]",
+                250,
+                300
+            ],
+            [
+                "124",
+                300,
+                365
+            ]
+        ],
+        "Silvani_7_18": [
+            [
+                "203[0]",
+                0,
+                65
+            ],
+            [
+                "203[1]",
+                65,
+                150
+            ],
+            [
+                "203[1]b",
+                150,
+                185
+            ],
+            [
+                "[202|34]",
+                185,
+                235
+            ],
+            [
+                "113",
+                235,
+                275
+            ],
+            [
+                "209",
+                275,
+                310
+            ]
+        ],
+        "Vittorio_Veneto_2_1": [
+            [
+                "[181|18]",
+                0,
+                40
+            ],
+            [
+                "[17|71]",
+                40,
+                90
+            ],
+            [
+                "67",
+                90,
+                100
+            ],
+            [
+                "[80|127]",
+                100,
+                115
+            ],
+            [
+                "(77[1][0])",
+                115,
+                120
+            ],
+            [
+                "77[1][1]",
+                120,
+                160
+            ]
+        ],
+        "Pepoli_10_20": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                105
+            ],
+            [
+                "201",
+                105,
+                155
+            ],
+            [
+                "201c",
+                155,
+                190
+            ],
+            [
+                "204a[0]",
+                190,
+                240
+            ],
+            [
+                "204b[0]",
+                240,
+                245
+            ],
+            [
+                "204[1][0]",
+                245,
+                285
+            ],
+            [
+                "204[1][1]",
+                285,
+                320
+            ]
+        ],
+        "Costa_12_3": [
+            [
+                "84",
+                0,
+                20
+            ],
+            [
+                "180",
+                20,
+                55
+            ]
+        ],
+        "Togliatti_10_9": [
+            [
+                "204a[0]",
+                0,
+                50
+            ],
+            [
+                "204b[0]",
+                50,
+                55
+            ],
+            [
+                "204[1][0]",
+                55,
+                70
+            ],
+            [
+                "204[1][1]",
+                70,
+                105
+            ]
+        ],
+        "Togliatti_12_15": [
+            [
+                "180",
+                0,
+                30
+            ]
+        ],
+        "Audinot_12_1": [
+            [
+                "35",
+                0,
+                10
+            ],
+            [
+                "38",
+                10,
+                25
+            ],
+            [
+                "50",
+                25,
+                35
+            ],
+            [
+                "19",
+                35,
+                45
+            ],
+            [
+                "[22|59]",
+                45,
+                60
+            ],
+            [
+                "(53cd|53[0]|53[1][0])",
+                60,
+                70
+            ],
+            [
+                "79",
+                70,
+                85
+            ],
+            [
+                "[68|11]",
+                85,
+                125
+            ],
+            [
+                "84",
+                125,
+                140
+            ],
+            [
+                "180",
+                140,
+                165
+            ]
+        ],
+        "XXI_Aprile_94_3": [
+            [
+                "201",
+                0,
+                50
+            ],
+            [
+                "201c",
+                50,
+                85
+            ],
+            [
+                "204a[0]",
+                85,
+                135
+            ],
+            [
+                "204b[0]",
+                135,
+                140
+            ],
+            [
+                "54",
+                140,
+                165
+            ]
+        ],
+        "Silvani_7_21": [
+            [
+                "203[0]",
+                0,
+                65
+            ],
+            [
+                "203[1]",
+                65,
+                115
+            ],
+            [
+                "203[1]b",
+                115,
+                185
+            ],
+            [
+                "[202|34]",
+                185,
+                235
+            ],
+            [
+                "113",
+                235,
+                275
+            ],
+            [
+                "209",
+                275,
+                310
+            ]
+        ],
+        "Pepoli_11_8": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                80
+            ],
+            [
+                "65",
+                80,
+                90
+            ],
+            [
+                "197",
+                90,
+                110
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                110,
+                120
+            ],
+            [
+                "[116|46]",
+                120,
+                165
+            ],
+            [
+                "201",
+                165,
+                215
+            ],
+            [
+                "201c",
+                215,
+                250
+            ],
+            [
+                "204a[0]",
+                250,
+                300
+            ],
+            [
+                "124",
+                300,
+                355
+            ]
+        ],
+        "XXI_Aprile_7_16": [
+            [
+                "8",
+                0,
+                10
+            ],
+            [
+                "9",
+                10,
+                20
+            ],
+            [
+                "[211|45]",
+                20,
+                35
+            ],
+            [
+                "206",
+                35,
+                45
+            ],
+            [
+                "32",
+                45,
+                60
+            ],
+            [
+                "40",
+                60,
+                65
+            ],
+            [
+                "41",
+                65,
+                70
+            ],
+            [
+                "160",
+                70,
+                90
+            ],
+            [
+                "61",
+                90,
+                110
+            ],
+            [
+                "58[0]",
+                110,
+                115
+            ],
+            [
+                "58[1]",
+                115,
+                130
+            ],
+            [
+                "66",
+                130,
+                140
+            ],
+            [
+                "117",
+                140,
+                185
+            ],
+            [
+                "209",
+                185,
+                220
+            ]
+        ],
+        "Turati_10_1": [
+            [
+                "153",
+                0,
+                65
+            ],
+            [
+                "[87[0]|20001+87[1][0]|87[1][1]]",
+                65,
+                70
+            ],
+            [
+                "m90",
+                70,
+                75
+            ],
+            [
+                "171",
+                75,
+                120
+            ],
+            [
+                "161",
+                120,
+                140
+            ],
+            [
+                "122",
+                140,
+                160
+            ],
+            [
+                "1b",
+                160,
+                195
+            ],
+            [
+                "1",
+                195,
+                230
+            ],
+            [
+                "204a[0]",
+                230,
+                295
+            ],
+            [
+                "204b[0]",
+                295,
+                300
+            ],
+            [
+                "204[1][0]",
+                300,
+                335
+            ],
+            [
+                "204[1][1]",
+                335,
+                370
+            ]
+        ],
+        "Togliatti_80_26": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                105
+            ],
+            [
+                "72[1]",
+                105,
+                140
+            ],
+            [
+                "69",
+                140,
+                185
+            ],
+            [
+                "161",
+                185,
+                205
+            ],
+            [
+                "122",
+                205,
+                225
+            ],
+            [
+                "[3|2]",
+                225,
+                260
+            ],
+            [
+                "[202|34]",
+                260,
+                310
+            ],
+            [
+                "134",
+                310,
+                315
+            ]
+        ],
+        "Costa_50_6": [
+            [
+                "61",
+                0,
+                20
+            ],
+            [
+                "58[0]",
+                20,
+                25
+            ],
+            [
+                "58[1]",
+                25,
+                40
+            ],
+            [
+                "[200|60]",
+                40,
+                65
+            ]
+        ],
+        "Pepoli_8_23": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                85
+            ],
+            [
+                "119",
+                85,
+                100
+            ],
+            [
+                "[116|46]",
+                100,
+                145
+            ],
+            [
+                "134",
+                145,
+                165
+            ]
+        ],
+        "Vittorio_Veneto_1_4": [
+            [
+                "[181|18]",
+                0,
+                40
+            ],
+            [
+                "[17|71]",
+                40,
+                90
+            ],
+            [
+                "86",
+                90,
+                120
+            ]
+        ],
+        "Togliatti_71_19": [
+            [
+                "161",
+                0,
+                20
+            ],
+            [
+                "122",
+                20,
+                40
+            ],
+            [
+                "[3|2]",
+                40,
+                75
+            ],
+            [
+                "[202|34]",
+                75,
+                125
+            ],
+            [
+                "113",
+                125,
+                165
+            ],
+            [
+                "209",
+                165,
+                200
+            ]
+        ],
+        "Pepoli_8_25": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                85
+            ],
+            [
+                "65",
+                85,
+                100
+            ],
+            [
+                "197",
+                100,
+                120
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                120,
+                130
+            ],
+            [
+                "[116|46]",
+                130,
+                175
+            ],
+            [
+                "134",
+                175,
+                185
+            ]
+        ],
+        "XXI_Aprile_7_15": [
+            [
+                "8",
+                0,
+                10
+            ],
+            [
+                "9",
+                10,
+                20
+            ],
+            [
+                "[211|45]",
+                20,
+                35
+            ],
+            [
+                "44",
+                35,
+                50
+            ],
+            [
+                "36",
+                50,
+                60
+            ],
+            [
+                "40",
+                60,
+                65
+            ],
+            [
+                "41",
+                65,
+                70
+            ],
+            [
+                "160",
+                70,
+                90
+            ],
+            [
+                "61",
+                90,
+                110
+            ],
+            [
+                "58[0]",
+                110,
+                115
+            ],
+            [
+                "58[1]",
+                115,
+                130
+            ],
+            [
+                "66",
+                130,
+                140
+            ],
+            [
+                "117",
+                140,
+                185
+            ],
+            [
+                "209",
+                185,
+                220
+            ]
+        ],
+        "Togliatti_2_32": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "67",
+                60,
+                70
+            ],
+            [
+                "[80|127]",
+                70,
+                85
+            ],
+            [
+                "(77[1][0])",
+                85,
+                90
+            ],
+            [
+                "77[1][1]",
+                90,
+                130
+            ]
+        ],
+        "Togliatti_71_25": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                130
+            ],
+            [
+                "72[1]",
+                130,
+                185
+            ],
+            [
+                "69",
+                185,
+                230
+            ],
+            [
+                "161",
+                230,
+                250
+            ],
+            [
+                "194",
+                250,
+                265
+            ],
+            [
+                "91",
+                265,
+                270
+            ],
+            [
+                "186",
+                270,
+                275
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                275,
+                285
+            ],
+            [
+                "120",
+                285,
+                300
+            ],
+            [
+                "117",
+                300,
+                350
+            ],
+            [
+                "209",
+                350,
+                385
+            ]
+        ],
+        "Togliatti_10_7": [
+            [
+                "204a[0]",
+                0,
+                50
+            ],
+            [
+                "204b[0]",
+                50,
+                55
+            ],
+            [
+                "204[1][0]",
+                55,
+                70
+            ],
+            [
+                "204[1][1]",
+                70,
+                105
+            ]
+        ],
+        "Costa_12_13": [
+            [
+                "79",
+                0,
+                15
+            ],
+            [
+                "[68|11]",
+                15,
+                55
+            ],
+            [
+                "84",
+                55,
+                70
+            ],
+            [
+                "180",
+                70,
+                90
+            ]
+        ],
+        "Pepoli_11_29": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                80
+            ],
+            [
+                "65",
+                80,
+                100
+            ],
+            [
+                "197",
+                100,
+                120
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                120,
+                130
+            ],
+            [
+                "[116|46]",
+                130,
+                190
+            ],
+            [
+                "201",
+                190,
+                265
+            ],
+            [
+                "201c",
+                265,
+                305
+            ],
+            [
+                "204a[0]",
+                305,
+                370
+            ],
+            [
+                "124",
+                370,
+                435
+            ]
+        ],
+        "Costa_50_8": [
+            [
+                "61",
+                0,
+                20
+            ],
+            [
+                "58[0]",
+                20,
+                25
+            ],
+            [
+                "58[1]",
+                25,
+                40
+            ],
+            [
+                "[200|60]",
+                40,
+                65
+            ]
+        ],
+        "Pepoli_10_34": [
+            [
+                "[210|43[0]]",
+                0,
+                105
+            ],
+            [
+                "118",
+                105,
+                125
+            ],
+            [
+                "119",
+                125,
+                140
+            ],
+            [
+                "[116|46]",
+                140,
+                190
+            ],
+            [
+                "201",
+                190,
+                255
+            ],
+            [
+                "201c",
+                255,
+                305
+            ],
+            [
+                "204a[0]",
+                305,
+                385
+            ],
+            [
+                "204b[0]",
+                385,
+                395
+            ],
+            [
+                "204[1][0]",
+                395,
+                430
+            ],
+            [
+                "204[1][1]",
+                430,
+                465
+            ]
+        ],
+        "Togliatti_2_8": [
+            [
+                "67",
+                0,
+                10
+            ],
+            [
+                "[80|127]",
+                10,
+                25
+            ],
+            [
+                "(77[1][0])",
+                25,
+                30
+            ],
+            [
+                "77[1][1]",
+                30,
+                70
+            ]
+        ],
+        "Silvani_3_6": [
+            [
+                "118",
+                0,
+                15
+            ],
+            [
+                "65",
+                15,
+                25
+            ],
+            [
+                "57[0]",
+                25,
+                40
+            ],
+            [
+                "57[1]",
+                40,
+                45
+            ],
+            [
+                "62",
+                45,
+                65
+            ],
+            [
+                "159",
+                65,
+                85
+            ],
+            [
+                "42",
+                85,
+                90
+            ],
+            [
+                "39",
+                90,
+                95
+            ],
+            [
+                "35",
+                95,
+                105
+            ],
+            [
+                "38",
+                105,
+                120
+            ],
+            [
+                "33",
+                120,
+                130
+            ],
+            [
+                "10",
+                130,
+                140
+            ]
+        ],
+        "Costa_50_20": [
+            [
+                "[78[0]|56a]",
+                0,
+                35
+            ],
+            [
+                "m1",
+                35,
+                40
+            ],
+            [
+                "21b",
+                40,
+                55
+            ],
+            [
+                "20",
+                55,
+                65
+            ],
+            [
+                "219",
+                65,
+                75
+            ],
+            [
+                "218",
+                75,
+                85
+            ],
+            [
+                "36",
+                85,
+                95
+            ],
+            [
+                "40",
+                95,
+                100
+            ],
+            [
+                "41",
+                100,
+                105
+            ],
+            [
+                "160",
+                105,
+                125
+            ],
+            [
+                "61",
+                125,
+                145
+            ],
+            [
+                "58[0]",
+                145,
+                150
+            ],
+            [
+                "58[1]",
+                150,
+                165
+            ],
+            [
+                "[200|60]",
+                165,
+                190
+            ]
+        ],
+        "Pepoli_10_31": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                85
+            ],
+            [
+                "65",
+                85,
+                100
+            ],
+            [
+                "197",
+                100,
+                120
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                120,
+                130
+            ],
+            [
+                "[116|46]",
+                130,
+                190
+            ],
+            [
+                "201",
+                190,
+                265
+            ],
+            [
+                "201c",
+                265,
+                305
+            ],
+            [
+                "204a[0]",
+                305,
+                385
+            ],
+            [
+                "204b[0]",
+                385,
+                405
+            ],
+            [
+                "204[1][0]",
+                405,
+                450
+            ],
+            [
+                "204[1][1]",
+                450,
+                485
+            ]
+        ],
+        "Togliatti_71_17": [
+            [
+                "72[0]",
+                0,
+                45
+            ],
+            [
+                "72[1]",
+                45,
+                80
+            ],
+            [
+                "69",
+                80,
+                125
+            ],
+            [
+                "161",
+                125,
+                145
+            ],
+            [
+                "122",
+                145,
+                165
+            ],
+            [
+                "[3|2]",
+                165,
+                200
+            ],
+            [
+                "[202|34]",
+                200,
+                250
+            ],
+            [
+                "113",
+                250,
+                290
+            ],
+            [
+                "209",
+                290,
+                325
+            ]
+        ],
+        "Pepoli_8_16": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                105
+            ],
+            [
+                "134",
+                105,
+                115
+            ]
+        ],
+        "Costa_1_15": [
+            [
+                "[78[0]|56a]",
+                0,
+                45
+            ],
+            [
+                "56b",
+                45,
+                75
+            ],
+            [
+                "(77bc|77cd|53cd|53[0]|53[1][0])",
+                75,
+                100
+            ],
+            [
+                "79",
+                100,
+                115
+            ],
+            [
+                "[68|11]",
+                115,
+                155
+            ],
+            [
+                "86",
+                155,
+                185
+            ]
+        ],
+        "Pepoli_11_6": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                80
+            ],
+            [
+                "65",
+                80,
+                90
+            ],
+            [
+                "197",
+                90,
+                110
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                110,
+                120
+            ],
+            [
+                "[116|46]",
+                120,
+                165
+            ],
+            [
+                "201",
+                165,
+                215
+            ],
+            [
+                "201c",
+                215,
+                250
+            ],
+            [
+                "204a[0]",
+                250,
+                300
+            ],
+            [
+                "124",
+                300,
+                350
+            ]
+        ],
+        "Silvani_7_15": [
+            [
+                "203[1]",
+                0,
+                50
+            ],
+            [
+                "203[1]b",
+                50,
+                85
+            ],
+            [
+                "[202|34]",
+                85,
+                135
+            ],
+            [
+                "113",
+                135,
+                175
+            ],
+            [
+                "209",
+                175,
+                210
+            ]
+        ],
+        "Costa_12_1": [
+            [
+                "[17|71]",
+                0,
+                55
+            ],
+            [
+                "84",
+                55,
+                70
+            ],
+            [
+                "180",
+                70,
+                90
+            ]
+        ],
+        "Silvani_7_19": [
+            [
+                "203[0]",
+                0,
+                65
+            ],
+            [
+                "203[1]",
+                65,
+                150
+            ],
+            [
+                "203[1]b",
+                150,
+                185
+            ],
+            [
+                "[202|34]",
+                185,
+                235
+            ],
+            [
+                "113",
+                235,
+                275
+            ],
+            [
+                "209",
+                275,
+                310
+            ]
+        ],
+        "Pepoli_10_18": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                105
+            ],
+            [
+                "201",
+                105,
+                160
+            ],
+            [
+                "201c",
+                160,
+                195
+            ],
+            [
+                "204a[0]",
+                195,
+                245
+            ],
+            [
+                "204b[0]",
+                245,
+                250
+            ],
+            [
+                "204[1][0]",
+                250,
+                285
+            ],
+            [
+                "204[1][1]",
+                285,
+                320
+            ]
+        ],
+        "Silvani_7_22": [
+            [
+                "203[0]",
+                0,
+                65
+            ],
+            [
+                "203[1]",
+                65,
+                115
+            ],
+            [
+                "203[1]b",
+                115,
+                150
+            ],
+            [
+                "[202|34]",
+                150,
+                200
+            ],
+            [
+                "113",
+                200,
+                240
+            ],
+            [
+                "209",
+                240,
+                275
+            ]
+        ],
+        "Costa_12_11": [
+            [
+                "191",
+                0,
+                45
+            ],
+            [
+                "[17|71]",
+                45,
+                95
+            ],
+            [
+                "84",
+                95,
+                110
+            ],
+            [
+                "180",
+                110,
+                130
+            ]
+        ],
+        "Togliatti_10_28": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                105
+            ],
+            [
+                "72[1]",
+                105,
+                140
+            ],
+            [
+                "69",
+                140,
+                185
+            ],
+            [
+                "161",
+                185,
+                205
+            ],
+            [
+                "122",
+                205,
+                225
+            ],
+            [
+                "1b",
+                225,
+                265
+            ],
+            [
+                "1",
+                265,
+                305
+            ],
+            [
+                "204a[0]",
+                305,
+                355
+            ],
+            [
+                "204b[0]",
+                355,
+                360
+            ],
+            [
+                "204[1][0]",
+                360,
+                395
+            ],
+            [
+                "204[1][1]",
+                395,
+                430
+            ]
+        ],
+        "Costa_700_16": [
+            [
+                "[78[0]|56a]",
+                0,
+                45
+            ],
+            [
+                "56b",
+                45,
+                55
+            ],
+            [
+                "(77bc|77cd|53cd|53[0])",
+                55,
+                70
+            ],
+            [
+                "78[1][1]",
+                70,
+                80
+            ],
+            [
+                "[189[0]|189[1][0]+20000|189[1][1]]",
+                80,
+                130
+            ],
+            [
+                "188",
+                130,
+                170
+            ],
+            [
+                "[87[0]|20001+87[1][0]|87[1][1]]",
+                170,
+                175
+            ],
+            [
+                "m90",
+                175,
+                180
+            ],
+            [
+                "[89[0]|20002+89[1][0]|89[1][1]]",
+                180,
+                195
+            ],
+            [
+                "91",
+                195,
+                200
+            ],
+            [
+                "186",
+                200,
+                205
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                205,
+                215
+            ],
+            [
+                "120",
+                215,
+                230
+            ],
+            [
+                "117",
+                230,
+                275
+            ],
+            [
+                "209",
+                275,
+                310
+            ]
+        ],
+        "Togliatti_9_13": [
+            [
+                "204a[0]",
+                0,
+                50
+            ],
+            [
+                "204b[0]",
+                50,
+                55
+            ],
+            [
+                "54",
+                55,
+                80
+            ]
+        ],
+        "Costa_1_4": [
+            [
+                "86",
+                0,
+                30
+            ]
+        ],
+        "Togliatti_10_12": [
+            [
+                "72[0]",
+                0,
+                45
+            ],
+            [
+                "72[1]",
+                45,
+                125
+            ],
+            [
+                "69",
+                125,
+                170
+            ],
+            [
+                "161",
+                170,
+                190
+            ],
+            [
+                "194",
+                190,
+                205
+            ],
+            [
+                "91",
+                205,
+                210
+            ],
+            [
+                "186",
+                210,
+                215
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                215,
+                225
+            ],
+            [
+                "[116|46]",
+                225,
+                270
+            ],
+            [
+                "201",
+                270,
+                320
+            ],
+            [
+                "201c",
+                320,
+                355
+            ],
+            [
+                "204a[0]",
+                355,
+                405
+            ],
+            [
+                "204b[0]",
+                405,
+                410
+            ],
+            [
+                "204[1][0]",
+                410,
+                415
+            ],
+            [
+                "204[1][1]",
+                415,
+                450
+            ]
+        ],
+        "Togliatti_9_22": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                140
+            ],
+            [
+                "72[1]",
+                140,
+                185
+            ],
+            [
+                "69",
+                185,
+                230
+            ],
+            [
+                "161",
+                230,
+                250
+            ],
+            [
+                "194",
+                250,
+                265
+            ],
+            [
+                "91",
+                265,
+                270
+            ],
+            [
+                "186",
+                270,
+                275
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                275,
+                285
+            ],
+            [
+                "[116|46]",
+                285,
+                330
+            ],
+            [
+                "201",
+                330,
+                380
+            ],
+            [
+                "201c",
+                380,
+                415
+            ],
+            [
+                "204a[0]",
+                415,
+                465
+            ],
+            [
+                "204b[0]",
+                465,
+                470
+            ],
+            [
+                "54",
+                470,
+                495
+            ]
+        ],
+        "Pepoli_10_10": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                80
+            ],
+            [
+                "119",
+                80,
+                95
+            ],
+            [
+                "[116|46]",
+                95,
+                140
+            ],
+            [
+                "201",
+                140,
+                210
+            ],
+            [
+                "201c",
+                210,
+                250
+            ],
+            [
+                "204a[0]",
+                250,
+                300
+            ],
+            [
+                "204b[0]",
+                300,
+                305
+            ],
+            [
+                "204[1][0]",
+                305,
+                340
+            ],
+            [
+                "204[1][1]",
+                340,
+                375
+            ]
+        ],
+        "XXI_Aprile_2_12": [
+            [
+                "[22|59]",
+                0,
+                15
+            ],
+            [
+                "(53cd|53[0]|53[1][0]|53[1][1][0]|77[1][0])",
+                15,
+                20
+            ],
+            [
+                "77[1][1]",
+                20,
+                60
+            ]
+        ],
+        "Togliatti_10_30": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                105
+            ],
+            [
+                "72[1]",
+                105,
+                140
+            ],
+            [
+                "69",
+                140,
+                185
+            ],
+            [
+                "161",
+                185,
+                205
+            ],
+            [
+                "122",
+                205,
+                225
+            ],
+            [
+                "1b",
+                225,
+                265
+            ],
+            [
+                "1",
+                265,
+                305
+            ],
+            [
+                "204a[0]",
+                305,
+                355
+            ],
+            [
+                "204b[0]",
+                355,
+                360
+            ],
+            [
+                "204[1][0]",
+                360,
+                395
+            ],
+            [
+                "204[1][1]",
+                395,
+                430
+            ]
+        ],
+        "Togliatti_12_24": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "84",
+                60,
+                75
+            ],
+            [
+                "180",
+                75,
+                95
+            ]
+        ],
+        "Togliatti_10_35": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                140
+            ],
+            [
+                "72[1]",
+                140,
+                185
+            ],
+            [
+                "69",
+                185,
+                230
+            ],
+            [
+                "161",
+                230,
+                250
+            ],
+            [
+                "122",
+                250,
+                270
+            ],
+            [
+                "1b",
+                270,
+                305
+            ],
+            [
+                "1",
+                305,
+                355
+            ],
+            [
+                "204a[0]",
+                355,
+                405
+            ],
+            [
+                "204b[0]",
+                405,
+                415
+            ],
+            [
+                "204[1][0]",
+                415,
+                450
+            ],
+            [
+                "204[1][1]",
+                450,
+                485
+            ]
+        ],
+        "Togliatti_71_2": [
+            [
+                "72[0]",
+                0,
+                45
+            ],
+            [
+                "72[1]",
+                45,
+                80
+            ],
+            [
+                "69",
+                80,
+                125
+            ],
+            [
+                "161",
+                125,
+                145
+            ],
+            [
+                "122",
+                145,
+                165
+            ],
+            [
+                "[3|2]",
+                165,
+                200
+            ],
+            [
+                "[202|34]",
+                200,
+                250
+            ],
+            [
+                "113",
+                250,
+                290
+            ],
+            [
+                "209",
+                290,
+                325
+            ]
+        ],
+        "Pepoli_11_15": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                105
+            ],
+            [
+                "201",
+                105,
+                170
+            ],
+            [
+                "201c",
+                170,
+                210
+            ],
+            [
+                "204a[0]",
+                210,
+                270
+            ],
+            [
+                "124",
+                270,
+                320
+            ]
+        ],
+        "XXI_Aprile_7_13": [
+            [
+                "[13|104]",
+                0,
+                40
+            ],
+            [
+                "24",
+                40,
+                55
+            ],
+            [
+                "[22|59]",
+                55,
+                70
+            ],
+            [
+                "(53cd|53[0]|53[1][0])",
+                70,
+                90
+            ],
+            [
+                "79",
+                90,
+                105
+            ],
+            [
+                "74",
+                105,
+                175
+            ],
+            [
+                "72[1]",
+                175,
+                220
+            ],
+            [
+                "69",
+                220,
+                265
+            ],
+            [
+                "161",
+                265,
+                285
+            ],
+            [
+                "122",
+                285,
+                305
+            ],
+            [
+                "[3|2]",
+                305,
+                340
+            ],
+            [
+                "[202|34]",
+                340,
+                390
+            ],
+            [
+                "113",
+                390,
+                430
+            ],
+            [
+                "209",
+                430,
+                465
+            ]
+        ],
+        "Pepoli_11_30": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                80
+            ],
+            [
+                "65",
+                80,
+                100
+            ],
+            [
+                "197",
+                100,
+                120
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                120,
+                130
+            ],
+            [
+                "[116|46]",
+                130,
+                190
+            ],
+            [
+                "201",
+                190,
+                270
+            ],
+            [
+                "201c",
+                270,
+                305
+            ],
+            [
+                "204a[0]",
+                305,
+                370
+            ],
+            [
+                "124",
+                370,
+                430
+            ]
+        ],
+        "Silvani_11_17": [
+            [
+                "203[0]",
+                0,
+                65
+            ]
+        ],
+        "Vittorio_Veneto_2_6": [
+            [
+                "[181|18]",
+                0,
+                40
+            ],
+            [
+                "[17|71]",
+                40,
+                90
+            ],
+            [
+                "67",
+                90,
+                100
+            ],
+            [
+                "[80|127]",
+                100,
+                115
+            ],
+            [
+                "(77[1][0])",
+                115,
+                120
+            ],
+            [
+                "77[1][1]",
+                120,
+                160
+            ]
+        ],
+        "XXI_Aprile_104_5": [
+            [
+                "m90",
+                0,
+                5
+            ],
+            [
+                "171",
+                5,
+                50
+            ],
+            [
+                "161",
+                50,
+                70
+            ],
+            [
+                "122",
+                70,
+                90
+            ],
+            [
+                "1b",
+                90,
+                125
+            ],
+            [
+                "1",
+                125,
+                160
+            ],
+            [
+                "204a[0]",
+                160,
+                225
+            ],
+            [
+                "204b[0]",
+                225,
+                230
+            ],
+            [
+                "204[1][0]",
+                230,
+                265
+            ],
+            [
+                "204[1][1]",
+                265,
+                300
+            ]
+        ],
+        "Costa_3_21": [
+            [
+                "[78[0]|56a]",
+                0,
+                35
+            ],
+            [
+                "m1",
+                35,
+                40
+            ],
+            [
+                "21b",
+                40,
+                60
+            ],
+            [
+                "103",
+                60,
+                105
+            ],
+            [
+                "14",
+                105,
+                115
+            ]
+        ],
+        "Pepoli_8_28": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                80
+            ],
+            [
+                "119",
+                80,
+                95
+            ],
+            [
+                "[116|46]",
+                95,
+                140
+            ],
+            [
+                "134",
+                140,
+                145
+            ]
+        ],
+        "Pepoli_10_33": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                100
+            ],
+            [
+                "65",
+                100,
+                110
+            ],
+            [
+                "57[0]",
+                110,
+                125
+            ],
+            [
+                "57[1]",
+                125,
+                130
+            ],
+            [
+                "62",
+                130,
+                150
+            ],
+            [
+                "159",
+                150,
+                170
+            ],
+            [
+                "42",
+                170,
+                175
+            ],
+            [
+                "153",
+                175,
+                240
+            ],
+            [
+                "[87[0]|20001+87[1][0]|87[1][1]]",
+                240,
+                250
+            ],
+            [
+                "m90",
+                250,
+                255
+            ],
+            [
+                "171",
+                255,
+                300
+            ],
+            [
+                "161",
+                300,
+                320
+            ],
+            [
+                "122",
+                320,
+                345
+            ],
+            [
+                "1b",
+                345,
+                380
+            ],
+            [
+                "1",
+                380,
+                415
+            ],
+            [
+                "204a[0]",
+                415,
+                465
+            ],
+            [
+                "204b[0]",
+                465,
+                470
+            ],
+            [
+                "204[1][0]",
+                470,
+                505
+            ],
+            [
+                "204[1][1]",
+                505,
+                540
+            ]
+        ],
+        "Pepoli_10_4": [
+            [
+                "204a[0]",
+                0,
+                50
+            ],
+            [
+                "204b[0]",
+                50,
+                55
+            ],
+            [
+                "204[1][0]",
+                55,
+                90
+            ],
+            [
+                "204[1][1]",
+                90,
+                125
+            ]
+        ],
+        "Vittorio_Veneto_1_10": [
+            [
+                "224[0]",
+                0,
+                25
+            ],
+            [
+                "224[1]",
+                25,
+                40
+            ],
+            [
+                "[181|18]",
+                40,
+                80
+            ],
+            [
+                "[17|71]",
+                80,
+                130
+            ],
+            [
+                "86",
+                130,
+                160
+            ]
+        ],
+        "Costa_12_7": [
+            [
+                "[68|11]",
+                0,
+                40
+            ],
+            [
+                "84",
+                40,
+                60
+            ],
+            [
+                "180",
+                60,
+                110
+            ]
+        ],
+        "Pepoli_10_22": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                105
+            ],
+            [
+                "201",
+                105,
+                155
+            ],
+            [
+                "201c",
+                155,
+                190
+            ],
+            [
+                "204a[0]",
+                190,
+                240
+            ],
+            [
+                "204b[0]",
+                240,
+                245
+            ],
+            [
+                "204[1][0]",
+                245,
+                285
+            ],
+            [
+                "204[1][1]",
+                285,
+                320
+            ]
+        ],
+        "XXI_Aprile_12_11": [
+            [
+                "[22|59]",
+                0,
+                15
+            ],
+            [
+                "(53cd|53[0])",
+                15,
+                20
+            ],
+            [
+                "78[1][1]",
+                20,
+                30
+            ],
+            [
+                "[189[0]|189[1][0]+20000|189[1][1]]",
+                30,
+                80
+            ],
+            [
+                "191",
+                80,
+                125
+            ],
+            [
+                "[17|71]",
+                125,
+                180
+            ],
+            [
+                "84",
+                180,
+                195
+            ],
+            [
+                "180",
+                195,
+                215
+            ]
+        ],
+        "Togliatti_2_40": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "67",
+                60,
+                70
+            ],
+            [
+                "[80|127]",
+                70,
+                85
+            ],
+            [
+                "(77[1][0])",
+                85,
+                90
+            ],
+            [
+                "77[1][1]",
+                90,
+                130
+            ]
+        ],
+        "Silvani_7_20": [
+            [
+                "203[0]",
+                0,
+                65
+            ],
+            [
+                "203[1]",
+                65,
+                120
+            ],
+            [
+                "203[1]b",
+                120,
+                185
+            ],
+            [
+                "[202|34]",
+                185,
+                235
+            ],
+            [
+                "113",
+                235,
+                275
+            ],
+            [
+                "209",
+                275,
+                310
+            ]
+        ],
+        "Pepoli_3_14": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                80
+            ],
+            [
+                "65",
+                80,
+                90
+            ],
+            [
+                "57[0]",
+                90,
+                105
+            ],
+            [
+                "57[1]",
+                105,
+                110
+            ],
+            [
+                "62",
+                110,
+                130
+            ],
+            [
+                "159",
+                130,
+                150
+            ],
+            [
+                "42",
+                150,
+                155
+            ],
+            [
+                "39",
+                155,
+                160
+            ],
+            [
+                "35",
+                160,
+                170
+            ],
+            [
+                "38",
+                170,
+                185
+            ],
+            [
+                "33",
+                185,
+                195
+            ],
+            [
+                "10",
+                195,
+                205
+            ]
+        ],
+        "Silvani_3_25": [
+            [
+                "203[0]",
+                0,
+                65
+            ],
+            [
+                "203[1]",
+                65,
+                115
+            ],
+            [
+                "203[1]b",
+                115,
+                150
+            ],
+            [
+                "[202|34]",
+                150,
+                200
+            ],
+            [
+                "113",
+                200,
+                240
+            ],
+            [
+                "118",
+                240,
+                255
+            ],
+            [
+                "65",
+                255,
+                265
+            ],
+            [
+                "57[0]",
+                265,
+                280
+            ],
+            [
+                "57[1]",
+                280,
+                285
+            ],
+            [
+                "62",
+                285,
+                305
+            ],
+            [
+                "159",
+                305,
+                325
+            ],
+            [
+                "42",
+                325,
+                330
+            ],
+            [
+                "39",
+                330,
+                335
+            ],
+            [
+                "35",
+                335,
+                345
+            ],
+            [
+                "38",
+                345,
+                360
+            ],
+            [
+                "33",
+                360,
+                370
+            ],
+            [
+                "10",
+                370,
+                415
+            ]
+        ],
+        "Vittorio_Veneto_2_11": [
+            [
+                "224[0]",
+                0,
+                25
+            ],
+            [
+                "224[1]",
+                25,
+                40
+            ],
+            [
+                "[181|18]",
+                40,
+                80
+            ],
+            [
+                "[17|71]",
+                80,
+                130
+            ],
+            [
+                "67",
+                130,
+                140
+            ],
+            [
+                "[80|127]",
+                140,
+                155
+            ],
+            [
+                "(77[1][0])",
+                155,
+                160
+            ],
+            [
+                "77[1][1]",
+                160,
+                200
+            ]
+        ],
+        "Togliatti_10_27": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                125
+            ],
+            [
+                "72[1]",
+                125,
+                185
+            ],
+            [
+                "69",
+                185,
+                230
+            ],
+            [
+                "161",
+                230,
+                250
+            ],
+            [
+                "194",
+                250,
+                265
+            ],
+            [
+                "91",
+                265,
+                270
+            ],
+            [
+                "186",
+                270,
+                275
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                275,
+                285
+            ],
+            [
+                "[116|46]",
+                285,
+                330
+            ],
+            [
+                "201",
+                330,
+                380
+            ],
+            [
+                "201c",
+                380,
+                415
+            ],
+            [
+                "204a[0]",
+                415,
+                465
+            ],
+            [
+                "204b[0]",
+                465,
+                470
+            ],
+            [
+                "204[1][0]",
+                470,
+                505
+            ],
+            [
+                "204[1][1]",
+                505,
+                540
+            ]
+        ],
+        "Pepoli_11_32": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                85
+            ],
+            [
+                "119",
+                85,
+                100
+            ],
+            [
+                "[116|46]",
+                100,
+                145
+            ],
+            [
+                "201",
+                145,
+                205
+            ],
+            [
+                "201c",
+                205,
+                250
+            ],
+            [
+                "204a[0]",
+                250,
+                300
+            ],
+            [
+                "124",
+                300,
+                350
+            ]
+        ],
+        "Togliatti_3_18": [
+            [
+                "67",
+                0,
+                10
+            ],
+            [
+                "[80|127]",
+                10,
+                25
+            ],
+            [
+                "(77[1][0]|77ab|77bc)",
+                25,
+                30
+            ],
+            [
+                "21a",
+                30,
+                35
+            ],
+            [
+                "21b",
+                35,
+                50
+            ],
+            [
+                "103",
+                50,
+                95
+            ],
+            [
+                "14",
+                95,
+                105
+            ]
+        ],
+        "Costa_12_9": [
+            [
+                "[68|11]",
+                0,
+                40
+            ],
+            [
+                "84",
+                40,
+                55
+            ],
+            [
+                "180",
+                55,
+                75
+            ]
+        ],
+        "Pepoli_3_12": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                105
+            ],
+            [
+                "115",
+                105,
+                120
+            ],
+            [
+                "110",
+                120,
+                130
+            ],
+            [
+                "185",
+                130,
+                135
+            ],
+            [
+                "92",
+                135,
+                140
+            ],
+            [
+                "90",
+                140,
+                155
+            ],
+            [
+                "m91",
+                155,
+                160
+            ],
+            [
+                "97",
+                160,
+                195
+            ],
+            [
+                "42",
+                195,
+                200
+            ],
+            [
+                "39",
+                200,
+                205
+            ],
+            [
+                "35",
+                205,
+                215
+            ],
+            [
+                "38",
+                215,
+                230
+            ],
+            [
+                "33",
+                230,
+                240
+            ],
+            [
+                "10",
+                240,
+                250
+            ]
+        ],
+        "Togliatti_3_39": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "67",
+                60,
+                70
+            ],
+            [
+                "[80|127]",
+                70,
+                85
+            ],
+            [
+                "(77[1][0]|77ab|77bc)",
+                85,
+                90
+            ],
+            [
+                "21a",
+                90,
+                95
+            ],
+            [
+                "21b",
+                95,
+                110
+            ],
+            [
+                "103",
+                110,
+                155
+            ],
+            [
+                "14",
+                155,
+                165
+            ]
+        ],
+        "Turati_10_0": [
+            [
+                "204a[0]",
+                0,
+                50
+            ],
+            [
+                "204b[0]",
+                50,
+                55
+            ],
+            [
+                "204[1][0]",
+                55,
+                90
+            ],
+            [
+                "204[1][1]",
+                90,
+                125
+            ]
+        ],
+        "Costa_12_18": [
+            [
+                "[78[0]|56a]",
+                0,
+                35
+            ],
+            [
+                "56b",
+                35,
+                40
+            ],
+            [
+                "(77bc|77cd|53cd|53[0]|53[1][0])",
+                40,
+                60
+            ],
+            [
+                "79",
+                60,
+                75
+            ],
+            [
+                "[68|11]",
+                75,
+                115
+            ],
+            [
+                "84",
+                115,
+                130
+            ],
+            [
+                "180",
+                130,
+                150
+            ]
+        ],
+        "Pepoli_10_27": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                80
+            ],
+            [
+                "119",
+                80,
+                100
+            ],
+            [
+                "[116|46]",
+                100,
+                145
+            ],
+            [
+                "201",
+                145,
+                205
+            ],
+            [
+                "201c",
+                205,
+                240
+            ],
+            [
+                "204a[0]",
+                240,
+                290
+            ],
+            [
+                "204b[0]",
+                290,
+                295
+            ],
+            [
+                "204[1][0]",
+                295,
+                345
+            ],
+            [
+                "204[1][1]",
+                345,
+                380
+            ]
+        ],
+        "Togliatti_3_31": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "67",
+                60,
+                70
+            ],
+            [
+                "[80|127]",
+                70,
+                85
+            ],
+            [
+                "(77[1][0]|77ab|77bc)",
+                85,
+                90
+            ],
+            [
+                "21a",
+                90,
+                95
+            ],
+            [
+                "21b",
+                95,
+                110
+            ],
+            [
+                "103",
+                110,
+                155
+            ],
+            [
+                "14",
+                155,
+                165
+            ]
+        ],
+        "Vittorio_Veneto_1_12": [
+            [
+                "224[0]",
+                0,
+                25
+            ],
+            [
+                "224[1]",
+                25,
+                40
+            ],
+            [
+                "[181|18]",
+                40,
+                80
+            ],
+            [
+                "[17|71]",
+                80,
+                130
+            ],
+            [
+                "86",
+                130,
+                160
+            ]
+        ],
+        "Pepoli_11_17": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "43[1]",
+                65,
+                105
+            ],
+            [
+                "201",
+                105,
+                160
+            ],
+            [
+                "201c",
+                160,
+                205
+            ],
+            [
+                "204a[0]",
+                205,
+                255
+            ],
+            [
+                "124",
+                255,
+                290
+            ]
+        ],
+        "XXI_Aprile_12_10": [
+            [
+                "79",
+                0,
+                15
+            ],
+            [
+                "[68|11]",
+                15,
+                55
+            ],
+            [
+                "84",
+                55,
+                75
+            ],
+            [
+                "180",
+                75,
+                100
+            ]
+        ],
+        "Silvani_7_11": [
+            [
+                "[202|34]",
+                0,
+                50
+            ],
+            [
+                "113",
+                50,
+                90
+            ],
+            [
+                "209",
+                90,
+                125
+            ]
+        ],
+        "Togliatti_10_10": [
+            [
+                "201",
+                0,
+                50
+            ],
+            [
+                "201c",
+                50,
+                85
+            ],
+            [
+                "204a[0]",
+                85,
+                135
+            ],
+            [
+                "204b[0]",
+                135,
+                140
+            ],
+            [
+                "204[1][0]",
+                140,
+                145
+            ],
+            [
+                "204[1][1]",
+                145,
+                180
+            ]
+        ],
+        "Costa_12_14": [
+            [
+                "(77bc|77cd|53cd|53[0]|53[1][0])",
+                0,
+                15
+            ],
+            [
+                "79",
+                15,
+                30
+            ],
+            [
+                "[68|11]",
+                30,
+                70
+            ],
+            [
+                "84",
+                70,
+                90
+            ],
+            [
+                "180",
+                90,
+                110
+            ]
+        ],
+        "Silvani_7_5": [
+            [
+                "209",
+                0,
+                35
+            ]
+        ],
+        "XXI_Aprile_7_7": [
+            [
+                "58[0]",
+                0,
+                5
+            ],
+            [
+                "58[1]",
+                5,
+                25
+            ],
+            [
+                "66",
+                25,
+                35
+            ],
+            [
+                "117",
+                35,
+                80
+            ],
+            [
+                "209",
+                80,
+                115
+            ]
+        ],
+        "Costa_1_19": [
+            [
+                "[78[0]|56a]",
+                0,
+                35
+            ],
+            [
+                "56b",
+                35,
+                75
+            ],
+            [
+                "(77bc|77cd|53cd|53[0]|53[1][0])",
+                75,
+                100
+            ],
+            [
+                "79",
+                100,
+                115
+            ],
+            [
+                "[68|11]",
+                115,
+                155
+            ],
+            [
+                "86",
+                155,
+                185
+            ]
+        ],
+        "XXI_Aprile_7_8": [
+            [
+                "41",
+                0,
+                5
+            ],
+            [
+                "160",
+                5,
+                25
+            ],
+            [
+                "61",
+                25,
+                50
+            ],
+            [
+                "58[0]",
+                50,
+                55
+            ],
+            [
+                "58[1]",
+                55,
+                75
+            ],
+            [
+                "66",
+                75,
+                85
+            ],
+            [
+                "117",
+                85,
+                130
+            ],
+            [
+                "209",
+                130,
+                165
+            ]
+        ],
+        "Pepoli_11_3": [
+            [
+                "204a[0]",
+                0,
+                50
+            ],
+            [
+                "124",
+                50,
+                90
+            ]
+        ],
+        "XXI_Aprile_9_14": [
+            [
+                "16",
+                0,
+                10
+            ],
+            [
+                "37",
+                10,
+                30
+            ],
+            [
+                "36",
+                30,
+                40
+            ],
+            [
+                "40",
+                40,
+                45
+            ],
+            [
+                "41",
+                45,
+                50
+            ],
+            [
+                "160",
+                50,
+                70
+            ],
+            [
+                "61",
+                70,
+                90
+            ],
+            [
+                "58[0]",
+                90,
+                95
+            ],
+            [
+                "58[1]",
+                95,
+                110
+            ],
+            [
+                "197",
+                110,
+                130
+            ],
+            [
+                "[109[0]|109[1][0]+20003|109[1][1]]",
+                130,
+                140
+            ],
+            [
+                "[116|46]",
+                140,
+                185
+            ],
+            [
+                "201",
+                185,
+                235
+            ],
+            [
+                "201c",
+                235,
+                270
+            ],
+            [
+                "204a[0]",
+                270,
+                320
+            ],
+            [
+                "204b[0]",
+                320,
+                325
+            ],
+            [
+                "54",
+                325,
+                350
+            ]
+        ],
+        "Pepoli_10_11": [
+            [
+                "[210|43[0]]",
+                0,
+                65
+            ],
+            [
+                "118",
+                65,
+                85
+            ],
+            [
+                "119",
+                85,
+                100
+            ],
+            [
+                "[116|46]",
+                100,
+                145
+            ],
+            [
+                "201",
+                145,
+                210
+            ],
+            [
+                "201c",
+                210,
+                250
+            ],
+            [
+                "204a[0]",
+                250,
+                300
+            ],
+            [
+                "204b[0]",
+                300,
+                305
+            ],
+            [
+                "204[1][0]",
+                305,
+                340
+            ],
+            [
+                "204[1][1]",
+                340,
+                375
+            ]
+        ],
+        "Silvani_11_24": [
+            [
+                "203[0]",
+                0,
+                65
+            ]
+        ],
+        "Silvani_7_7": [
+            [
+                "209",
+                0,
+                35
+            ]
+        ],
+        "Togliatti_9_21": [
+            [
+                "72[0]",
+                0,
+                80
+            ],
+            [
+                "72[1]",
+                80,
+                125
+            ],
+            [
+                "69",
+                125,
+                170
+            ],
+            [
+                "161",
+                170,
+                190
+            ],
+            [
+                "122",
+                190,
+                210
+            ],
+            [
+                "1b",
+                210,
+                245
+            ],
+            [
+                "1",
+                245,
+                280
+            ],
+            [
+                "204a[0]",
+                280,
+                330
+            ],
+            [
+                "204b[0]",
+                330,
+                335
+            ],
+            [
+                "54",
+                335,
+                360
+            ]
+        ],
+        "Togliatti_10_20": [
+            [
+                "72[0]",
+                0,
+                80
+            ],
+            [
+                "72[1]",
+                80,
+                125
+            ],
+            [
+                "69",
+                125,
+                170
+            ],
+            [
+                "161",
+                170,
+                190
+            ],
+            [
+                "122",
+                190,
+                210
+            ],
+            [
+                "1b",
+                210,
+                245
+            ],
+            [
+                "1",
+                245,
+                280
+            ],
+            [
+                "204a[0]",
+                280,
+                330
+            ],
+            [
+                "204b[0]",
+                330,
+                335
+            ],
+            [
+                "204[1][0]",
+                335,
+                370
+            ],
+            [
+                "204[1][1]",
+                370,
+                405
+            ]
+        ],
+        "Togliatti_72_36": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                105
+            ],
+            [
+                "72[1]",
+                105,
+                140
+            ],
+            [
+                "69",
+                140,
+                185
+            ],
+            [
+                "161",
+                185,
+                205
+            ],
+            [
+                "122",
+                205,
+                225
+            ],
+            [
+                "[3|2]",
+                225,
+                260
+            ],
+            [
+                "[202|34]",
+                260,
+                310
+            ],
+            [
+                "113",
+                310,
+                350
+            ],
+            [
+                "209",
+                350,
+                385
+            ]
+        ],
+        "Costa_1_17": [
+            [
+                "[78[0]|56a]",
+                0,
+                45
+            ],
+            [
+                "56b",
+                45,
+                60
+            ],
+            [
+                "(77bc|77cd|53cd|53[0]|53[1][0])",
+                60,
+                75
+            ],
+            [
+                "79",
+                75,
+                90
+            ],
+            [
+                "[68|11]",
+                90,
+                130
+            ],
+            [
+                "86",
+                130,
+                160
+            ]
+        ],
+        "Silvani_7_10": [
+            [
+                "113",
+                0,
+                40
+            ],
+            [
+                "209",
+                40,
+                75
+            ]
+        ],
+        "Togliatti_10_37": [
+            [
+                "85",
+                0,
+                60
+            ],
+            [
+                "72[0]",
+                60,
+                185
+            ],
+            [
+                "72[1]",
+                185,
+                225
+            ],
+            [
+                "69",
+                225,
+                300
+            ],
+            [
+                "161",
+                300,
+                320
+            ],
+            [
+                "122",
+                320,
+                340
+            ],
+            [
+                "1b",
+                340,
+                375
+            ],
+            [
+                "1",
+                375,
+                410
+            ],
+            [
+                "204a[0]",
+                410,
+                460
+            ],
+            [
+                "204b[0]",
+                460,
+                465
+            ],
+            [
+                "204[1][0]",
+                465,
+                505
+            ],
+            [
+                "204[1][1]",
+                505,
+                540
+            ]
+        ],
+        "Costa_50_22": [
+            [
+                "[78[0]|56a]",
+                0,
+                35
+            ],
+            [
+                "56b",
+                35,
+                40
+            ],
+            [
+                "(77bc|77cd|53cd)",
+                40,
+                50
+            ],
+            [
+                "82",
+                50,
+                55
+            ],
+            [
+                "51",
+                55,
+                65
+            ],
+            [
+                "219",
+                65,
+                75
+            ],
+            [
+                "218",
+                75,
+                85
+            ],
+            [
+                "36",
+                85,
+                95
+            ],
+            [
+                "40",
+                95,
+                100
+            ],
+            [
+                "41",
+                100,
+                105
+            ],
+            [
+                "160",
+                105,
+                125
+            ],
+            [
+                "61",
+                125,
+                145
+            ],
+            [
+                "58[0]",
+                145,
+                150
+            ],
+            [
+                "58[1]",
+                150,
+                165
+            ],
+            [
+                "[200|60]",
+                165,
+                190
+            ]
+        ],
+        "Vittorio_Veneto_1_13": [
+            [
+                "224[0]",
+                0,
+                25
+            ],
+            [
+                "224[1]",
+                25,
+                40
+            ],
+            [
+                "[181|18]",
+                40,
+                80
+            ],
+            [
+                "[17|71]",
+                80,
+                130
+            ],
+            [
+                "86",
+                130,
+                160
+            ]
+        ]
+    },
+    "stats": {
+        "0": {
+            "FIND_BEST": {
+                "models": 3,
+                "totalTime": 0.024,
+                "solveTime": 0.008,
+                "modelTime": 0.001,
+                "nOfVehicles": 1
+            }
+        },
+        "3": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.014,
+                "solveTime": 0.002,
+                "modelTime": 0.0,
+                "nOfVehicles": 8
+            }
+        },
+        "4": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.006,
+                "solveTime": 0.001,
+                "modelTime": 0.0,
+                "nOfVehicles": 10
+            }
+        },
+        "5": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.005,
+                "solveTime": 0.0,
+                "modelTime": 0.0,
+                "nOfVehicles": 13
+            }
+        },
+        "6": {
+            "FIND_BEST": {
+                "models": 3,
+                "totalTime": 0.084,
+                "solveTime": 0.029,
+                "modelTime": 0.006,
+                "nOfVehicles": 15
+            }
+        },
+        "7": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.15,
+                "solveTime": 0.075,
+                "modelTime": 0.004,
+                "nOfVehicles": 17
+            }
+        },
+        "8": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.019,
+                "solveTime": 0.004,
+                "modelTime": 0.001,
+                "nOfVehicles": 19
+            }
+        },
+        "9": {
+            "FIND_BEST": {
+                "models": 3,
+                "totalTime": 0.086,
+                "solveTime": 0.026,
+                "modelTime": 0.005,
+                "nOfVehicles": 21
+            }
+        },
+        "10": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.007,
+                "solveTime": 0.0,
+                "modelTime": 0.0,
+                "nOfVehicles": 24
+            }
+        },
+        "11": {
+            "FIND_BEST": {
+                "models": 6,
+                "totalTime": 0.061,
+                "solveTime": 0.024,
+                "modelTime": 0.002,
+                "nOfVehicles": 25
+            }
+        },
+        "12": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.009,
+                "solveTime": 0.001,
+                "modelTime": 0.0,
+                "nOfVehicles": 26
+            }
+        },
+        "14": {
+            "FIND_BEST": {
+                "models": 3,
+                "totalTime": 0.095,
+                "solveTime": 0.031,
+                "modelTime": 0.006,
+                "nOfVehicles": 31
+            }
+        },
+        "15": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.051,
+                "solveTime": 0.021,
+                "modelTime": 0.001,
+                "nOfVehicles": 33
+            }
+        },
+        "16": {
+            "FIND_BEST": {
+                "models": 6,
+                "totalTime": 0.184,
+                "solveTime": 0.124,
+                "modelTime": 0.013,
+                "nOfVehicles": 35
+            }
+        },
+        "17": {
+            "FIND_BEST": {
+                "models": 8,
+                "totalTime": 0.075,
+                "solveTime": 0.036,
+                "modelTime": 0.001,
+                "nOfVehicles": 36
+            }
+        },
+        "18": {
+            "FIND_BEST": {
+                "models": 3,
+                "totalTime": 0.19,
+                "solveTime": 0.136,
+                "modelTime": 0.003,
+                "nOfVehicles": 39
+            }
+        },
+        "19": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.01,
+                "solveTime": 0.0,
+                "modelTime": 0.0,
+                "nOfVehicles": 41
+            }
+        },
+        "20": {
+            "FIND_BEST": {
+                "models": 4,
+                "totalTime": 0.155,
+                "solveTime": 0.057,
+                "modelTime": 0.006,
+                "nOfVehicles": 44
+            }
+        },
+        "21": {
+            "FIND_BEST": {
+                "models": 5,
+                "totalTime": 0.211,
+                "solveTime": 0.108,
+                "modelTime": 0.005,
+                "nOfVehicles": 45
+            }
+        },
+        "22": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.032,
+                "solveTime": 0.008,
+                "modelTime": 0.001,
+                "nOfVehicles": 47
+            }
+        },
+        "24": {
+            "FIND_BEST": {
+                "models": 4,
+                "totalTime": 0.021,
+                "solveTime": 0.002,
+                "modelTime": 0.001,
+                "nOfVehicles": 53
+            }
+        },
+        "25": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.041,
+                "solveTime": 0.01,
+                "modelTime": 0.001,
+                "nOfVehicles": 53
+            }
+        },
+        "26": {
+            "FIND_BEST": {
+                "models": 4,
+                "totalTime": 0.136,
+                "solveTime": 0.049,
+                "modelTime": 0.004,
+                "nOfVehicles": 57
+            }
+        },
+        "28": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.071,
+                "solveTime": 0.026,
+                "modelTime": 0.001,
+                "nOfVehicles": 60
+            }
+        },
+        "29": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.013,
+                "solveTime": 0.0,
+                "modelTime": 0.0,
+                "nOfVehicles": 63
+            }
+        },
+        "30": {
+            "FIND_BEST": {
+                "models": 4,
+                "totalTime": 0.105,
+                "solveTime": 0.055,
+                "modelTime": 0.003,
+                "nOfVehicles": 66
+            }
+        },
+        "31": {
+            "FIND_BEST": {
+                "models": 6,
+                "totalTime": 0.184,
+                "solveTime": 0.075,
+                "modelTime": 0.005,
+                "nOfVehicles": 68
+            }
+        },
+        "32": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.014,
+                "solveTime": 0.0,
+                "modelTime": 0.0,
+                "nOfVehicles": 69
+            }
+        },
+        "33": {
+            "FIND_BEST": {
+                "models": 4,
+                "totalTime": 0.174,
+                "solveTime": 0.068,
+                "modelTime": 0.004,
+                "nOfVehicles": 70
+            }
+        },
+        "34": {
+            "FIND_BEST": {
+                "models": 5,
+                "totalTime": 0.084,
+                "solveTime": 0.039,
+                "modelTime": 0.001,
+                "nOfVehicles": 72
+            }
+        },
+        "35": {
+            "FIND_BEST": {
+                "models": 6,
+                "totalTime": 0.225,
+                "solveTime": 0.116,
+                "modelTime": 0.004,
+                "nOfVehicles": 74
+            }
+        },
+        "36": {
+            "FIND_BEST": {
+                "models": 3,
+                "totalTime": 0.037,
+                "solveTime": 0.005,
+                "modelTime": 0.001,
+                "nOfVehicles": 78
+            }
+        },
+        "37": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.024,
+                "solveTime": 0.003,
+                "modelTime": 0.0,
+                "nOfVehicles": 81
+            }
+        },
+        "38": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.171,
+                "solveTime": 0.061,
+                "modelTime": 0.008,
+                "nOfVehicles": 82
+            }
+        },
+        "39": {
+            "FIND_BEST": {
+                "models": 9,
+                "totalTime": 0.092,
+                "solveTime": 0.046,
+                "modelTime": 0.002,
+                "nOfVehicles": 84
+            }
+        },
+        "40": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.067,
+                "solveTime": 0.009,
+                "modelTime": 0.004,
+                "nOfVehicles": 83
+            }
+        },
+        "41": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.016,
+                "solveTime": 0.0,
+                "modelTime": 0.0,
+                "nOfVehicles": 86
+            }
+        },
+        "42": {
+            "FIND_BEST": {
+                "models": 4,
+                "totalTime": 0.122,
+                "solveTime": 0.039,
+                "modelTime": 0.008,
+                "nOfVehicles": 85
+            }
+        },
+        "43": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.031,
+                "solveTime": 0.003,
+                "modelTime": 0.001,
+                "nOfVehicles": 85
+            }
+        },
+        "45": {
+            "FIND_BEST": {
+                "models": 5,
+                "totalTime": 0.021,
+                "solveTime": 0.002,
+                "modelTime": 0.0,
+                "nOfVehicles": 90
+            }
+        },
+        "46": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.057,
+                "solveTime": 0.007,
+                "modelTime": 0.002,
+                "nOfVehicles": 93
+            }
+        },
+        "47": {
+            "FIND_BEST": {
+                "models": 6,
+                "totalTime": 0.203,
+                "solveTime": 0.131,
+                "modelTime": 0.003,
+                "nOfVehicles": 93
+            }
+        },
+        "48": {
+            "FIND_BEST": {
+                "models": 4,
+                "totalTime": 0.028,
+                "solveTime": 0.005,
+                "modelTime": 0.0,
+                "nOfVehicles": 93
+            }
+        },
+        "49": {
+            "FIND_BEST": {
+                "models": 5,
+                "totalTime": 0.156,
+                "solveTime": 0.098,
+                "modelTime": 0.002,
+                "nOfVehicles": 94
+            }
+        },
+        "50": {
+            "FIND_BEST": {
+                "models": 7,
+                "totalTime": 0.468,
+                "solveTime": 0.346,
+                "modelTime": 0.007,
+                "nOfVehicles": 95
+            }
+        },
+        "51": {
+            "FIND_BEST": {
+                "models": 5,
+                "totalTime": 0.029,
+                "solveTime": 0.005,
+                "modelTime": 0.001,
+                "nOfVehicles": 97
+            }
+        },
+        "52": {
+            "FIND_BEST": {
+                "models": 6,
+                "totalTime": 0.308,
+                "solveTime": 0.179,
+                "modelTime": 0.009,
+                "nOfVehicles": 98
+            }
+        },
+        "54": {
+            "FIND_BEST": {
+                "models": 5,
+                "totalTime": 0.474,
+                "solveTime": 0.368,
+                "modelTime": 0.01,
+                "nOfVehicles": 100
+            }
+        },
+        "55": {
+            "FIND_BEST": {
+                "models": 1,
+                "totalTime": 0.018,
+                "solveTime": 0.001,
+                "modelTime": 0.0,
+                "nOfVehicles": 102
+            }
+        },
+        "56": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.058,
+                "solveTime": 0.007,
+                "modelTime": 0.002,
+                "nOfVehicles": 105
+            }
+        },
+        "57": {
+            "FIND_BEST": {
+                "models": 3,
+                "totalTime": 1.737,
+                "solveTime": 1.435,
+                "modelTime": 0.019,
+                "nOfVehicles": 107
+            }
+        },
+        "58": {
+            "FIND_BEST": {
+                "models": 4,
+                "totalTime": 0.361,
+                "solveTime": 0.117,
+                "modelTime": 0.012,
+                "nOfVehicles": 111
+            }
+        },
+        "59": {
+            "FIND_BEST": {
+                "models": 3,
+                "totalTime": 13.482,
+                "solveTime": 12.896,
+                "modelTime": 0.028,
+                "nOfVehicles": 111
+            }
+        },
+        "60": {
+            "FIND_BEST": {
+                "models": 2,
+                "totalTime": 0.062,
+                "solveTime": 0.01,
+                "modelTime": 0.002,
+                "nOfVehicles": 112
+            }
+        }
+    }
+}

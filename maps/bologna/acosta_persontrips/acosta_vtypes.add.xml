@@ -17,3 +17,5 @@
     </vTypeDistribution>
 	<vType id="bus" accel="2.6" decel="4.5" sigma="0.5" length="12" minGap="3" maxSpeed="70" emissionClass="HDV_6_2" vClass="bus" lcCooperative="0.0"/>
 </routes>
+
+

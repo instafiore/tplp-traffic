@@ -5,13 +5,16 @@ from datetime import datetime
 import boto3
 from botocore.config import Config
 
+from common.Logger import Logger
+
 LOG_GROUP = "asp-traffic"
 ERROR_STREAM = "errors"
 
 
-class CloudLogger:
+class CloudLogger(Logger):
 
     def __init__(self, experiment):
+        super().__init__(experiment)
         self.client = boto3.client('logs')
         self.experiment = experiment
         now = datetime.now()  # current date and time

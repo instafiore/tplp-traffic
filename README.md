@@ -23,6 +23,8 @@ The map can be found in `maps/bologna/acosta`
 ```
 export NETWORK_FILE=maps/bologna/acosta/acosta_buslanes.net.xml;
 export SUMOCFG_FILE=maps/bologna/acosta/run-real.sumocfg
+export SUMO_HOME=path/to/sumo
+export CLINGO_HOME=path/to/clingo
 ```
 
 ### Running

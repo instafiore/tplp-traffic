@@ -1,7 +1,9 @@
 import os
+import re
 import time
 from enum import Enum
 from typing import Dict, List
+from venv import logger
 from xml.dom import minidom
 
 import sumolib
@@ -9,12 +11,19 @@ import traci
 
 import common.constants as constants
 from common.CloudLogger import CloudLogger
+from common.Logger import Logger
 from traffic.CityNetwork import CityNetwork
 from traffic.SimplifiedCityNetwork import SimplifiedCityNetwork
 from traffic.Simulation import Simulation
 from traffic.SimulationState import SimulationState
 from traffic.Solution import Solution
 from traffic.Vehicle import Vehicle
+
+
+def bitset(bitset_bin: str):
+    bitset_bin = bitset_bin[::-1]
+    n = len(bitset_bin)
+    return sum([(2**i) * int(bitset_bin[i]) for i in range(n)])
 
 
 class PreProcessorType(Enum):
@@ -27,18 +36,19 @@ class PreProcessorType(Enum):
 
 class PreProcessor:
 
-    def __init__(self, networkFile, sumocfgFile, hasGUI: bool, logger: CloudLogger, name: str):
+    def __init__(self, networkFile, sumocfgFile, hasGUI: bool, logger: Logger, name: str):
 
-        self.__sumoCmd = [constants.SUMO_PATH, "-c", sumocfgFile, "--start"]
+        self.__sumoCmd = [constants.SUMO_HOME, "-c", sumocfgFile, "--start", "--collision.check-junctions"]
         self.__name = name
-        self.logger: CloudLogger = logger
+        self.logger: Logger = logger
 
+        print(networkFile)
         net = sumolib.net.readNet(networkFile)
 
         self.__completeNetwork = CityNetwork(net)
         self.__network = SimplifiedCityNetwork(net)
         self.simulation = Simulation(self.__network)
-        self.__HORIZON = 12000
+        self.__HORIZON = 120000
         self.dir = "/".join(sumocfgFile.split("/")[0:-1] + ["solutions", self.__name])
         os.makedirs(self.dir, exist_ok=True)
         self.experimentRadix = f"{self.dir}/{time.time()}"
@@ -76,7 +86,6 @@ class PreProcessor:
     def solve(self, fromFile=None):
 
         vehiclesMap = dict()
-
         vehiclesInside = set()
 
         traci.start(self.__sumoCmd)
@@ -85,7 +94,8 @@ class PreProcessor:
 
         solutionRoutes = dict()
 
-        while step < self.__HORIZON:
+
+        while step <= self.__HORIZON:
             traci.simulationStep(step)
 
             traciVehicles = self.__getVehicles()
@@ -95,8 +105,8 @@ class PreProcessor:
                     vehiclesMap[vehicleId]
 
             vehicles = set([vehiclesMap[vehicleId] for vehicleId in traciVehicles])
-
             newVehicles = vehicles.difference(vehiclesInside)
+
 
             teleported = set([vehiclesMap[vehicleId] for vehicleId in traci.simulation.getStartingTeleportIDList()])
             self.__vehiclesTeleported = self.__vehiclesTeleported.union(teleported)

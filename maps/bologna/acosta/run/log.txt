@@ -1,30 +1,7 @@
-Warning: Cannot read local schema '/usr/local/Cellar/sumo/1.11.0//data/xsd/additional_file.xsd', will try website lookup.
-Warning: Cannot read local schema '/usr/local/Cellar/sumo/1.11.0//data/xsd/routes_file.xsd', will try website lookup.
-Warning: Cannot read local schema '/usr/local/Cellar/sumo/1.11.0//data/xsd/net_file.xsd', will try website lookup.
-Loading net-file from '/Users/carde/Documents/Workspace/asptraffic/maps/bologna/acosta/run/../netedit/acosta_buslanes.net.xml' ... done (59ms).
-Loading additional-files from '/Users/carde/Documents/Workspace/asptraffic/maps/bologna/acosta/run/../netedit/acosta_vtypes.add.xml' ... done (2ms).
-Loading additional-files from '/Users/carde/Documents/Workspace/asptraffic/maps/bologna/acosta/run/../netedit/acosta_detectors.add.xml' ... done (1ms).
-Loading additional-files from '/Users/carde/Documents/Workspace/asptraffic/maps/bologna/acosta/run/../netedit/acosta_bus_stops.add.xml' ... done (1ms).
-Loading additional-files from '/Users/carde/Documents/Workspace/asptraffic/maps/bologna/acosta/run/../netedit/acosta_tls.add.xml' ... done (1ms).
-Loading additional-files from '/Users/carde/Documents/Workspace/asptraffic/maps/bologna/acosta/run/edge-out.add.xml' ... done (2ms).
+Loading net-file from 'maps/bologna/acosta/run/../netedit/acosta_buslanes.net.xml' ... done (11ms).
+Loading additional-files from 'maps/bologna/acosta/run/../netedit/acosta_vtypes.add.xml' ... done (1ms).
+Loading additional-files from 'maps/bologna/acosta/run/run.med.add.xml' ... done (7ms).
 Loading done.
-Simulation started with time: 0.00
-Warning: Teleporting vehicle 'Costa_12_871'; junction collision with vehicle 'Costa_1_868', lane=':20b_0_0', gap=-1.29, time=2671.00 stage=move.
-Warning: Vehicle 'Costa_12_871' ends teleporting on edge '53[1][0]', time 2678.00.
-Warning: Teleporting vehicle 'Costa_70_885'; junction collision with vehicle 'Costa_12_877', lane=':20b_1_0', gap=-3.27, time=2735.00 stage=move.
-Warning: Vehicle 'Costa_70_885' ends teleporting on edge '78[1][1]', time 2742.00.
-Warning: Teleporting vehicle 'Costa_1_1009'; junction collision with vehicle 'Costa_200_1007', lane=':20b_0_0', gap=-0.49, time=3070.00 stage=move.
-Warning: Vehicle 'Costa_1_1009' ends teleporting on edge '53[0]', time 3074.00.
-Warning: Teleporting vehicle 'Costa_12_1104'; junction collision with vehicle 'Costa_12_1103', lane=':20b_0_0', gap=-0.03, time=3375.00 stage=move.
-Warning: Vehicle 'Costa_12_1104' ends teleporting on edge '53[0]', time 3379.00.
-Simulation ended at time: 3558.00
-Performance: 
- Duration: 52.97s
- Real time factor: 67.1688
- UPS: 39027.505616
-Vehicles: 
- Inserted: 7802 (Loaded: 8620)
- Running: 685
- Waiting: 719
-Teleports: 4 (Collisions: 4)
-
+Simulation version 1.20.0 started with time: 0.00.
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).

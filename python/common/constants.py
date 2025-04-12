@@ -15,6 +15,22 @@ class ROUNDABOUT_SPEEDS:
     BLOCKED_TRAFFIC = 3 / 3.6
 
 
+def getSpeed(congestion):
+
+    if congestion == "LIGHT":
+        return SPEEDS.LIGHT_TRAFFIC
+    elif congestion == "MEDIUM":
+        return SPEEDS.MEDIUM_TRAFFIC
+    elif congestion == "HEAVY":
+        return SPEEDS.HEAVY_TRAFFIC
+
+# CONGESTIONS = { "LIGHT", "MEDIUM", "HEAVY" }
+CONGESTIONS = { "LIGHT" }
+CONGESTIONS_THRESHOLD = {
+    "LIGHT": (0, 0.4),
+    "MEDIUM": (0.4, 0.7),
+    "HEAVY": (0.7, 0.1)
+}
 THRESHOLDS = {
     "MEDIUM": 0.4,
     "HEAVY": 0.7
@@ -35,5 +51,8 @@ TRACI_STEP = 1
 HAS_EXP = True
 
 isInDocker = os.getenv("IS_DOCKER", False)
-SUMO_PATH = "/usr/local/bin/sumo" if not isInDocker else "/usr/bin/sumo"
-CLINGO_PATH = "/Applications/Clingo/clingo" if not isInDocker else "/usr/bin/clingo"
+# TODO: REMOVE
+pathToSumo = "/opt/homebrew/bin/sumo"
+# SUMO_HOME = os.getenv("SUMO_HOME", "/usr/bin/sumo") if not isInDocker else "/usr/bin/sumo"
+SUMO_HOME = pathToSumo if not isInDocker else "/usr/bin/sumo"
+CLINGO_PATH = os.getenv("CLINGO_HOME", "/opt/homebrew/bin/clingo") if not isInDocker else "/usr/bin/clingo"

@@ -3,6 +3,7 @@ from typing import Dict
 import traci
 
 from traffic.CityNetwork import CityNetwork
+from traffic.CityNetwork import CityNetwork
 from traffic.Cross import Cross
 from traffic.Route import Route
 from traffic.SetStreet import SetStreet

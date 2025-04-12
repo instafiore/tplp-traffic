@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-04-12 22:59:22 by Eclipse SUMO sumo Version 1.20.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="maps/MapTests/pollution_test.net.xml"/>
+        <route-files value="maps/MapTests/setup.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="maps/MapTests/tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <report>
+        <log value="maps/MapTests/log.txt"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="vehicle" depart="0.00" departLane="E5_0" departPos="4.60" departSpeed="0.08" departDelay="0.00" arrival="13.00" arrivalLane="E5_0" arrivalPos="128.60" arrivalSpeed="13.83" duration="13.00" routeLength="124.00" waitingTime="0.00" waitingCount="0" stopTime="0.00" timeLoss="3.67" rerouteNo="0" devices="tripinfo_vehicle" vType="diesel_euro6" speedFactor="1.06" vaporized=""/>
+</tripinfos>
