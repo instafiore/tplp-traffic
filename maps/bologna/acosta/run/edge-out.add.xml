@@ -1,6 +1,0 @@
-<additional>
-
-  <edgeData id="1" type="emissions" period="10" file="edge-emissions.xml"/>
-  <edgeData id="1" period="10" file="edge-traffic.xml"/>
-
-</additional>

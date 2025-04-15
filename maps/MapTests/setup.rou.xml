@@ -1,5 +1,0 @@
-<routes>
-    <vType id="gasoline_euro4" vClass="passenger" emissionClass="HBEFA3/PC_G_EU4" length="4.5" maxSpeed="120" accel="2.6" decel="4.5" sigma="0.5"/>
-    <vType id="diesel_euro6" vClass="passenger" emissionClass="HBEFA3/PC_D_EU6" length="4.5" maxSpeed="120" accel="2.6" decel="4.5" sigma="0.5"/>
-    <vType id="electric_car" vClass="passenger" emissionClass="Energy" length="4.5" maxSpeed="120" accel="3.0" decel="4.5" sigma="0.5" guiShape="passenger"/>
-</routes>

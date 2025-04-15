@@ -1,7 +1,0 @@
-2025-04-14 16:36:02,725 - INFO - networkFile maps/MapTests/pollution_test.net.xml
-2025-04-14 16:36:03,742 - INFO - computing emissions from E0 to  E2
-2025-04-14 16:36:03,766 - INFO - Emission for edge E0: 59269.74322066126 with emission class gasoline_euro4 and congestion LIGHT
-2025-04-14 16:36:03,766 - INFO - computing emissions from E0 to  E3
-2025-04-14 16:36:03,786 - INFO - Emission for edge E0: 35763.25010113424 with emission class gasoline_euro4 and congestion LIGHT
-2025-04-14 16:36:03,786 - INFO - computing emissions from E0 to  None
-2025-04-14 16:36:03,798 - INFO - Emission for edge E0: 64811.91586493439 with emission class gasoline_euro4 and congestion LIGHT

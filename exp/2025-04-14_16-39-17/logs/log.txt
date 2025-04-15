@@ -1,5 +1,0 @@
-2025-04-14 16:39:17,993 - INFO - networkFile maps/bologna/acosta/netedit/acosta_buslanes.net.xml
-2025-04-14 16:39:19,268 - INFO - computing emissions from 1 to  204a[0]
-2025-04-14 16:39:19,361 - INFO - Emission for edge 1: 125626.15710406339 with emission class gasoline_euro4 and congestion MEDIUM
-2025-04-14 16:39:19,361 - INFO - computing emissions from 1 to  204a[0]
-2025-04-14 16:39:19,465 - INFO - Emission for edge 1: 126272.02483042965 with emission class gasoline_euro4 and congestion MEDIUM
