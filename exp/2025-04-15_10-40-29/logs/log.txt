@@ -1,0 +1,362 @@
+2025-04-15 10:40:30,457 - INFO - - Step 0 - #Vehicles: 7 = 7 new + 0 inside = 7. 0 left. 0 teleported
+2025-04-15 10:40:30,457 - INFO - Step 0-1 - Vehicle Togliatti_71_0
+2025-04-15 10:40:30,487 - INFO - File exp/2025-04-15_10-40-29/encodings/0000-01-Togliatti_71_0-2.lp saved locally.
+2025-04-15 10:40:30,583 - INFO - Step 0-2 - Vehicle XXI_Aprile_7_0
+2025-04-15 10:40:30,654 - INFO - File exp/2025-04-15_10-40-29/encodings/0000-02-XXI_Aprile_7_0-2.lp saved locally.
+2025-04-15 10:40:30,684 - INFO - Step 0-3 - Vehicle Audinot_7_0
+2025-04-15 10:40:30,697 - INFO - File exp/2025-04-15_10-40-29/encodings/0000-03-Audinot_7_0-2.lp saved locally.
+2025-04-15 10:40:30,725 - INFO - Step 0-4 - Vehicle Silvani_11_0
+2025-04-15 10:40:30,726 - INFO - File exp/2025-04-15_10-40-29/encodings/0000-04-Silvani_11_0-2.lp saved locally.
+2025-04-15 10:40:30,732 - INFO - Step 0-5 - Vehicle Turati_10_0
+2025-04-15 10:40:30,753 - INFO - File exp/2025-04-15_10-40-29/encodings/0000-05-Turati_10_0-2.lp saved locally.
+2025-04-15 10:40:30,794 - INFO - Step 0-6 - Vehicle Pepoli_3_0
+2025-04-15 10:40:30,800 - INFO - File exp/2025-04-15_10-40-29/encodings/0000-06-Pepoli_3_0-2.lp saved locally.
+2025-04-15 10:40:30,809 - INFO - Step 0-7 - Vehicle Costa_12_0
+2025-04-15 10:40:30,893 - INFO - File exp/2025-04-15_10-40-29/encodings/0000-07-Costa_12_0-2.lp saved locally.
+2025-04-15 10:40:30,903 - INFO - File exp/2025-04-15_10-40-29/checkpoints/0000.json saved locally.
+2025-04-15 10:40:30,904 - INFO - File exp/2025-04-15_10-40-29/solutions/0000.xml saved locally.
+2025-04-15 10:40:30,904 - INFO - - Step 1 - #Vehicles: 7 = 0 new + 7 inside = 7. 0 left. 0 teleported
+2025-04-15 10:40:30,905 - INFO - File exp/2025-04-15_10-40-29/solutions/0001.xml saved locally.
+2025-04-15 10:40:30,905 - INFO - - Step 2 - #Vehicles: 7 = 0 new + 7 inside = 7. 0 left. 0 teleported
+2025-04-15 10:40:30,906 - INFO - File exp/2025-04-15_10-40-29/solutions/0002.xml saved locally.
+2025-04-15 10:40:30,917 - INFO - - Step 3 - #Vehicles: 7 = 0 new + 7 inside = 7. 0 left. 0 teleported
+2025-04-15 10:40:30,917 - INFO - File exp/2025-04-15_10-40-29/solutions/0003.xml saved locally.
+2025-04-15 10:40:30,919 - INFO - - Step 4 - #Vehicles: 12 = 5 new + 7 inside = 12. 0 left. 0 teleported
+2025-04-15 10:40:30,919 - INFO - Step 4-1 - Vehicle Costa_12_1
+2025-04-15 10:40:30,923 - INFO - File exp/2025-04-15_10-40-29/encodings/0004-01-Costa_12_1-2.lp saved locally.
+2025-04-15 10:40:30,937 - INFO - Step 4-2 - Vehicle XXI_Aprile_7_1
+2025-04-15 10:40:30,944 - INFO - File exp/2025-04-15_10-40-29/encodings/0004-02-XXI_Aprile_7_1-2.lp saved locally.
+2025-04-15 10:40:30,980 - INFO - Step 4-3 - Vehicle Pepoli_3_2
+2025-04-15 10:40:30,984 - INFO - File exp/2025-04-15_10-40-29/encodings/0004-03-Pepoli_3_2-2.lp saved locally.
+2025-04-15 10:40:30,997 - INFO - Step 4-4 - Vehicle Silvani_11_1
+2025-04-15 10:40:31,001 - INFO - File exp/2025-04-15_10-40-29/encodings/0004-04-Silvani_11_1-2.lp saved locally.
+2025-04-15 10:40:31,014 - INFO - Step 4-5 - Vehicle Togliatti_71_2
+2025-04-15 10:40:31,021 - INFO - File exp/2025-04-15_10-40-29/encodings/0004-05-Togliatti_71_2-2.lp saved locally.
+2025-04-15 10:40:31,047 - INFO - File exp/2025-04-15_10-40-29/solutions/0004.xml saved locally.
+2025-04-15 10:40:31,048 - INFO - - Step 5 - #Vehicles: 14 = 2 new + 12 inside = 14. 0 left. 0 teleported
+2025-04-15 10:40:31,048 - INFO - Step 5-1 - Vehicle Silvani_7_2
+2025-04-15 10:40:31,061 - INFO - File exp/2025-04-15_10-40-29/encodings/0005-01-Silvani_7_2-2.lp saved locally.
+2025-04-15 10:40:31,077 - INFO - Step 5-2 - Vehicle Vittorio_Veneto_2_1
+2025-04-15 10:40:31,141 - INFO - File exp/2025-04-15_10-40-29/encodings/0005-02-Vittorio_Veneto_2_1-2.lp saved locally.
+2025-04-15 10:40:31,169 - INFO - File exp/2025-04-15_10-40-29/solutions/0005.xml saved locally.
+2025-04-15 10:40:31,171 - INFO - - Step 6 - #Vehicles: 16 = 2 new + 14 inside = 16. 0 left. 0 teleported
+2025-04-15 10:40:31,171 - INFO - Step 6-1 - Vehicle Pepoli_11_3
+2025-04-15 10:40:31,195 - INFO - File exp/2025-04-15_10-40-29/encodings/0006-01-Pepoli_11_3-2.lp saved locally.
+2025-04-15 10:40:31,289 - INFO - Step 6-2 - Vehicle Togliatti_71_3
+2025-04-15 10:40:31,298 - INFO - File exp/2025-04-15_10-40-29/encodings/0006-02-Togliatti_71_3-2.lp saved locally.
+2025-04-15 10:40:31,326 - INFO - File exp/2025-04-15_10-40-29/solutions/0006.xml saved locally.
+2025-04-15 10:40:31,328 - INFO - - Step 7 - #Vehicles: 18 = 2 new + 16 inside = 18. 0 left. 0 teleported
+2025-04-15 10:40:31,328 - INFO - Step 7-1 - Vehicle Costa_1_2
+2025-04-15 10:40:31,404 - INFO - File exp/2025-04-15_10-40-29/encodings/0007-01-Costa_1_2-2.lp saved locally.
+2025-04-15 10:40:31,423 - INFO - Step 7-2 - Vehicle Pepoli_10_4
+2025-04-15 10:40:31,447 - INFO - File exp/2025-04-15_10-40-29/encodings/0007-02-Pepoli_10_4-2.lp saved locally.
+2025-04-15 10:40:31,579 - INFO - File exp/2025-04-15_10-40-29/solutions/0007.xml saved locally.
+2025-04-15 10:40:31,581 - INFO - - Step 8 - #Vehicles: 20 = 2 new + 18 inside = 20. 0 left. 0 teleported
+2025-04-15 10:40:31,581 - INFO - Step 8-1 - Vehicle Silvani_7_3
+2025-04-15 10:40:31,587 - INFO - File exp/2025-04-15_10-40-29/encodings/0008-01-Silvani_7_3-2.lp saved locally.
+2025-04-15 10:40:31,604 - INFO - Step 8-2 - Vehicle Togliatti_72_5
+2025-04-15 10:40:31,614 - INFO - File exp/2025-04-15_10-40-29/encodings/0008-02-Togliatti_72_5-2.lp saved locally.
+2025-04-15 10:40:31,646 - INFO - File exp/2025-04-15_10-40-29/solutions/0008.xml saved locally.
+2025-04-15 10:40:31,648 - INFO - - Step 9 - #Vehicles: 22 = 2 new + 20 inside = 22. 0 left. 0 teleported
+2025-04-15 10:40:31,648 - INFO - Step 9-1 - Vehicle Togliatti_71_6
+2025-04-15 10:40:31,663 - INFO - File exp/2025-04-15_10-40-29/encodings/0009-01-Togliatti_71_6-2.lp saved locally.
+2025-04-15 10:40:31,728 - INFO - Step 9-2 - Vehicle Pepoli_11_5
+2025-04-15 10:40:31,739 - INFO - File exp/2025-04-15_10-40-29/encodings/0009-02-Pepoli_11_5-2.lp saved locally.
+2025-04-15 10:40:31,853 - INFO - File exp/2025-04-15_10-40-29/solutions/0009.xml saved locally.
+2025-04-15 10:40:31,856 - INFO - - Step 10 - #Vehicles: 24 = 2 new + 22 inside = 24. 0 left. 0 teleported
+2025-04-15 10:40:31,856 - INFO - Step 10-1 - Vehicle Silvani_7_4
+2025-04-15 10:40:31,862 - INFO - File exp/2025-04-15_10-40-29/encodings/0010-01-Silvani_7_4-2.lp saved locally.
+2025-04-15 10:40:31,880 - INFO - Step 10-2 - Vehicle Costa_12_3
+2025-04-15 10:40:31,887 - INFO - File exp/2025-04-15_10-40-29/encodings/0010-02-Costa_12_3-2.lp saved locally.
+2025-04-15 10:40:31,919 - INFO - File exp/2025-04-15_10-40-29/checkpoints/0010.json saved locally.
+2025-04-15 10:40:31,920 - INFO - File exp/2025-04-15_10-40-29/solutions/0010.xml saved locally.
+2025-04-15 10:40:31,922 - INFO - - Step 11 - #Vehicles: 25 = 1 new + 24 inside = 25. 0 left. 0 teleported
+2025-04-15 10:40:31,922 - INFO - Step 11-1 - Vehicle XXI_Aprile_94_3
+2025-04-15 10:40:31,962 - INFO - File exp/2025-04-15_10-40-29/encodings/0011-01-XXI_Aprile_94_3-2.lp saved locally.
+2025-04-15 10:40:32,011 - INFO - File exp/2025-04-15_10-40-29/solutions/0011.xml saved locally.
+2025-04-15 10:40:32,014 - INFO - - Step 12 - #Vehicles: 29 = 4 new + 25 inside = 29. 0 left. 0 teleported
+2025-04-15 10:40:32,014 - INFO - Step 12-1 - Vehicle Pepoli_11_6
+2025-04-15 10:40:32,026 - INFO - File exp/2025-04-15_10-40-29/encodings/0012-01-Pepoli_11_6-2.lp saved locally.
+2025-04-15 10:40:32,138 - INFO - Step 12-2 - Vehicle Togliatti_10_7
+2025-04-15 10:40:32,196 - INFO - File exp/2025-04-15_10-40-29/encodings/0012-02-Togliatti_10_7-2.lp saved locally.
+2025-04-15 10:40:32,263 - INFO - Step 12-3 - Vehicle Silvani_7_5
+2025-04-15 10:40:32,271 - INFO - File exp/2025-04-15_10-40-29/encodings/0012-03-Silvani_7_5-2.lp saved locally.
+2025-04-15 10:40:32,302 - INFO - Step 12-4 - Vehicle Togliatti_2_8
+2025-04-15 10:40:32,376 - INFO - File exp/2025-04-15_10-40-29/encodings/0012-04-Togliatti_2_8-2.lp saved locally.
+2025-04-15 10:40:32,504 - INFO - File exp/2025-04-15_10-40-29/solutions/0012.xml saved locally.
+2025-04-15 10:40:32,506 - INFO - - Step 13 - #Vehicles: 30 = 1 new + 29 inside = 30. 0 left. 0 teleported
+2025-04-15 10:40:32,506 - INFO - Step 13-1 - Vehicle Costa_1_4
+2025-04-15 10:40:32,521 - INFO - File exp/2025-04-15_10-40-29/encodings/0013-01-Costa_1_4-2.lp saved locally.
+2025-04-15 10:40:32,553 - INFO - File exp/2025-04-15_10-40-29/solutions/0013.xml saved locally.
+2025-04-15 10:40:32,554 - INFO - - Step 14 - #Vehicles: 30 = 0 new + 30 inside = 30. 0 left. 0 teleported
+2025-04-15 10:40:32,555 - INFO - File exp/2025-04-15_10-40-29/solutions/0014.xml saved locally.
+2025-04-15 10:40:32,558 - INFO - - Step 15 - #Vehicles: 34 = 4 new + 30 inside = 34. 0 left. 0 teleported
+2025-04-15 10:40:32,558 - INFO - Step 15-1 - Vehicle Togliatti_10_9
+2025-04-15 10:40:32,571 - INFO - File exp/2025-04-15_10-40-29/encodings/0015-01-Togliatti_10_9-2.lp saved locally.
+2025-04-15 10:40:32,649 - INFO - Step 15-2 - Vehicle XXI_Aprile_113_4
+2025-04-15 10:40:32,689 - INFO - File exp/2025-04-15_10-40-29/encodings/0015-02-XXI_Aprile_113_4-2.lp saved locally.
+2025-04-15 10:40:32,741 - INFO - Step 15-3 - Vehicle Silvani_3_6
+2025-04-15 10:40:32,752 - INFO - File exp/2025-04-15_10-40-29/encodings/0015-03-Silvani_3_6-2.lp saved locally.
+2025-04-15 10:40:32,792 - INFO - Step 15-4 - Vehicle Pepoli_11_7
+2025-04-15 10:40:32,805 - INFO - File exp/2025-04-15_10-40-29/encodings/0015-04-Pepoli_11_7-2.lp saved locally.
+2025-04-15 10:40:32,933 - INFO - File exp/2025-04-15_10-40-29/solutions/0015.xml saved locally.
+2025-04-15 10:40:32,935 - INFO - - Step 16 - #Vehicles: 35 = 1 new + 34 inside = 35. 0 left. 0 teleported
+2025-04-15 10:40:32,935 - INFO - Step 16-1 - Vehicle Costa_50_6
+2025-04-15 10:40:32,967 - INFO - File exp/2025-04-15_10-40-29/encodings/0016-01-Costa_50_6-2.lp saved locally.
+2025-04-15 10:40:33,225 - INFO - File exp/2025-04-15_10-40-29/solutions/0016.xml saved locally.
+2025-04-15 10:40:33,228 - INFO - - Step 17 - #Vehicles: 37 = 2 new + 35 inside = 37. 0 left. 0 teleported
+2025-04-15 10:40:33,228 - INFO - Step 17-1 - Vehicle Silvani_7_7
+2025-04-15 10:40:33,239 - INFO - File exp/2025-04-15_10-40-29/encodings/0017-01-Silvani_7_7-2.lp saved locally.
+2025-04-15 10:40:33,274 - INFO - Step 17-2 - Vehicle Pepoli_11_8
+2025-04-15 10:40:33,290 - INFO - File exp/2025-04-15_10-40-29/encodings/0017-02-Pepoli_11_8-2.lp saved locally.
+2025-04-15 10:40:33,452 - INFO - File exp/2025-04-15_10-40-29/solutions/0017.xml saved locally.
+2025-04-15 10:40:33,455 - INFO - - Step 18 - #Vehicles: 40 = 3 new + 37 inside = 40. 0 left. 0 teleported
+2025-04-15 10:40:33,455 - INFO - Step 18-1 - Vehicle Pepoli_10_10
+2025-04-15 10:40:33,480 - INFO - File exp/2025-04-15_10-40-29/encodings/0018-01-Pepoli_10_10-2.lp saved locally.
+2025-04-15 10:40:33,750 - INFO - Step 18-2 - Vehicle Togliatti_10_10
+2025-04-15 10:40:33,768 - INFO - File exp/2025-04-15_10-40-29/encodings/0018-02-Togliatti_10_10-2.lp saved locally.
+2025-04-15 10:40:33,865 - INFO - Step 18-3 - Vehicle XXI_Aprile_104_5
+2025-04-15 10:40:33,932 - INFO - File exp/2025-04-15_10-40-29/encodings/0018-03-XXI_Aprile_104_5-2.lp saved locally.
+2025-04-15 10:40:34,037 - INFO - File exp/2025-04-15_10-40-29/solutions/0018.xml saved locally.
+2025-04-15 10:40:34,041 - INFO - - Step 19 - #Vehicles: 43 = 3 new + 40 inside = 43. 0 left. 0 teleported
+2025-04-15 10:40:34,041 - INFO - Step 19-1 - Vehicle Vittorio_Veneto_1_4
+2025-04-15 10:40:34,130 - INFO - File exp/2025-04-15_10-40-29/encodings/0019-01-Vittorio_Veneto_1_4-2.lp saved locally.
+2025-04-15 10:40:34,189 - INFO - Step 19-2 - Vehicle Costa_12_7
+2025-04-15 10:40:34,203 - INFO - File exp/2025-04-15_10-40-29/encodings/0019-02-Costa_12_7-2.lp saved locally.
+2025-04-15 10:40:34,246 - INFO - Step 19-3 - Vehicle Silvani_11_8
+2025-04-15 10:40:34,266 - INFO - File exp/2025-04-15_10-40-29/encodings/0019-03-Silvani_11_8-2.lp saved locally.
+2025-04-15 10:40:34,299 - INFO - File exp/2025-04-15_10-40-29/solutions/0019.xml saved locally.
+2025-04-15 10:40:34,302 - INFO - - Step 20 - #Vehicles: 43 = 0 new + 43 inside = 43. 0 left. 0 teleported
+2025-04-15 10:40:34,302 - INFO - File exp/2025-04-15_10-40-29/solutions/0020.xml saved locally.
+2025-04-15 10:40:34,306 - INFO - - Step 21 - #Vehicles: 47 = 4 new + 43 inside = 47. 0 left. 0 teleported
+2025-04-15 10:40:34,306 - INFO - Step 21-1 - Vehicle Pepoli_3_12
+2025-04-15 10:40:34,319 - INFO - File exp/2025-04-15_10-40-29/encodings/0021-01-Pepoli_3_12-2.lp saved locally.
+2025-04-15 10:40:34,360 - INFO - Step 21-2 - Vehicle Togliatti_10_12
+2025-04-15 10:40:34,385 - INFO - File exp/2025-04-15_10-40-29/encodings/0021-02-Togliatti_10_12-2.lp saved locally.
+2025-04-15 10:40:34,574 - INFO - Step 21-3 - Vehicle Pepoli_11_9
+2025-04-15 10:40:34,593 - INFO - File exp/2025-04-15_10-40-29/encodings/0021-03-Pepoli_11_9-2.lp saved locally.
+2025-04-15 10:40:34,813 - INFO - Step 21-4 - Vehicle Pepoli_10_11
+2025-04-15 10:40:34,833 - INFO - File exp/2025-04-15_10-40-29/encodings/0021-04-Pepoli_10_11-2.lp saved locally.
+2025-04-15 10:40:35,175 - INFO - File exp/2025-04-15_10-40-29/solutions/0021.xml saved locally.
+2025-04-15 10:40:35,179 - INFO - - Step 22 - #Vehicles: 52 = 5 new + 47 inside = 52. 0 left. 0 teleported
+2025-04-15 10:40:35,179 - INFO - Step 22-1 - Vehicle Costa_50_8
+2025-04-15 10:40:35,206 - INFO - File exp/2025-04-15_10-40-29/encodings/0022-01-Costa_50_8-2.lp saved locally.
+2025-04-15 10:40:35,484 - INFO - Step 22-2 - Vehicle Silvani_11_9
+2025-04-15 10:40:35,498 - INFO - File exp/2025-04-15_10-40-29/encodings/0022-02-Silvani_11_9-2.lp saved locally.
+2025-04-15 10:40:35,530 - INFO - Step 22-3 - Vehicle XXI_Aprile_12_6
+2025-04-15 10:40:35,604 - INFO - File exp/2025-04-15_10-40-29/encodings/0022-03-XXI_Aprile_12_6-2.lp saved locally.
+2025-04-15 10:40:35,657 - INFO - Step 22-4 - Vehicle Audinot_12_1
+2025-04-15 10:40:35,686 - INFO - File exp/2025-04-15_10-40-29/encodings/0022-04-Audinot_12_1-2.lp saved locally.
+2025-04-15 10:40:35,771 - INFO - Step 22-5 - Vehicle Togliatti_12_15
+2025-04-15 10:40:35,847 - INFO - File exp/2025-04-15_10-40-29/encodings/0022-05-Togliatti_12_15-2.lp saved locally.
+2025-04-15 10:40:35,884 - INFO - File exp/2025-04-15_10-40-29/solutions/0022.xml saved locally.
+2025-04-15 10:40:35,887 - INFO - - Step 23 - #Vehicles: 52 = 0 new + 52 inside = 52. 0 left. 0 teleported
+2025-04-15 10:40:35,888 - INFO - File exp/2025-04-15_10-40-29/solutions/0023.xml saved locally.
+2025-04-15 10:40:35,891 - INFO - - Step 24 - #Vehicles: 54 = 2 new + 52 inside = 54. 0 left. 0 teleported
+2025-04-15 10:40:35,891 - INFO - Step 24-1 - Vehicle Silvani_7_10
+2025-04-15 10:40:35,906 - INFO - File exp/2025-04-15_10-40-29/encodings/0024-01-Silvani_7_10-2.lp saved locally.
+2025-04-15 10:40:35,947 - INFO - Step 24-2 - Vehicle Togliatti_9_13
+2025-04-15 10:40:36,015 - INFO - File exp/2025-04-15_10-40-29/encodings/0024-02-Togliatti_9_13-2.lp saved locally.
+2025-04-15 10:40:36,141 - INFO - File exp/2025-04-15_10-40-29/solutions/0024.xml saved locally.
+2025-04-15 10:40:36,145 - INFO - - Step 25 - #Vehicles: 57 = 3 new + 54 inside = 57. 0 left. 0 teleported
+2025-04-15 10:40:36,145 - INFO - Step 25-1 - Vehicle Costa_12_9
+2025-04-15 10:40:36,167 - INFO - File exp/2025-04-15_10-40-29/encodings/0025-01-Costa_12_9-2.lp saved locally.
+2025-04-15 10:40:36,216 - INFO - Step 25-2 - Vehicle XXI_Aprile_7_7
+2025-04-15 10:40:36,235 - INFO - File exp/2025-04-15_10-40-29/encodings/0025-02-XXI_Aprile_7_7-2.lp saved locally.
+2025-04-15 10:40:36,453 - INFO - Step 25-3 - Vehicle Pepoli_3_14
+2025-04-15 10:40:36,470 - INFO - File exp/2025-04-15_10-40-29/encodings/0025-03-Pepoli_3_14-2.lp saved locally.
+2025-04-15 10:40:36,520 - INFO - File exp/2025-04-15_10-40-29/solutions/0025.xml saved locally.
+2025-04-15 10:40:36,524 - INFO - - Step 26 - #Vehicles: 60 = 3 new + 57 inside = 60. 0 left. 0 teleported
+2025-04-15 10:40:36,524 - INFO - Step 26-1 - Vehicle Togliatti_3_18
+2025-04-15 10:40:36,575 - INFO - File exp/2025-04-15_10-40-29/encodings/0026-01-Togliatti_3_18-2.lp saved locally.
+2025-04-15 10:40:36,670 - INFO - Step 26-2 - Vehicle Pepoli_11_15
+2025-04-15 10:40:36,700 - INFO - File exp/2025-04-15_10-40-29/encodings/0026-02-Pepoli_11_15-2.lp saved locally.
+2025-04-15 10:40:36,981 - INFO - Step 26-3 - Vehicle Silvani_7_11
+2025-04-15 10:40:36,997 - INFO - File exp/2025-04-15_10-40-29/encodings/0026-03-Silvani_7_11-2.lp saved locally.
+2025-04-15 10:40:37,054 - INFO - File exp/2025-04-15_10-40-29/solutions/0026.xml saved locally.
+2025-04-15 10:40:37,058 - INFO - - Step 27 - #Vehicles: 61 = 1 new + 60 inside = 61. 0 left. 0 teleported
+2025-04-15 10:40:37,058 - INFO - Step 27-1 - Vehicle Togliatti_71_17
+2025-04-15 10:40:37,078 - INFO - File exp/2025-04-15_10-40-29/encodings/0027-01-Togliatti_71_17-2.lp saved locally.
+2025-04-15 10:40:37,276 - INFO - File exp/2025-04-15_10-40-29/solutions/0027.xml saved locally.
+2025-04-15 10:40:37,280 - INFO - - Step 28 - #Vehicles: 63 = 2 new + 61 inside = 63. 0 left. 0 teleported
+2025-04-15 10:40:37,280 - INFO - Step 28-1 - Vehicle Pepoli_8_16
+2025-04-15 10:40:37,317 - INFO - File exp/2025-04-15_10-40-29/encodings/0028-01-Pepoli_8_16-2.lp saved locally.
+2025-04-15 10:40:37,520 - INFO - Step 28-2 - Vehicle Vittorio_Veneto_2_6
+2025-04-15 10:40:37,552 - INFO - File exp/2025-04-15_10-40-29/encodings/0028-02-Vittorio_Veneto_2_6-2.lp saved locally.
+2025-04-15 10:40:37,617 - INFO - File exp/2025-04-15_10-40-29/solutions/0028.xml saved locally.
+2025-04-15 10:40:37,621 - INFO - - Step 29 - #Vehicles: 66 = 3 new + 63 inside = 66. 0 left. 0 teleported
+2025-04-15 10:40:37,621 - INFO - Step 29-1 - Vehicle Silvani_11_12
+2025-04-15 10:40:37,639 - INFO - File exp/2025-04-15_10-40-29/encodings/0029-01-Silvani_11_12-2.lp saved locally.
+2025-04-15 10:40:37,684 - INFO - Step 29-2 - Vehicle XXI_Aprile_7_8
+2025-04-15 10:40:37,705 - INFO - File exp/2025-04-15_10-40-29/encodings/0029-02-XXI_Aprile_7_8-2.lp saved locally.
+2025-04-15 10:40:38,025 - INFO - Step 29-3 - Vehicle Costa_12_11
+2025-04-15 10:40:38,051 - INFO - File exp/2025-04-15_10-40-29/encodings/0029-03-Costa_12_11-2.lp saved locally.
+2025-04-15 10:40:38,108 - INFO - File exp/2025-04-15_10-40-29/solutions/0029.xml saved locally.
+2025-04-15 10:40:38,113 - INFO - - Step 30 - #Vehicles: 68 = 2 new + 66 inside = 68. 0 left. 0 teleported
+2025-04-15 10:40:38,113 - INFO - Step 30-1 - Vehicle Togliatti_71_19
+2025-04-15 10:40:38,144 - INFO - File exp/2025-04-15_10-40-29/encodings/0030-01-Togliatti_71_19-2.lp saved locally.
+2025-04-15 10:40:38,526 - INFO - Step 30-2 - Vehicle Pepoli_11_17
+2025-04-15 10:40:38,560 - INFO - File exp/2025-04-15_10-40-29/encodings/0030-02-Pepoli_11_17-2.lp saved locally.
+2025-04-15 10:40:39,643 - INFO - File exp/2025-04-15_10-40-29/checkpoints/0030.json saved locally.
+2025-04-15 10:40:39,645 - INFO - File exp/2025-04-15_10-40-29/solutions/0030.xml saved locally.
+2025-04-15 10:40:39,649 - INFO - - Step 31 - #Vehicles: 69 = 1 new + 68 inside = 69. 0 left. 0 teleported
+2025-04-15 10:40:39,649 - INFO - Step 31-1 - Vehicle Pepoli_10_18
+2025-04-15 10:40:39,675 - INFO - File exp/2025-04-15_10-40-29/encodings/0031-01-Pepoli_10_18-2.lp saved locally.
+2025-04-15 10:40:40,931 - INFO - File exp/2025-04-15_10-40-29/solutions/0031.xml saved locally.
+2025-04-15 10:40:40,936 - INFO - - Step 32 - #Vehicles: 70 = 1 new + 69 inside = 70. 0 left. 0 teleported
+2025-04-15 10:40:40,936 - INFO - Step 32-1 - Vehicle Silvani_11_13
+2025-04-15 10:40:40,954 - INFO - File exp/2025-04-15_10-40-29/encodings/0032-01-Silvani_11_13-2.lp saved locally.
+2025-04-15 10:40:40,997 - INFO - File exp/2025-04-15_10-40-29/solutions/0032.xml saved locally.
+2025-04-15 10:40:41,003 - INFO - - Step 33 - #Vehicles: 72 = 3 new + 69 inside = 72. 0 left. 0 teleported
+2025-04-15 10:40:41,003 - INFO - Step 33-1 - Vehicle Vittorio_Veneto_3_7
+2025-04-15 10:40:41,064 - INFO - File exp/2025-04-15_10-40-29/encodings/0033-01-Vittorio_Veneto_3_7-2.lp saved locally.
+2025-04-15 10:40:41,118 - INFO - Step 33-2 - Vehicle Pepoli_10_19
+2025-04-15 10:40:41,153 - INFO - File exp/2025-04-15_10-40-29/encodings/0033-02-Pepoli_10_19-2.lp saved locally.
+2025-04-15 10:40:43,139 - INFO - Step 33-3 - Vehicle Togliatti_10_20
+2025-04-15 10:40:43,171 - INFO - File exp/2025-04-15_10-40-29/encodings/0033-03-Togliatti_10_20-2.lp saved locally.
+2025-04-15 10:40:43,485 - INFO - File exp/2025-04-15_10-40-29/solutions/0033.xml saved locally.
+2025-04-15 10:40:43,490 - INFO - - Step 34 - #Vehicles: 74 = 2 new + 72 inside = 74. 0 left. 0 teleported
+2025-04-15 10:40:43,490 - INFO - Step 34-1 - Vehicle Silvani_11_14
+2025-04-15 10:40:43,517 - INFO - File exp/2025-04-15_10-40-29/encodings/0034-01-Silvani_11_14-2.lp saved locally.
+2025-04-15 10:40:43,559 - INFO - Step 34-2 - Vehicle Costa_12_13
+2025-04-15 10:40:43,579 - INFO - File exp/2025-04-15_10-40-29/encodings/0034-02-Costa_12_13-2.lp saved locally.
+2025-04-15 10:40:43,646 - INFO - File exp/2025-04-15_10-40-29/solutions/0034.xml saved locally.
+2025-04-15 10:40:43,652 - INFO - - Step 35 - #Vehicles: 77 = 3 new + 74 inside = 77. 0 left. 0 teleported
+2025-04-15 10:40:43,652 - INFO - Step 35-1 - Vehicle Turati_10_1
+2025-04-15 10:40:43,678 - INFO - File exp/2025-04-15_10-40-29/encodings/0035-01-Turati_10_1-2.lp saved locally.
+2025-04-15 10:40:45,055 - INFO - Step 35-2 - Vehicle Pepoli_10_20
+2025-04-15 10:40:45,081 - INFO - File exp/2025-04-15_10-40-29/encodings/0035-02-Pepoli_10_20-2.lp saved locally.
+2025-04-15 10:40:46,173 - INFO - Step 35-3 - Vehicle Togliatti_12_24
+2025-04-15 10:40:46,193 - INFO - File exp/2025-04-15_10-40-29/encodings/0035-03-Togliatti_12_24-2.lp saved locally.
+2025-04-15 10:40:46,243 - INFO - File exp/2025-04-15_10-40-29/solutions/0035.xml saved locally.
+2025-04-15 10:40:46,248 - INFO - - Step 36 - #Vehicles: 80 = 3 new + 77 inside = 80. 0 left. 0 teleported
+2025-04-15 10:40:46,248 - INFO - Step 36-1 - Vehicle XXI_Aprile_12_10
+2025-04-15 10:40:46,279 - INFO - File exp/2025-04-15_10-40-29/encodings/0036-01-XXI_Aprile_12_10-2.lp saved locally.
+2025-04-15 10:40:46,349 - INFO - Step 36-2 - Vehicle Togliatti_9_21
+2025-04-15 10:40:46,384 - INFO - File exp/2025-04-15_10-40-29/encodings/0036-02-Togliatti_9_21-2.lp saved locally.
+2025-04-15 10:40:46,683 - INFO - Step 36-3 - Vehicle Silvani_7_15
+2025-04-15 10:40:46,713 - INFO - File exp/2025-04-15_10-40-29/encodings/0036-03-Silvani_7_15-2.lp saved locally.
+2025-04-15 10:40:46,773 - INFO - File exp/2025-04-15_10-40-29/solutions/0036.xml saved locally.
+2025-04-15 10:40:46,778 - INFO - - Step 37 - #Vehicles: 81 = 1 new + 80 inside = 81. 0 left. 0 teleported
+2025-04-15 10:40:46,778 - INFO - Step 37-1 - Vehicle Costa_12_14
+2025-04-15 10:40:46,808 - INFO - File exp/2025-04-15_10-40-29/encodings/0037-01-Costa_12_14-2.lp saved locally.
+2025-04-15 10:40:46,868 - INFO - File exp/2025-04-15_10-40-29/solutions/0037.xml saved locally.
+2025-04-15 10:40:46,873 - INFO - - Step 38 - #Vehicles: 84 = 3 new + 81 inside = 84. 0 left. 0 teleported
+2025-04-15 10:40:46,873 - INFO - Step 38-1 - Vehicle Silvani_11_16
+2025-04-15 10:40:46,897 - INFO - File exp/2025-04-15_10-40-29/encodings/0038-01-Silvani_11_16-2.lp saved locally.
+2025-04-15 10:40:46,954 - INFO - Step 38-2 - Vehicle Pepoli_8_21
+2025-04-15 10:40:46,983 - INFO - File exp/2025-04-15_10-40-29/encodings/0038-02-Pepoli_8_21-2.lp saved locally.
+2025-04-15 10:40:47,444 - INFO - Step 38-3 - Vehicle Pepoli_10_22
+2025-04-15 10:40:47,472 - INFO - File exp/2025-04-15_10-40-29/encodings/0038-03-Pepoli_10_22-2.lp saved locally.
+2025-04-15 10:40:49,054 - INFO - File exp/2025-04-15_10-40-29/solutions/0038.xml saved locally.
+2025-04-15 10:40:49,060 - INFO - - Step 39 - #Vehicles: 85 = 1 new + 84 inside = 85. 0 left. 0 teleported
+2025-04-15 10:40:49,060 - INFO - Step 39-1 - Vehicle Togliatti_9_22
+2025-04-15 10:40:49,086 - INFO - File exp/2025-04-15_10-40-29/encodings/0039-01-Togliatti_9_22-2.lp saved locally.
+2025-04-15 10:40:49,484 - INFO - File exp/2025-04-15_10-40-29/solutions/0039.xml saved locally.
+2025-04-15 10:40:49,490 - INFO - - Step 40 - #Vehicles: 87 = 2 new + 85 inside = 87. 0 left. 0 teleported
+2025-04-15 10:40:49,490 - INFO - Step 40-1 - Vehicle XXI_Aprile_12_11
+2025-04-15 10:40:49,516 - INFO - File exp/2025-04-15_10-40-29/encodings/0040-01-XXI_Aprile_12_11-2.lp saved locally.
+2025-04-15 10:40:49,598 - INFO - Step 40-2 - Vehicle Costa_1_15
+2025-04-15 10:40:49,630 - INFO - File exp/2025-04-15_10-40-29/encodings/0040-02-Costa_1_15-2.lp saved locally.
+2025-04-15 10:40:49,696 - INFO - File exp/2025-04-15_10-40-29/checkpoints/0040.json saved locally.
+2025-04-15 10:40:49,698 - INFO - File exp/2025-04-15_10-40-29/solutions/0040.xml saved locally.
+2025-04-15 10:40:49,703 - INFO - - Step 41 - #Vehicles: 89 = 2 new + 87 inside = 89. 0 left. 0 teleported
+2025-04-15 10:40:49,703 - INFO - Step 41-1 - Vehicle Silvani_11_17
+2025-04-15 10:40:49,733 - INFO - File exp/2025-04-15_10-40-29/encodings/0041-01-Silvani_11_17-2.lp saved locally.
+2025-04-15 10:40:49,780 - INFO - Step 41-2 - Vehicle Pepoli_8_23
+2025-04-15 10:40:49,818 - INFO - File exp/2025-04-15_10-40-29/encodings/0041-02-Pepoli_8_23-2.lp saved locally.
+2025-04-15 10:40:50,244 - INFO - File exp/2025-04-15_10-40-29/solutions/0041.xml saved locally.
+2025-04-15 10:40:50,249 - INFO - - Step 42 - #Vehicles: 91 = 2 new + 89 inside = 91. 0 left. 0 teleported
+2025-04-15 10:40:50,249 - INFO - Step 42-1 - Vehicle Pepoli_11_24
+2025-04-15 10:40:50,287 - INFO - File exp/2025-04-15_10-40-29/encodings/0042-01-Pepoli_11_24-2.lp saved locally.
+2025-04-15 10:40:51,258 - INFO - Step 42-2 - Vehicle Togliatti_71_25
+2025-04-15 10:40:51,294 - INFO - File exp/2025-04-15_10-40-29/encodings/0042-02-Togliatti_71_25-2.lp saved locally.
+2025-04-15 10:40:51,598 - INFO - File exp/2025-04-15_10-40-29/solutions/0042.xml saved locally.
+2025-04-15 10:40:51,605 - INFO - - Step 43 - #Vehicles: 95 = 4 new + 91 inside = 95. 0 left. 0 teleported
+2025-04-15 10:40:51,605 - INFO - Step 43-1 - Vehicle XXI_Aprile_2_12
+2025-04-15 10:40:51,694 - INFO - File exp/2025-04-15_10-40-29/encodings/0043-01-XXI_Aprile_2_12-2.lp saved locally.
+2025-04-15 10:40:51,772 - INFO - Step 43-2 - Vehicle Silvani_7_18
+2025-04-15 10:40:51,795 - INFO - File exp/2025-04-15_10-40-29/encodings/0043-02-Silvani_7_18-2.lp saved locally.
+2025-04-15 10:40:51,861 - INFO - Step 43-3 - Vehicle Audinot_10_2
+2025-04-15 10:40:51,908 - INFO - File exp/2025-04-15_10-40-29/encodings/0043-03-Audinot_10_2-2.lp saved locally.
+2025-04-15 10:40:52,926 - INFO - Step 43-4 - Vehicle Costa_700_16
+2025-04-15 10:40:52,975 - INFO - File exp/2025-04-15_10-40-29/encodings/0043-04-Costa_700_16-2.lp saved locally.
+2025-04-15 10:40:53,287 - INFO - File exp/2025-04-15_10-40-29/solutions/0043.xml saved locally.
+2025-04-15 10:40:53,293 - INFO - - Step 44 - #Vehicles: 96 = 1 new + 95 inside = 96. 0 left. 0 teleported
+2025-04-15 10:40:53,293 - INFO - Step 44-1 - Vehicle Pepoli_8_25
+2025-04-15 10:40:53,331 - INFO - File exp/2025-04-15_10-40-29/encodings/0044-01-Pepoli_8_25-2.lp saved locally.
+2025-04-15 10:40:54,262 - INFO - File exp/2025-04-15_10-40-29/solutions/0044.xml saved locally.
+2025-04-15 10:40:54,267 - INFO - - Step 45 - #Vehicles: 99 = 3 new + 96 inside = 99. 0 left. 0 teleported
+2025-04-15 10:40:54,267 - INFO - Step 45-1 - Vehicle Silvani_7_19
+2025-04-15 10:40:54,295 - INFO - File exp/2025-04-15_10-40-29/encodings/0045-01-Silvani_7_19-2.lp saved locally.
+2025-04-15 10:40:54,377 - INFO - Step 45-2 - Vehicle Togliatti_3_31
+2025-04-15 10:40:54,406 - INFO - File exp/2025-04-15_10-40-29/encodings/0045-02-Togliatti_3_31-2.lp saved locally.
+2025-04-15 10:40:54,519 - INFO - Step 45-3 - Vehicle Togliatti_80_26
+2025-04-15 10:40:54,575 - INFO - File exp/2025-04-15_10-40-29/encodings/0045-03-Togliatti_80_26-2.lp saved locally.
+2025-04-15 10:40:54,675 - INFO - File exp/2025-04-15_10-40-29/solutions/0045.xml saved locally.
+2025-04-15 10:40:54,681 - INFO - - Step 46 - #Vehicles: 101 = 2 new + 99 inside = 101. 0 left. 0 teleported
+2025-04-15 10:40:54,681 - INFO - Step 46-1 - Vehicle Costa_1_17
+2025-04-15 10:40:54,716 - INFO - File exp/2025-04-15_10-40-29/encodings/0046-01-Costa_1_17-2.lp saved locally.
+2025-04-15 10:40:54,785 - INFO - Step 46-2 - Vehicle Vittorio_Veneto_1_10
+2025-04-15 10:40:54,826 - INFO - File exp/2025-04-15_10-40-29/encodings/0046-02-Vittorio_Veneto_1_10-2.lp saved locally.
+2025-04-15 10:40:54,930 - INFO - File exp/2025-04-15_10-40-29/solutions/0046.xml saved locally.
+2025-04-15 10:40:54,936 - INFO - - Step 47 - #Vehicles: 104 = 3 new + 101 inside = 104. 0 left. 0 teleported
+2025-04-15 10:40:54,936 - INFO - Step 47-1 - Vehicle XXI_Aprile_7_13
+2025-04-15 10:40:54,976 - INFO - File exp/2025-04-15_10-40-29/encodings/0047-01-XXI_Aprile_7_13-2.lp saved locally.
+2025-04-15 10:40:55,195 - INFO - Step 47-2 - Vehicle Togliatti_10_27
+2025-04-15 10:40:55,237 - INFO - File exp/2025-04-15_10-40-29/encodings/0047-02-Togliatti_10_27-2.lp saved locally.
+2025-04-15 10:40:55,412 - INFO - Step 47-3 - Vehicle Pepoli_10_27
+2025-04-15 10:40:55,455 - INFO - File exp/2025-04-15_10-40-29/encodings/0047-03-Pepoli_10_27-2.lp saved locally.
+2025-04-15 10:41:03,012 - INFO - File exp/2025-04-15_10-40-29/solutions/0047.xml saved locally.
+2025-04-15 10:41:03,019 - INFO - - Step 48 - #Vehicles: 107 = 3 new + 104 inside = 107. 0 left. 0 teleported
+2025-04-15 10:41:03,019 - INFO - Step 48-1 - Vehicle Silvani_7_20
+2025-04-15 10:41:03,046 - INFO - File exp/2025-04-15_10-40-29/encodings/0048-01-Silvani_7_20-2.lp saved locally.
+2025-04-15 10:41:03,130 - INFO - Step 48-2 - Vehicle Togliatti_2_32
+2025-04-15 10:41:03,163 - INFO - File exp/2025-04-15_10-40-29/encodings/0048-02-Togliatti_2_32-2.lp saved locally.
+2025-04-15 10:41:03,352 - INFO - Step 48-3 - Vehicle Costa_12_18
+2025-04-15 10:41:03,380 - INFO - File exp/2025-04-15_10-40-29/encodings/0048-03-Costa_12_18-2.lp saved locally.
+2025-04-15 10:41:03,471 - INFO - File exp/2025-04-15_10-40-29/solutions/0048.xml saved locally.
+2025-04-15 10:41:03,477 - INFO - - Step 49 - #Vehicles: 108 = 1 new + 107 inside = 108. 0 left. 0 teleported
+2025-04-15 10:41:03,477 - INFO - Step 49-1 - Vehicle Pepoli_8_28
+2025-04-15 10:41:03,521 - INFO - File exp/2025-04-15_10-40-29/encodings/0049-01-Pepoli_8_28-2.lp saved locally.
+2025-04-15 10:41:04,954 - INFO - File exp/2025-04-15_10-40-29/solutions/0049.xml saved locally.
+2025-04-15 10:41:04,962 - INFO - - Step 50 - #Vehicles: 112 = 4 new + 108 inside = 112. 0 left. 0 teleported
+2025-04-15 10:41:04,962 - INFO - Step 50-1 - Vehicle Pepoli_11_29
+2025-04-15 10:41:05,006 - INFO - File exp/2025-04-15_10-40-29/encodings/0050-01-Pepoli_11_29-2.lp saved locally.
+2025-04-15 10:41:09,819 - INFO - Step 50-2 - Vehicle Silvani_7_21
+2025-04-15 10:41:09,857 - INFO - File exp/2025-04-15_10-40-29/encodings/0050-02-Silvani_7_21-2.lp saved locally.
+2025-04-15 10:41:09,938 - INFO - Step 50-3 - Vehicle Togliatti_10_28
+2025-04-15 10:41:09,982 - INFO - File exp/2025-04-15_10-40-29/encodings/0050-03-Togliatti_10_28-2.lp saved locally.
+2025-04-15 10:41:10,218 - INFO - Step 50-4 - Vehicle XXI_Aprile_9_14
+2025-04-15 10:41:10,262 - INFO - File exp/2025-04-15_10-40-29/encodings/0050-04-XXI_Aprile_9_14-2.lp saved locally.
+2025-04-15 10:41:10,689 - INFO - File exp/2025-04-15_10-40-29/checkpoints/0050.json saved locally.
+2025-04-15 10:41:10,691 - INFO - File exp/2025-04-15_10-40-29/solutions/0050.xml saved locally.
+2025-04-15 10:41:10,697 - INFO - - Step 51 - #Vehicles: 113 = 1 new + 112 inside = 113. 0 left. 0 teleported
+2025-04-15 10:41:10,697 - INFO - Step 51-1 - Vehicle Vittorio_Veneto_2_11
+2025-04-15 10:41:10,740 - INFO - File exp/2025-04-15_10-40-29/encodings/0051-01-Vittorio_Veneto_2_11-2.lp saved locally.
+2025-04-15 10:41:10,837 - INFO - File exp/2025-04-15_10-40-29/solutions/0051.xml saved locally.
+2025-04-15 10:41:10,844 - INFO - - Step 52 - #Vehicles: 117 = 4 new + 113 inside = 117. 0 left. 0 teleported
+2025-04-15 10:41:10,844 - INFO - Step 52-1 - Vehicle Silvani_7_22
+2025-04-15 10:41:10,889 - INFO - File exp/2025-04-15_10-40-29/encodings/0052-01-Silvani_7_22-2.lp saved locally.
+2025-04-15 10:41:10,973 - INFO - Step 52-2 - Vehicle Togliatti_72_36
+2025-04-15 10:41:11,017 - INFO - File exp/2025-04-15_10-40-29/encodings/0052-02-Togliatti_72_36-2.lp saved locally.
+2025-04-15 10:41:11,175 - INFO - Step 52-3 - Vehicle Pepoli_11_30
+2025-04-15 10:41:11,221 - INFO - File exp/2025-04-15_10-40-29/encodings/0052-03-Pepoli_11_30-2.lp saved locally.
+2025-04-15 10:41:14,902 - INFO - Step 52-4 - Vehicle Costa_1_19
+2025-04-15 10:41:14,941 - INFO - File exp/2025-04-15_10-40-29/encodings/0052-04-Costa_1_19-2.lp saved locally.
+2025-04-15 10:41:15,054 - INFO - File exp/2025-04-15_10-40-29/solutions/0052.xml saved locally.
+2025-04-15 10:41:15,061 - INFO - - Step 53 - #Vehicles: 118 = 1 new + 117 inside = 118. 0 left. 0 teleported
+2025-04-15 10:41:15,061 - INFO - Step 53-1 - Vehicle Togliatti_10_30
+2025-04-15 10:41:15,095 - INFO - File exp/2025-04-15_10-40-29/encodings/0053-01-Togliatti_10_30-2.lp saved locally.
+2025-04-15 10:41:15,313 - INFO - File exp/2025-04-15_10-40-29/solutions/0053.xml saved locally.
+2025-04-15 10:41:15,321 - INFO - - Step 54 - #Vehicles: 120 = 2 new + 118 inside = 120. 0 left. 0 teleported
+2025-04-15 10:41:15,321 - INFO - Step 54-1 - Vehicle XXI_Aprile_7_15
+2025-04-15 10:41:15,365 - INFO - File exp/2025-04-15_10-40-29/encodings/0054-01-XXI_Aprile_7_15-2.lp saved locally.
+2025-04-15 10:41:15,572 - INFO - Step 54-2 - Vehicle Pepoli_10_31
+2025-04-15 10:41:15,620 - INFO - File exp/2025-04-15_10-40-29/encodings/0054-02-Pepoli_10_31-2.lp saved locally.
+2025-04-15 10:41:18,964 - INFO - File exp/2025-04-15_10-40-29/solutions/0054.xml saved locally.
+2025-04-15 10:41:18,972 - INFO - - Step 55 - #Vehicles: 123 = 3 new + 120 inside = 123. 0 left. 0 teleported
+2025-04-15 10:41:18,972 - INFO - Step 55-1 - Vehicle Silvani_11_23
+2025-04-15 10:41:19,009 - INFO - File exp/2025-04-15_10-40-29/encodings/0055-01-Silvani_11_23-2.lp saved locally.
+2025-04-15 10:41:19,070 - INFO - Step 55-2 - Vehicle Pepoli_11_32
+2025-04-15 10:41:19,116 - INFO - File exp/2025-04-15_10-40-29/encodings/0055-02-Pepoli_11_32-2.lp saved locally.

@@ -14,7 +14,7 @@ class Logger:
     def __init__(self, experiment):
         pass
 
-    def log(self, message):
+    def log(self, message, level):
         raise NotImplementedError("Not implemented")
 
     def error(self, error):

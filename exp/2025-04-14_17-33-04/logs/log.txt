@@ -1,0 +1,26 @@
+2025-04-14 17:33:04,042 - INFO - networkFile maps/bologna/acosta/netedit/acosta_buslanes.net.xml
+2025-04-14 17:33:05,290 - INFO - computing emissions from 1 ->  204a[0]
+2025-04-14 17:33:05,383 - INFO - Emission for edge 1: 125626.15710406339 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:05,384 - INFO - computing emissions from 10 ->  13
+2025-04-14 17:33:05,449 - INFO - Emission for edge 10: 46839.04728992363 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:05,449 - INFO - computing emissions from 10 ->  9
+2025-04-14 17:33:05,524 - INFO - Emission for edge 10: 286722.59786421916 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:05,525 - INFO - computing emissions from 103 ->  14
+2025-04-14 17:33:05,614 - INFO - Emission for edge 103: 32625.45263351732 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:05,614 - INFO - computing emissions from 103 ->  16
+2025-04-14 17:33:05,692 - INFO - Emission for edge 103: 27152.678724538036 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:05,692 - INFO - computing emissions from 103 ->  24
+2025-04-14 17:33:05,783 - INFO - Emission for edge 103: 381107.0780145534 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:05,783 - INFO - computing emissions from 103 ->  49
+2025-04-14 17:33:05,869 - INFO - Emission for edge 103: 28742.516054366657 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:05,869 - INFO - computing emissions from 104 ->  14
+2025-04-14 17:33:05,939 - INFO - Emission for edge 104: 193007.26918944294 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:05,939 - INFO - computing emissions from 104 ->  16
+2025-04-14 17:33:06,008 - INFO - Emission for edge 104: 26873.577021119083 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:06,008 - INFO - computing emissions from 104 ->  24
+2025-04-14 17:33:06,072 - INFO - Emission for edge 104: 10428.913202195195 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:06,072 - INFO - computing emissions from 104 ->  49
+2025-04-14 17:33:06,139 - INFO - Emission for edge 104: 35989.59283567402 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:06,139 - INFO - computing emissions from 109[0] ->  109[1][0]+20003
+2025-04-14 17:33:06,170 - INFO - Emission for edge 109[0]: 14996.487843495524 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 17:33:06,170 - INFO - computing emissions from 109[1][0]+20003 ->  109[1][1]

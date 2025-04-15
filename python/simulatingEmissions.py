@@ -1,3 +1,4 @@
+import json
 import os
 import sys
 
@@ -15,11 +16,14 @@ sys.path.append(startingDir)
 def main():
     args = Arguments()
     logger = CloudLogger(args.experiment) if args.cloud else LocalLogger(args.experiment)
-    args.inputFile = "maps/MapTests/config_file.sumocfg"
-    args.networkFile = "maps/MapTests/pollution_test.net.xml"
+    # args.inputFile = "maps/MapTests/config_file.sumocfg"
+    # args.networkFile = "maps/MapTests/pollution_test.net.xml"
 
     edgeEmissionSimulator = EdgeEmissionSimulator(args.networkFile, args.inputFile, args.hasGUI, logger, "EdgeEmissionSimulator")
-    edgeEmissionSimulator.createEdgeEmissionMap()
+    emissionsMap = edgeEmissionSimulator.createEdgeEmissionMap()
+    dirname = os.path.dirname(args.inputFile)
+    with open(os.path.join(dirname, "emissionMap"), "w") as mapFile:
+        json.dump(emissionsMap, mapFile)
 
 if __name__ == '__main__':
     main()

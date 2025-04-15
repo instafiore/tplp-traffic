@@ -14,29 +14,36 @@ class LocalLogger(Logger):
         self.experiment = experiment
         self.timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
         self.logger = logging.getLogger(LOG_GROUP)
-        self.logger.setLevel(logging.INFO)
+        # self.logger.setLevel(logging.INFO)
+        self.logger.setLevel(logging.DEBUG)
 
-        console_handler = logging.StreamHandler(sys.stdout)
-        console_handler.setLevel(logging.INFO)
+        # Remove existing handlers if they exist (to avoid duplicates)
+        if self.logger.hasHandlers():
+            self.logger.handlers.clear()
 
-        error_handler = logging.StreamHandler(sys.stderr)
-        error_handler.setLevel(logging.ERROR)
+        # Create log directory
+        log_dir = os.path.join(self.experiment, self.timestamp, "logs")
+        os.makedirs(log_dir, exist_ok=True)
+
+        # Define log file path
+        log_file_path = os.path.join(log_dir, "log.txt")
+
+        # File handler (write both INFO and ERROR levels here)
+        file_handler = logging.FileHandler(log_file_path)
+        file_handler.setLevel(logging.INFO)
 
         formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-        console_handler.setFormatter(formatter)
-        error_handler.setFormatter(formatter)
+        file_handler.setFormatter(formatter)
 
-        self.logger.addHandler(console_handler)
-        self.logger.addHandler(error_handler)
+        self.logger.addHandler(file_handler)
 
-    def log(self, message):
-        self.logger.info(message)
+    def log(self, message, level=logging.INFO):
+        self.logger.log(level, message)
 
     def error(self, error):
         self.logger.error(error)
 
     def __createStream(self, name):
-        # Placeholder for possible future implementation
         pass
 
     def uploadFile(self, filename: str, content: str):

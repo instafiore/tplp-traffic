@@ -24,12 +24,12 @@ def getSpeed(congestion):
     elif congestion == "HEAVY":
         return SPEEDS.HEAVY_TRAFFIC
 
-# CONGESTIONS = { "LIGHT", "MEDIUM", "HEAVY" }
-CONGESTIONS = { "LIGHT" }
+CONGESTIONS = { "LIGHT", "MEDIUM", "HEAVY" }
+# CONGESTIONS = { "LIGHT" }
 CONGESTIONS_THRESHOLD = {
     "LIGHT": (0, 0.4),
     "MEDIUM": (0.4, 0.7),
-    "HEAVY": (0.7, 0.1)
+    "HEAVY": (0.7, 1)
 }
 THRESHOLDS = {
     "MEDIUM": 0.4,

@@ -1,3 +1,4 @@
+import logging
 import math
 import os
 import re
@@ -9,6 +10,7 @@ from xml.dom import minidom
 
 import sumolib
 import traci
+from traci import TraCIException
 
 import common.constants as constants
 from common.CloudLogger import CloudLogger
@@ -75,12 +77,6 @@ class EdgeEmissionSimulator:
                 self.__departTimesVehicles[depart].append(id)
         pass
 
-
-
-    def onTick(self, step: int, vehicleInside: [Vehicle], newVehicles: [Vehicle], previousSolution: Solution) -> (
-            Dict[str, List[str]], Solution):
-        raise NotImplementedError()
-
     def __getVehicles(self):
         # return set(traci.simulation.getLoadedIDList() + traci.vehicle.getIDList())
         return set(traci.vehicle.getIDList())
@@ -102,7 +98,7 @@ class EdgeEmissionSimulator:
         delta = traci.simulation.getDeltaT()
         # print(f"Delta time: {delta}")
 
-        edges = self.__network.streets
+        edges = self.__completeNetwork.streets
         # print(f"Edges: {edges}")
         edgeEmissions = dict()
 
@@ -111,47 +107,69 @@ class EdgeEmissionSimulator:
             for congestion in constants.CONGESTIONS:
                 for edge in edges:
                     validOutgoing = self.validOutgoing(edge)
-                    for edgeTo in validOutgoing:
-                        edgeEmissions[(edge, edgeTo, emissionClass, congestion)] = self.simulateEmissions(edge = edge, edgeTo=edgeTo, congestion = congestion, emissionClass = emissionClass)
+                    edgeTo = None
+                    if len(validOutgoing) > 0:
+                        for edgeTo in validOutgoing:
+                            key = (edge, str(edgeTo), emissionClass, congestion)
+                            edgeEmissions["-".join(key)] = self.simulateEmissions(edge = edge, edgeTo=edgeTo, congestion = congestion, emissionClass = emissionClass)
                     else:
-                        edgeEmissions[(edge, None, emissionClass, congestion)] = self.simulateEmissions(edge = edge, edgeTo=None, congestion = congestion, emissionClass = emissionClass)
+                        key = (edge, str(edgeTo), emissionClass, congestion)
+                        edgeEmissions["-".join(key)] = self.simulateEmissions(edge = edge, edgeTo=edgeTo, congestion = congestion, emissionClass = emissionClass)
 
 
         self.logger.log(f"edgeEmissions: {edgeEmissions}")
 
-        for emissionClass in EdgeEmissionSimulator.emissionClasses:
-            print(f"Emission class: {emissionClass}")
-            for congestion in constants.CONGESTIONS:
-                print(f"Congestion class: {congestion}")
-                route = ["E0", "E2", "E5"]
-                print(f"routeEmissions for route {route} is {self.emissionsRoute(edgeEmissions, route, emissionClass, congestion)}")
-                route = ["E4"]
-                print( f"routeEmissions for route {route} is {self.emissionsRoute(edgeEmissions, route, emissionClass, congestion)}")
+        # for emissionClass in EdgeEmissionSimulator.emissionClasses:
+        #     print(f"Emission class: {emissionClass}")
+        #     for congestion in constants.CONGESTIONS:
+        #         print(f"Congestion class: {congestion}")
+        #         route = ["E0", "E2", "E5"]
+        #         print(f"routeEmissions for route {route} is {self.emissionsRoute(edgeEmissions, route, emissionClass, congestion)}")
+        #         route = ["E4"]
+        #         print( f"routeEmissions for route {route} is {self.emissionsRoute(edgeEmissions, route, emissionClass, congestion)}")
         traci.close()
 
+        return edgeEmissions
+
+    def checkConnection(self, e1, e2):
+        try:
+            r = traci.simulation.findRoute(e1, e2)
+            edges = r.edges
+            return len(edges) == 2
+        except Exception as e:
+            return False
+
+
     def validOutgoing(self, edge):
-        toCross = self.__network.streets[edge].getToCross()
+        toCross = self.__completeNetwork.streets[edge].getToCross()
         outgoingStreets: List[Street] =  toCross.getOutgoingStreets()
         validOutgoingEdges = []
         for os in outgoingStreets:
-            r = traci.simulation.findRoute(edge, os.id)
-            if r.edges != []:
+            if self.checkConnection(edge, os.id):
                 validOutgoingEdges.append(os.id)
         return validOutgoingEdges
 
     def addVehicle(self, v, congestion, edge, edgeTo, emissionClass):
+        # self.logger.log(f"adding vehicle {v} with congestion {congestion}, route {edge} to {edgeTo}")
         maxSpeed = getSpeed(congestion)
         speed = random.random() * maxSpeed
-        routeEdges = [edge, edgeTo] if edgeTo is not None else [edge]
+        canGo = edgeTo is not None and self.checkConnection(edge, edgeTo)
+        routeEdges = [edge, edgeTo] if canGo else [edge]
+
         routeId = v + "_route"
-        traci.route.add(routeID=routeId, edges=routeEdges)
-        traci.vehicle.add(
-            vehID=v,
-            routeID=routeId,
-            typeID=emissionClass,
-            depart=0,
-            departSpeed=str(speed),
-        )
+        try:
+            traci.route.add(routeID=routeId, edges=routeEdges)
+            traci.vehicle.add(
+                vehID=v,
+                routeID=routeId,
+                typeID=emissionClass,
+                depart=0,
+                departSpeed="random",
+            )
+        except TraCIException as e:
+            return False
+
+        return True
 
     def addVehicles(self, num_vehicles, congestion, edge, edgeTo, emissionClass):
         for i in range(num_vehicles):
@@ -160,41 +178,50 @@ class EdgeEmissionSimulator:
             self.addVehicle(v, congestion, edge, edgeTo, emissionClass)
 
     def addVehicleForEdgeSimulation(self, congestion, edgeVeh, emissionClass):
-        edges = self.validOutgoing(edgeVeh)
+        edges = self.validOutgoing(edgeVeh) + [edgeVeh]
         for edge in edges:
             min_veh = math.ceil(self.__network.streets[edge].capacity * CONGESTIONS_THRESHOLD[congestion][0])
             max_veh = math.ceil(self.__network.streets[edge].capacity * CONGESTIONS_THRESHOLD[congestion][1])
             n = random.randint(min_veh, max_veh)
-            edgesValidNeighbors = self.validOutgoing(edge)
-            edgeTo = random.choice(edgesValidNeighbors)
-            self.addVehicles(n, congestion, edge, edgeTo, emissionClass)
+            for i in range(n):
+                edgesValidNeighbors = self.validOutgoing(edge)
+                if not edgesValidNeighbors: break
+                edgeTo = random.choice(edgesValidNeighbors)
+                v = "veh" + str(self.autoIncrement)
+                self.autoIncrement += 1
+                if not self.addVehicle(v, congestion, edge, edgeTo, emissionClass):
+                    break
 
     def simulateEmissions(self, edge, congestion , emissionClass, edgeTo = None) -> float:
 
         traci.load(["-c", self.sumocfgFile,"--route-files", "maps/MapTests/setup.rou.xml"])
         emissions = 0
         v = "vehicle"
-        self.logger.log(f"computing emissions from {edge} to  {edgeTo}")
-        self.addVehicle(v, congestion, edge, edgeTo, emissionClass)
+        self.logger.log(f"computing emissions from {edge} ->  {edgeTo}")
+        # print(f"computing emissions from {edge} ->  {edgeTo}")
+        if not self.addVehicle(v, congestion, edge, edgeTo, emissionClass):
+            return 0
+
         self.addVehicleForEdgeSimulation(congestion, edge, emissionClass)
 
-        if edge == "E0":
-            traci.vehicle.setStop(vehID="vehicle", edgeID="E0", duration=10)
-        if edge == "E2":
-            traci.vehicle.setStop(vehID="vehicle", edgeID="E2", duration=5)
+        # if edge == "E0":
+        #     traci.vehicle.setStop(vehID=v, edgeID="E0", duration=10)
+        # if edge == "E2":
+        #     traci.vehicle.setStop(vehID=v, edgeID="E2", duration=5)
 
         edges = traci.edge.getIDList()
         step = 0
         while True:
             traci.simulationStep()
+            vehicles = traci.vehicle.getIDList()
             if len(traci.vehicle.getIDList()) <= 0:
                 break
-            current_emissions = 0
-            for e in edges:
-                if e == edgeTo: continue
-                current_emissions += max(0, traci.edge.getCO2Emission(e))
-                # self.logger.log(f"Emissions: {current_emissions} in edge {e} at step {step}")
-            emissions += current_emissions
+
+            if v in vehicles:
+                currentEdge = traci.vehicle.getRoadID(vehID=v)
+                if currentEdge != edgeTo:
+                    emissions += traci.vehicle.getCO2Emission(vehID=v)
+
             # self.logger.log(f"Emissions: {current_emissions} for vehicle at step {step}")
             step += constants.TRACI_STEP
         self.logger.log(f"Emission for edge {edge}: {emissions} with emission class {emissionClass} and congestion {congestion}")

@@ -1,0 +1,16 @@
+2025-04-15 10:13:02,587 - INFO - networkFile maps/bologna/acosta/netedit/acosta_buslanes.net.xml
+2025-04-15 10:13:03,944 - INFO - Emission for edge 1: 125626.15710406339 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:03,980 - INFO - Emission for edge 10: 50433.25475659864 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,049 - INFO - Emission for edge 103: 36311.88272499935 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,114 - INFO - Emission for edge 103: 58879.586376603445 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,174 - INFO - Emission for edge 103: 31554.79965839934 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,218 - INFO - Emission for edge 104: 25685.655631222064 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,265 - INFO - Emission for edge 104: 32192.468807260273 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,310 - INFO - Emission for edge 104: 11624.413563327447 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,342 - INFO - Emission for edge 109[0]: 26027.550399572996 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,374 - INFO - Emission for edge 109[1][0]+20003: 24154.23113771448 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,418 - INFO - Emission for edge 109[1][1]: 17043.891141955606 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,464 - INFO - Emission for edge 109[1][1]: 15621.726989003662 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,548 - INFO - Emission for edge 11: 21019.243337957392 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,651 - INFO - Emission for edge 11: 13706.35994251212 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-15 10:13:04,736 - INFO - Emission for edge 11: 19987.619163341693 with emission class gasoline_euro4 and congestion MEDIUM

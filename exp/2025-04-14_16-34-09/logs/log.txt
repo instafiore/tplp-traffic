@@ -1,0 +1,122 @@
+2025-04-14 16:34:09,617 - INFO - networkFile maps/MapTests/pollution_test.net.xml
+2025-04-14 16:34:10,633 - INFO - computing emissions from E0 to  E2
+2025-04-14 16:34:10,670 - INFO - Emission for edge E0: 48400.56018874812 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,671 - INFO - computing emissions from E0 to  E3
+2025-04-14 16:34:10,694 - INFO - Emission for edge E0: 41761.84290214995 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,694 - INFO - computing emissions from E0 to  None
+2025-04-14 16:34:10,719 - INFO - Emission for edge E0: 42325.088125309914 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,719 - INFO - computing emissions from E1 to  None
+2025-04-14 16:34:10,722 - INFO - Emission for edge E1: 48581.77176607022 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,722 - INFO - computing emissions from E2 to  E1
+2025-04-14 16:34:10,737 - INFO - Emission for edge E2: 36614.45776290873 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,737 - INFO - computing emissions from E2 to  E5
+2025-04-14 16:34:10,755 - INFO - Emission for edge E2: 72020.97592559966 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,755 - INFO - computing emissions from E2 to  None
+2025-04-14 16:34:10,773 - INFO - Emission for edge E2: 72020.97592559966 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,773 - INFO - computing emissions from E3 to  None
+2025-04-14 16:34:10,776 - INFO - Emission for edge E3: 52265.63783850579 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,776 - INFO - computing emissions from E4 to  None
+2025-04-14 16:34:10,789 - INFO - Emission for edge E4: 233346.18277294704 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,789 - INFO - computing emissions from E5 to  None
+2025-04-14 16:34:10,793 - INFO - Emission for edge E5: 57816.09837474047 with emission class gasoline_euro4 and congestion HEAVY
+2025-04-14 16:34:10,793 - INFO - computing emissions from E0 to  E2
+2025-04-14 16:34:10,807 - INFO - Emission for edge E0: 50377.57632747863 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,807 - INFO - computing emissions from E0 to  E3
+2025-04-14 16:34:10,817 - INFO - Emission for edge E0: 28134.938125571425 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,817 - INFO - computing emissions from E0 to  None
+2025-04-14 16:34:10,829 - INFO - Emission for edge E0: 70002.36901883356 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,829 - INFO - computing emissions from E1 to  None
+2025-04-14 16:34:10,832 - INFO - Emission for edge E1: 48581.77176607022 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,832 - INFO - computing emissions from E2 to  E1
+2025-04-14 16:34:10,841 - INFO - Emission for edge E2: 36037.51404845807 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,841 - INFO - computing emissions from E2 to  E5
+2025-04-14 16:34:10,846 - INFO - Emission for edge E2: 56234.99074208574 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,846 - INFO - computing emissions from E2 to  None
+2025-04-14 16:34:10,854 - INFO - Emission for edge E2: 55046.766497495526 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,854 - INFO - computing emissions from E3 to  None
+2025-04-14 16:34:10,857 - INFO - Emission for edge E3: 52265.63783850579 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,857 - INFO - computing emissions from E4 to  None
+2025-04-14 16:34:10,870 - INFO - Emission for edge E4: 233346.18277294704 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,870 - INFO - computing emissions from E5 to  None
+2025-04-14 16:34:10,873 - INFO - Emission for edge E5: 57816.09837474047 with emission class gasoline_euro4 and congestion LIGHT
+2025-04-14 16:34:10,874 - INFO - computing emissions from E0 to  E2
+2025-04-14 16:34:10,893 - INFO - Emission for edge E0: 57336.112146339205 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,893 - INFO - computing emissions from E0 to  E3
+2025-04-14 16:34:10,911 - INFO - Emission for edge E0: 74848.49667567947 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,911 - INFO - computing emissions from E0 to  None
+2025-04-14 16:34:10,929 - INFO - Emission for edge E0: 52120.536689801615 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,929 - INFO - computing emissions from E1 to  None
+2025-04-14 16:34:10,932 - INFO - Emission for edge E1: 48581.77176607022 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,932 - INFO - computing emissions from E2 to  E1
+2025-04-14 16:34:10,945 - INFO - Emission for edge E2: 67112.67694747748 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,945 - INFO - computing emissions from E2 to  E5
+2025-04-14 16:34:10,958 - INFO - Emission for edge E2: 74369.54307905861 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,958 - INFO - computing emissions from E2 to  None
+2025-04-14 16:34:10,970 - INFO - Emission for edge E2: 68734.86952702676 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,970 - INFO - computing emissions from E3 to  None
+2025-04-14 16:34:10,973 - INFO - Emission for edge E3: 52265.63783850579 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,973 - INFO - computing emissions from E4 to  None
+2025-04-14 16:34:10,986 - INFO - Emission for edge E4: 233346.18277294704 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,986 - INFO - computing emissions from E5 to  None
+2025-04-14 16:34:10,990 - INFO - Emission for edge E5: 57816.09837474047 with emission class gasoline_euro4 and congestion MEDIUM
+2025-04-14 16:34:10,990 - INFO - computing emissions from E0 to  E2
+2025-04-14 16:34:11,014 - INFO - Emission for edge E0: 31833.922879519145 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,014 - INFO - computing emissions from E0 to  E3
+2025-04-14 16:34:11,039 - INFO - Emission for edge E0: 41669.156176247394 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,039 - INFO - computing emissions from E0 to  None
+2025-04-14 16:34:11,063 - INFO - Emission for edge E0: 43145.31537230149 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,063 - INFO - computing emissions from E1 to  None
+2025-04-14 16:34:11,066 - INFO - Emission for edge E1: 33508.144543590686 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,066 - INFO - computing emissions from E2 to  E1
+2025-04-14 16:34:11,080 - INFO - Emission for edge E2: 35559.052581445336 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,080 - INFO - computing emissions from E2 to  E5
+2025-04-14 16:34:11,098 - INFO - Emission for edge E2: 51591.79083871076 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,098 - INFO - computing emissions from E2 to  None
+2025-04-14 16:34:11,112 - INFO - Emission for edge E2: 35559.052581445336 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,112 - INFO - computing emissions from E3 to  None
+2025-04-14 16:34:11,115 - INFO - Emission for edge E3: 36211.21131401707 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,115 - INFO - computing emissions from E4 to  None
+2025-04-14 16:34:11,129 - INFO - Emission for edge E4: 173641.43851795053 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,129 - INFO - computing emissions from E5 to  None
+2025-04-14 16:34:11,133 - INFO - Emission for edge E5: 40265.29568217356 with emission class diesel_euro6 and congestion HEAVY
+2025-04-14 16:34:11,133 - INFO - computing emissions from E0 to  E2
+2025-04-14 16:34:11,146 - INFO - Emission for edge E0: 47114.14986185228 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,146 - INFO - computing emissions from E0 to  E3
+2025-04-14 16:34:11,158 - INFO - Emission for edge E0: 50230.09256776236 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,158 - INFO - computing emissions from E0 to  None
+2025-04-14 16:34:11,166 - INFO - Emission for edge E0: 41222.56665658339 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,166 - INFO - computing emissions from E1 to  None
+2025-04-14 16:34:11,169 - INFO - Emission for edge E1: 33508.144543590686 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,169 - INFO - computing emissions from E2 to  E1
+2025-04-14 16:34:11,176 - INFO - Emission for edge E2: 40082.419009319885 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,176 - INFO - computing emissions from E2 to  E5
+2025-04-14 16:34:11,182 - INFO - Emission for edge E2: 35767.58899372346 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,182 - INFO - computing emissions from E2 to  None
+2025-04-14 16:34:11,191 - INFO - Emission for edge E2: 49709.194764199994 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,191 - INFO - computing emissions from E3 to  None
+2025-04-14 16:34:11,194 - INFO - Emission for edge E3: 36211.21131401707 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,194 - INFO - computing emissions from E4 to  None
+2025-04-14 16:34:11,207 - INFO - Emission for edge E4: 173641.43851795053 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,207 - INFO - computing emissions from E5 to  None
+2025-04-14 16:34:11,210 - INFO - Emission for edge E5: 40265.29568217356 with emission class diesel_euro6 and congestion LIGHT
+2025-04-14 16:34:11,211 - INFO - computing emissions from E0 to  E2
+2025-04-14 16:34:11,230 - INFO - Emission for edge E0: 47001.6732057774 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,230 - INFO - computing emissions from E0 to  E3
+2025-04-14 16:34:11,249 - INFO - Emission for edge E0: 43692.07516789026 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,249 - INFO - computing emissions from E0 to  None
+2025-04-14 16:34:11,269 - INFO - Emission for edge E0: 35209.474947274655 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,269 - INFO - computing emissions from E1 to  None
+2025-04-14 16:34:11,272 - INFO - Emission for edge E1: 33508.144543590686 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,272 - INFO - computing emissions from E2 to  E1
+2025-04-14 16:34:11,286 - INFO - Emission for edge E2: 35559.052581445336 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,287 - INFO - computing emissions from E2 to  E5
+2025-04-14 16:34:11,299 - INFO - Emission for edge E2: 53496.48422708809 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,299 - INFO - computing emissions from E2 to  None
+2025-04-14 16:34:11,309 - INFO - Emission for edge E2: 24737.151587695793 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,309 - INFO - computing emissions from E3 to  None
+2025-04-14 16:34:11,312 - INFO - Emission for edge E3: 36211.21131401707 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,312 - INFO - computing emissions from E4 to  None
+2025-04-14 16:34:11,325 - INFO - Emission for edge E4: 173641.43851795053 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,325 - INFO - computing emissions from E5 to  None
+2025-04-14 16:34:11,328 - INFO - Emission for edge E5: 40265.29568217356 with emission class diesel_euro6 and congestion MEDIUM
+2025-04-14 16:34:11,328 - INFO - edgeEmissions: {('E0', 'E2', 'gasoline_euro4', 'HEAVY'): 48400.56018874812, ('E0', 'E3', 'gasoline_euro4', 'HEAVY'): 41761.84290214995, ('E0', None, 'gasoline_euro4', 'HEAVY'): 42325.088125309914, ('E1', None, 'gasoline_euro4', 'HEAVY'): 48581.77176607022, ('E2', 'E1', 'gasoline_euro4', 'HEAVY'): 36614.45776290873, ('E2', 'E5', 'gasoline_euro4', 'HEAVY'): 72020.97592559966, ('E2', None, 'gasoline_euro4', 'HEAVY'): 72020.97592559966, ('E3', None, 'gasoline_euro4', 'HEAVY'): 52265.63783850579, ('E4', None, 'gasoline_euro4', 'HEAVY'): 233346.18277294704, ('E5', None, 'gasoline_euro4', 'HEAVY'): 57816.09837474047, ('E0', 'E2', 'gasoline_euro4', 'LIGHT'): 50377.57632747863, ('E0', 'E3', 'gasoline_euro4', 'LIGHT'): 28134.938125571425, ('E0', None, 'gasoline_euro4', 'LIGHT'): 70002.36901883356, ('E1', None, 'gasoline_euro4', 'LIGHT'): 48581.77176607022, ('E2', 'E1', 'gasoline_euro4', 'LIGHT'): 36037.51404845807, ('E2', 'E5', 'gasoline_euro4', 'LIGHT'): 56234.99074208574, ('E2', None, 'gasoline_euro4', 'LIGHT'): 55046.766497495526, ('E3', None, 'gasoline_euro4', 'LIGHT'): 52265.63783850579, ('E4', None, 'gasoline_euro4', 'LIGHT'): 233346.18277294704, ('E5', None, 'gasoline_euro4', 'LIGHT'): 57816.09837474047, ('E0', 'E2', 'gasoline_euro4', 'MEDIUM'): 57336.112146339205, ('E0', 'E3', 'gasoline_euro4', 'MEDIUM'): 74848.49667567947, ('E0', None, 'gasoline_euro4', 'MEDIUM'): 52120.536689801615, ('E1', None, 'gasoline_euro4', 'MEDIUM'): 48581.77176607022, ('E2', 'E1', 'gasoline_euro4', 'MEDIUM'): 67112.67694747748, ('E2', 'E5', 'gasoline_euro4', 'MEDIUM'): 74369.54307905861, ('E2', None, 'gasoline_euro4', 'MEDIUM'): 68734.86952702676, ('E3', None, 'gasoline_euro4', 'MEDIUM'): 52265.63783850579, ('E4', None, 'gasoline_euro4', 'MEDIUM'): 233346.18277294704, ('E5', None, 'gasoline_euro4', 'MEDIUM'): 57816.09837474047, ('E0', 'E2', 'diesel_euro6', 'HEAVY'): 31833.922879519145, ('E0', 'E3', 'diesel_euro6', 'HEAVY'): 41669.156176247394, ('E0', None, 'diesel_euro6', 'HEAVY'): 43145.31537230149, ('E1', None, 'diesel_euro6', 'HEAVY'): 33508.144543590686, ('E2', 'E1', 'diesel_euro6', 'HEAVY'): 35559.052581445336, ('E2', 'E5', 'diesel_euro6', 'HEAVY'): 51591.79083871076, ('E2', None, 'diesel_euro6', 'HEAVY'): 35559.052581445336, ('E3', None, 'diesel_euro6', 'HEAVY'): 36211.21131401707, ('E4', None, 'diesel_euro6', 'HEAVY'): 173641.43851795053, ('E5', None, 'diesel_euro6', 'HEAVY'): 40265.29568217356, ('E0', 'E2', 'diesel_euro6', 'LIGHT'): 47114.14986185228, ('E0', 'E3', 'diesel_euro6', 'LIGHT'): 50230.09256776236, ('E0', None, 'diesel_euro6', 'LIGHT'): 41222.56665658339, ('E1', None, 'diesel_euro6', 'LIGHT'): 33508.144543590686, ('E2', 'E1', 'diesel_euro6', 'LIGHT'): 40082.419009319885, ('E2', 'E5', 'diesel_euro6', 'LIGHT'): 35767.58899372346, ('E2', None, 'diesel_euro6', 'LIGHT'): 49709.194764199994, ('E3', None, 'diesel_euro6', 'LIGHT'): 36211.21131401707, ('E4', None, 'diesel_euro6', 'LIGHT'): 173641.43851795053, ('E5', None, 'diesel_euro6', 'LIGHT'): 40265.29568217356, ('E0', 'E2', 'diesel_euro6', 'MEDIUM'): 47001.6732057774, ('E0', 'E3', 'diesel_euro6', 'MEDIUM'): 43692.07516789026, ('E0', None, 'diesel_euro6', 'MEDIUM'): 35209.474947274655, ('E1', None, 'diesel_euro6', 'MEDIUM'): 33508.144543590686, ('E2', 'E1', 'diesel_euro6', 'MEDIUM'): 35559.052581445336, ('E2', 'E5', 'diesel_euro6', 'MEDIUM'): 53496.48422708809, ('E2', None, 'diesel_euro6', 'MEDIUM'): 24737.151587695793, ('E3', None, 'diesel_euro6', 'MEDIUM'): 36211.21131401707, ('E4', None, 'diesel_euro6', 'MEDIUM'): 173641.43851795053, ('E5', None, 'diesel_euro6', 'MEDIUM'): 40265.29568217356}

@@ -30,7 +30,7 @@ class CloudLogger(Logger):
         self.__createStream(self.experiment)
         self.__createStream(self.errorStreamName)
 
-    def log(self, message):
+    def log(self, message, level=None):
         print(message)
         self.client.put_log_events(
             logGroupName=LOG_GROUP,

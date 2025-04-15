@@ -1,6 +1,7 @@
-Loading net-file from 'maps/bologna/acosta/run/../netedit/acosta_buslanes.net.xml' ... done (11ms).
-Loading additional-files from 'maps/bologna/acosta/run/../netedit/acosta_vtypes.add.xml' ... done (1ms).
-Loading additional-files from 'maps/bologna/acosta/run/run.med.add.xml' ... done (7ms).
+***Starting server on port 49783 ***
+Loading net-file from 'maps/bologna/acosta/run/../netedit/acosta_buslanes.net.xml' ... done (28ms).
+Loading additional-files from 'maps/bologna/acosta/run/../netedit/acosta_vtypes.add.xml' ... done (0ms).
+Loading additional-files from 'maps/bologna/acosta/run/run.med.add.xml' ... done (9ms).
 Loading done.
 Simulation version 1.20.0 started with time: 0.00.
 Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
