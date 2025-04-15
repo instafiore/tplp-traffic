@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2fbba5c-44f3-4675-8f4a-f631ef8ae925" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asp/last.lp" beforeDir="false" afterPath="$PROJECT_DIR$/asp/last.lp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maps/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/maps/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maps/MapTests/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/maps/MapTests/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maps/MapTests/tripinfo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maps/MapTests/tripinfo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maps/bologna/acosta/run/edge-emissions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maps/bologna/acosta/run/edge-emissions.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maps/bologna/acosta/run/emissionMap" beforeDir="false" afterPath="$PROJECT_DIR$/maps/bologna/acosta/run/emissionMap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maps/bologna/acosta/run/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/maps/bologna/acosta/run/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/asp/Atoms.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/asp/Atoms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/emissions/EdgeEmissionSimulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/emissions/EdgeEmissionSimulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/preprocessors/ASP.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/preprocessors/ASP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/preprocessors/PreProcessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/preprocessors/PreProcessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exp/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python/pyspel" beforeDir="false" afterPath="$PROJECT_DIR$/python/pyspel" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python/pyspel/pyspel.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pyspel/pyspel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/traffic/Problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/traffic/Problem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +182,7 @@
       <workItem from="1743669834861" duration="9514000" />
       <workItem from="1744463496935" duration="18694000" />
       <workItem from="1744623474682" duration="12577000" />
-      <workItem from="1744702821872" duration="13119000" />
+      <workItem from="1744702821872" duration="13233000" />
     </task>
     <servers />
   </component>
