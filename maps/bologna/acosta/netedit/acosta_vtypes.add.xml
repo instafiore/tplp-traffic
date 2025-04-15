@@ -1,0 +1,4 @@
+<routes>
+    <vType vClass="passenger" id="car"  color=".8,.2,.2" accel="2.6" decel="4.5" sigma="0.5" length="5" minGap="1.5" maxSpeed="45" guiShape="passenger/sedan" emissionClass="HBEFA3/PC_G_EU4"/>
+	<vType id="bus" accel="2.6" decel="4.5" sigma="0.5" length="12" minGap="3" maxSpeed="70" emissionClass="HBEFA3/PC_G_EU4" vClass="bus" lcCooperative="0.0"/>
+</routes>

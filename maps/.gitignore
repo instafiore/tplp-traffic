@@ -1,0 +1,4 @@
+sumo_log*.txt
+tripinfos.xml
+*_output.xml
+TAPASCologne-0.32.0

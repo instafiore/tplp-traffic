@@ -1,0 +1,68 @@
+<routes>
+    <!-- Define vehicle types with specific emission classes -->
+    <vType id="gasoline_euro4" vClass="passenger" emissionClass="HBEFA3/PC_G_EU4" length="4.5" maxSpeed="120" accel="2.6" decel="4.5" sigma="0.5"/>
+    <vType id="diesel_euro6" vClass="passenger" emissionClass="HBEFA3/PC_D_EU6" length="4.5" maxSpeed="150" accel="2.6" decel="4.5" sigma="0.5"/>
+
+    <!-- Define a route -->
+    <route id="route0" edges="E0 E2 E5"/>
+<!--    <route id="route0_1" edges="E0"/>-->
+<!--    <route id="route0_2" edges="E2"/>-->
+<!--    <route id="route0_3" edges="E5"/>-->
+    <route id="route1" edges="E4"/>
+<!--    <route id="J1_1" edges=":J1_1"/>-->
+
+<!--    &lt;!&ndash; Define vehicles with assigned types and routes &ndash;&gt;-->
+    <vehicle id="veh01" type="gasoline_euro4" route="route0" depart="0" color="1,0,0">
+        <stop edge="E0" duration="10"/>
+        <stop edge="E2" duration="5"/>
+    </vehicle>
+<!--    <vehicle id="veh02" type="gasoline_euro4" route="route0_2" depart="0" color="0,1,0">-->
+<!--&lt;!&ndash;        <stop edge="E0" duration="10"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <stop edge="E2" duration="5"/>&ndash;&gt;-->
+<!--    </vehicle>-->
+<!--    <vehicle id="veh03" type="gasoline_euro4" route="route0_3" depart="0" color="0,0,1">-->
+<!--&lt;!&ndash;        <stop edge="E0" duration="10"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <stop edge="E2" duration="5"/>&ndash;&gt;-->
+<!--    </vehicle>-->
+
+    <vehicle id="veh04" type="gasoline_euro4" route="route1" depart="0">
+
+    </vehicle>
+
+
+<!--    <vehicle id="veh05" type="gasoline_euro4" route="route0" depart="0">-->
+<!--        <stop edge="E0"  duration="10"/>-->
+<!--        <stop edge="E2"  duration="5"/>-->
+<!--    </vehicle>-->
+<!--    <vehicle id="veh06" type="gasoline_euro4" route="route0" depart="0">-->
+<!--        <stop edge="E0"  duration="10"/>-->
+<!--        <stop edge="E2"  duration="5"/>-->
+<!--    </vehicle>-->
+<!--    <vehicle id="veh07" type="gasoline_euro4" route="route0" depart="0">-->
+<!--        <stop edge="E0"  duration="10"/>-->
+<!--        <stop edge="E2"  duration="5"/>-->
+<!--    </vehicle>-->
+<!--    <vehicle id="veh08" type="gasoline_euro4" route="route0" depart="0">-->
+<!--        <stop edge="E0"  duration="10"/>-->
+<!--        <stop edge="E2"  duration="5"/>-->
+<!--    </vehicle>-->
+<!--    <vehicle id="veh09" type="gasoline_euro4" route="route0" depart="0">-->
+<!--        <stop edge="E0"  duration="10"/>-->
+<!--        <stop edge="E2"  duration="5"/>-->
+<!--    </vehicle>-->
+<!--    <vehicle id="veh010" type="gasoline_euro4" route="route0" depart="0">-->
+<!--        <stop edge="E0"  duration="10"/>-->
+<!--        <stop edge="E2"  duration="5"/>-->
+<!--    </vehicle>-->
+
+<!--    <vehicle id="veh11" type="gasoline_euro4" route="route1" depart="0"/>-->
+<!--    <vehicle id="veh12" type="gasoline_euro4" route="route1" depart="0"/>-->
+<!--    <vehicle id="veh13" type="gasoline_euro4" route="route1" depart="0"/>-->
+<!--    <vehicle id="veh14" type="gasoline_euro4" route="route1" depart="0"/>-->
+<!--    <vehicle id="veh15" type="gasoline_euro4" route="route1" depart="0"/>-->
+<!--    <vehicle id="veh16" type="gasoline_euro4" route="route1" depart="0"/>-->
+<!--    <vehicle id="veh17" type="gasoline_euro4" route="route1" depart="0"/>-->
+<!--    <vehicle id="veh18" type="gasoline_euro4" route="route1" depart="0"/>-->
+<!--    <vehicle id="veh19" type="gasoline_euro4" route="route1" depart="0"/>-->
+<!--    <vehicle id="veh110" type="gasoline_euro4" route="route1" depart="0"/>-->
+</routes>
