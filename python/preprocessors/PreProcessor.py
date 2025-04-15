@@ -48,7 +48,8 @@ class PreProcessor:
         self.__completeNetwork = CityNetwork(net)
         self.__network = SimplifiedCityNetwork(net)
         self.simulation = Simulation(self.__network)
-        self.__HORIZON = 120000
+        # self.__HORIZON = 120000
+        self.__HORIZON = 10
         self.dir = "/".join(sumocfgFile.split("/")[0:-1] + ["solutions", self.__name])
         os.makedirs(self.dir, exist_ok=True)
         self.experimentRadix = f"{self.dir}/{time.time()}"

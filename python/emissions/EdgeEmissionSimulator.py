@@ -197,10 +197,13 @@ class EdgeEmissionSimulator:
         traci.load(["-c", self.sumocfgFile,"--route-files", "maps/MapTests/setup.rou.xml"])
         emissions = 0
         v = "vehicle"
-        self.logger.log(f"computing emissions from {edge} ->  {edgeTo}")
         # print(f"computing emissions from {edge} ->  {edgeTo}")
         if not self.addVehicle(v, congestion, edge, edgeTo, emissionClass):
             return 0
+
+        typeID = traci.vehicle.getTypeID(v)
+        emissionClassTraci = traci.vehicle.getEmissionClass(v)
+        self.logger.log(f"computing emissions from {edge} -> {edgeTo} emissionClass : {emissionClassTraci}")
 
         self.addVehicleForEdgeSimulation(congestion, edge, emissionClass)
 

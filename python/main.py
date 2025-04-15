@@ -31,14 +31,14 @@ def main():
         emissionsMap = dict()
         for key in emissionsMapWithStringKeys:
             tupleKey = tuple(key.split("-"))
-            emissionsMap[tupleKey] = emissionsMapWithStringKeys[key]
+            emissionsMap[tupleKey] = float(emissionsMapWithStringKeys[key])
         logger.log(f"emissionsMap: {emissionsMap}")
 
 
     # preprocessor = PreProcessor(args.networkFile, args.inputFile, args.hasGUI, logger, "preprocessor")
 
     if args.preprocessor == PreProcessorType.ASP:
-        preprocessor = ASPPreProcessor(args.networkFile, args.inputFile, args.hasGUI, logger, args, checkPointFile=args.checkpointFile)
+        preprocessor = ASPPreProcessor(args.networkFile, args.inputFile, args.hasGUI, logger, args, checkPointFile=args.checkpointFile, emissionMap=emissionsMap)
     elif args.preprocessor == PreProcessorType.RANDOM:
         preprocessor = RandomPreProcessor(args.networkFile, args.inputFile, args.hasGUI, logger)
     elif args.preprocessor == PreProcessorType.CUMULATIVE:

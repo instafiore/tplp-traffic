@@ -1,5 +1,5 @@
 import os
-from typing import Dict, Set
+from typing import Dict, Set, Tuple
 
 import traci
 
@@ -19,9 +19,10 @@ ONE_VEHICLE_AT_TIME = True
 
 class ASPPreProcessor(PreProcessor):
 
-    def __init__(self, networkFile, sumocfgFile, hasGUI, logger: CloudLogger, args: Arguments, checkPointFile=None):
+    def __init__(self, networkFile, sumocfgFile, hasGUI, logger: CloudLogger, args: Arguments, checkPointFile=None, emissionMap: Dict[Tuple[str], float]=dict()):
         super(ASPPreProcessor, self).__init__(networkFile, sumocfgFile, hasGUI, logger, "asp")
         self.checkpointStepsFolder = self.experimentRadix + "/"
+        self.emissionMap: Dict[Tuple[str], float] = emissionMap
         os.makedirs(self.checkpointStepsFolder, exist_ok=True)
         self.inputCheckpointFile = checkPointFile
         self.inputCheckpoint = None
@@ -62,12 +63,12 @@ class ASPPreProcessor(PreProcessor):
         solutionOpt: Solution or bool = False
         if IMPROVE:
             problemOpt = Problem(self.simulation, vehiclesInside, newVehicles, previousSolution,
-                                 problemType=ProblemType.COMPUTE_OPTIMUM)
+                                 problemType=ProblemType.COMPUTE_OPTIMUM, emissionMap=self.emissionMap)
             self.__writeEncoding(problemOpt, f"{stepStr}-{newVehiclesStr}-{ProblemType.COMPUTE_OPTIMUM.value}")
             solutionOpt = problemOpt.solve(self.rules, self.logger)
 
         problemBest = Problem(self.simulation, vehiclesInside, newVehicles, previousSolution,
-                              problemType=ProblemType.FIND_BEST)
+                              problemType=ProblemType.FIND_BEST, emissionMap=self.emissionMap)
         self.__writeEncoding(problemBest, f"{stepStr}-{newVehiclesStr}-{ProblemType.FIND_BEST.value}", )
         solutionBest: Solution = problemBest.solve(self.rules, self.logger)
         if not solutionBest.hasAnswer and not solutionBest.isArtificial:

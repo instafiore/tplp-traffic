@@ -1,6 +1,0 @@
-***Starting server on port 49774 ***
-Loading net-file from 'maps/MapTests/pollution_test.net.xml' ... done (3ms).
-Loading done.
-Simulation version 1.20.0 started with time: 0.00.
-Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
-Quitting (on error).

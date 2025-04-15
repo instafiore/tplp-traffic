@@ -21,6 +21,15 @@ class SolutionRoute:
     routeId: str
 
 @atom
+class EmissionMap:
+    # ('10', '13', 'gasoline_euro4', 'HEAVY') = 17879.050473617368
+    edge: str
+    edgeTo: str
+    emissionClass: str
+    congestion: str
+    emissionsInGrams: int
+
+@atom
 class StreetOnRoute:
     streetId: str
     routeId: str

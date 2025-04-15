@@ -1,7 +1,7 @@
 import math
 import sys
 from enum import Enum
-from typing import Dict, List, Set
+from typing import Dict, List, Set, Tuple
 
 import asp.Atoms as ASPAtoms
 import common.constants as constants
@@ -30,7 +30,7 @@ class ProblemType(Enum):
 class Problem:
 
     def __init__(self, sim: Simulation, vehiclesInside: [Vehicle], newVehicles: [Vehicle], prevSolution: Solution,
-                 problemType=ProblemType.COMPUTE_OPTIMUM, optimumToBeat=None):
+                 problemType=ProblemType.COMPUTE_OPTIMUM, optimumToBeat=None, emissionMap: Dict[Tuple[str], float] =dict()):
         self.sim = sim
         self.__vehiclesInside: set = vehiclesInside
         self.__newVehicles: set = newVehicles
@@ -46,7 +46,7 @@ class Problem:
         self.uniqueRoutes = dict()
         self.uniqueStreets: Set[Street] = set()
         self.uniqueRoutesIdMapping: Dict[Route, str] = dict()
-
+        self.emissionMap: Dict[Tuple[str], float] = emissionMap
         tmpIdUniqueRoutes = dict()
         for routes in self.routesByVehicle.values():
             for route in routes:
@@ -193,6 +193,20 @@ class Problem:
 
         return boundsByRoute, maxExits
 
+    def __addEmissionMap(self):
+        for key in self.emissionMap:
+            edge = key[0]
+            edgeTo = key[1]
+            emissionClass = key[2]
+            congestion = key[3]
+
+            emissionsInGrams = math.ceil(self.emissionMap[key] / 1000)
+            self.__aspProblem += ASPAtoms.EmissionMap(edge= edge,
+                                                    edgeTo= edgeTo,
+                                                    emissionClass= emissionClass,
+                                                    congestion= congestion,
+                                                    emissionsInGrams= emissionsInGrams)
+
     def __addRoutesFacts(self):
 
         route: Route
@@ -323,6 +337,7 @@ class Problem:
 
     def __addFacts(self):
 
+        self.__addEmissionMap()
         self.__addRoutesFacts()
         self.__addVehiclesFacts()
         self.__addTimesFacts()
