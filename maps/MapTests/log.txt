@@ -1,0 +1,7 @@
+Loading net-file from 'maps/MapTests/pollution_test.net.xml' ... done (1ms).
+Loading done.
+Simulation version 1.20.0 started with time: 0.00.
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).
+DijkstraRouter answered 1 queries and explored 2.00 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.00ms on average).

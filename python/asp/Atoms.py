@@ -30,6 +30,17 @@ class EmissionMap:
     emissionsInGrams: int
 
 @atom
+class IndexStreetOnRoute:
+    street: str
+    route: str
+    index: int
+
+@atom
+class EmissionClass:
+    vehicle: str
+    classStr: str
+
+@atom
 class StreetOnRoute:
     streetId: str
     routeId: str

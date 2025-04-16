@@ -3,6 +3,8 @@ import sys
 from enum import Enum
 from typing import Dict, List, Set, Tuple
 
+import setuptools
+
 import asp.Atoms as ASPAtoms
 import common.constants as constants
 import common.utilities as utilities
@@ -207,6 +209,22 @@ class Problem:
                                                     congestion= congestion,
                                                     emissionsInGrams= emissionsInGrams)
 
+    def __addIndexStreetOnRoute(self):
+        for routeId in self.uniqueRoutes:
+            r = self.uniqueRoutes[routeId]
+            i = 0
+            for s in r.getStreets():
+                self.__aspProblem += ASPAtoms.IndexStreetOnRoute(street= s.id,
+                                                                 route= routeId,
+                                                                 index= i)
+                i += 1
+
+    def __addEmissionClass(self):
+        for v in self.__vehiclesInside:
+            self.__aspProblem += ASPAtoms.EmissionClass(vehicle= v.id,
+                                                        classStr= v.type)
+
+
     def __addRoutesFacts(self):
 
         route: Route
@@ -337,6 +355,8 @@ class Problem:
 
     def __addFacts(self):
 
+        self.__addEmissionClass()
+        self.__addIndexStreetOnRoute()
         self.__addEmissionMap()
         self.__addRoutesFacts()
         self.__addVehiclesFacts()

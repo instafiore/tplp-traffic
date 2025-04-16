@@ -1,4 +1,6 @@
 <routes>
     <vType vClass="passenger" id="car"  color=".8,.2,.2" accel="2.6" decel="4.5" sigma="0.5" length="5" minGap="1.5" maxSpeed="45" guiShape="passenger/sedan" emissionClass="HBEFA3/PC_G_EU4"/>
 	<vType id="bus" accel="2.6" decel="4.5" sigma="0.5" length="12" minGap="3" maxSpeed="70" emissionClass="HBEFA3/PC_G_EU4" vClass="bus" lcCooperative="0.0"/>
+    <vType id="gasoline_euro4" vClass="passenger" emissionClass="HBEFA3/PC_G_EU4" length="4.5" maxSpeed="120" accel="2.6" decel="4.5" sigma="0.5"/>
+    <vType id="diesel_euro6" vClass="passenger" emissionClass="HBEFA3/PC_D_EU6" length="4.5" maxSpeed="150" accel="2.6" decel="4.5" sigma="0.5"/>
 </routes>
